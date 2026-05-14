@@ -14,10 +14,6 @@ import states.FreeplayMenuCord;
 
 import objects.FunkinSoundTray;
 
-#if android
-import android.content.Context;
-#end
-
 import debug.FPSCounter;
 
 import flixel.graphics.FlxGraphic;
@@ -33,8 +29,12 @@ import openfl.events.Event;
 import openfl.display.StageScaleMode;
 
 import lime.app.Application;
+import lime.system.System as LimeSystem;
 
 import states.TitleState;
+#if COPYSTATE_ALLOWED
+import states.CopyState;
+#end
 
 #if desktop
 import ALConfig;
@@ -42,14 +42,6 @@ import ALConfig;
 
 #if linux
 import lime.graphics.Image;
-#end
-
-// crash handler stuff
-#if CRASH_HANDLER
-import openfl.events.UncaughtErrorEvent;
-
-import haxe.CallStack;
-import haxe.io.Path;
 #end
 
 #if linux
@@ -87,10 +79,22 @@ class Main extends Sprite
 	public static function main():Void
 	{
 		Lib.current.addChild(new Main());
+		#if cpp
+        cpp.NativeGc.enable(true);
+        cpp.NativeGc.run(true);
+        #end
 	}
 	
 	public function new()
 	{
+		#if mobile
+		#if android
+		StorageUtil.requestPermissions();
+		#end
+		Sys.setCwd(StorageUtil.getStorageDirectory());
+		#end
+		backend.CrashHandler.init();
+		
 		super();
 		
 		#if (windows && cpp)
@@ -101,13 +105,6 @@ class Main extends Sprite
 		hxvlc.util.Handle.init();
 		#end
 		
-		// Credits to MAJigsaw77 (he's the og author for this code)
-		#if android
-		Sys.setCwd(Path.addTrailingSlash(Context.getExternalFilesDir()));
-		#elseif ios
-		Sys.setCwd(lime.system.System.applicationStorageDirectory);
-		#end
-		
 		#if LUA_ALLOWED Lua.set_callbacks_function(cpp.Callable.fromStaticFunction(psychlua.CallbackHandler.call)); #end
 		
 		FlxG.save.bind('funkin', CoolUtil.getSavePath());
@@ -115,23 +112,21 @@ class Main extends Sprite
 		Controls.instance = new Controls();
 		ClientPrefs.loadDefaultKeys();
 		
-		addChild(new FNFGame(game.width, game.height, Init, game.framerate, game.framerate, game.skipSplash, game.startFullscreen));
+		addChild(new FNFGame(game.width, game.height, #if COPYSTATE_ALLOWED !CopyState.checkExistingFiles() ? CopyState : #end Init, game.framerate, game.framerate, game.skipSplash, game.startFullscreen));
 		
 		// prevent accept button when alt+enter is pressed
 		FlxG.stage.addEventListener(openfl.events.KeyboardEvent.KEY_DOWN, (e) -> {
 			if (e.keyCode == flixel.input.keyboard.FlxKey.ENTER && e.altKey) e.stopImmediatePropagation();
 		}, false, 100);
 		
-		#if !mobile
 		fpsVar = new FPSCounter(10, 3, 0xFFFFFF);
-		addChild(fpsVar);
+		FlxG.game.addChild(fpsVar);
 		Lib.current.stage.align = "tl";
 		Lib.current.stage.scaleMode = StageScaleMode.NO_SCALE;
 		if (fpsVar != null)
 		{
 			fpsVar.visible = ClientPrefs.data.showFPS;
 		}
-		#end
 		
 		#if linux
 		var icon = Image.fromFile("icon.png");
@@ -143,8 +138,12 @@ class Main extends Sprite
 		FlxG.mouse.visible = false;
 		#end
 		
-		#if CRASH_HANDLER
-		Lib.current.loaderInfo.uncaughtErrorEvents.addEventListener(UncaughtErrorEvent.UNCAUGHT_ERROR, onCrash);
+		#if android
+		FlxG.android.preventDefaultKeys = [BACK];
+		#end
+
+		#if mobile
+		LimeSystem.allowScreenTimeout = ClientPrefs.data.screensaver;
 		#end
 		
 		#if DISCORD_ALLOWED
@@ -156,51 +155,6 @@ class Main extends Sprite
 	{
 		return ClientPrefs.data.shouldPreload ? () -> new Preload() : () -> Type.createInstance(Main.game.initialState, []);
 	}
-	
-	// Code was entirely made by sqirra-rng for their fnf engine named "Izzy Engine", big props to them!!!
-	// very cool person for real they don't get enough credit for their work
-	#if CRASH_HANDLER
-	function onCrash(e:UncaughtErrorEvent):Void
-	{
-		var errMsg:String = "";
-		var path:String;
-		var callStack:Array<StackItem> = CallStack.exceptionStack(true);
-		var dateNow:String = Date.now().toString();
-		
-		dateNow = dateNow.replace(" ", "_");
-		dateNow = dateNow.replace(":", "'");
-		
-		path = "./crash/" + "PsychEngine_" + dateNow + ".txt";
-		
-		for (stackItem in callStack)
-		{
-			switch (stackItem)
-			{
-				case FilePos(s, file, line, column):
-					errMsg += file + " (line " + line + ")\n";
-				default:
-					Sys.println(stackItem);
-			}
-		}
-		
-		errMsg += "\nUncaught Error: "
-			+ e.error
-			+ "\nPlease report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine\n\n> Crash Handler written by: sqirra-rng";
-			
-		if (!FileSystem.exists("./crash/")) FileSystem.createDirectory("./crash/");
-		
-		File.saveContent(path, errMsg + "\n");
-		
-		Sys.println(errMsg);
-		Sys.println("Crash dump saved in " + Path.normalize(path));
-		
-		Application.current.window.alert(errMsg, "Error!");
-		#if DISCORD_ALLOWED
-		DiscordClient.shutdown();
-		#end
-		Sys.exit(1);
-	}
-	#end
 }
 
 class FNFGame extends FlxGame

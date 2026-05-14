@@ -36,6 +36,8 @@ class TitleState extends MusicBeatState
 		
 		FlxG.mouse.visible = false;
 		
+		MobileData.init();
+		
 		if (FlxG.save.data.flashing == null && !FlashingState.leftState)
 		{
 			FlxTransitionableState.skipNextTransIn = true;

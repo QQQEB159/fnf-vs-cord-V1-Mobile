@@ -74,6 +74,9 @@ class Paths
 		
 		// run the garbage collector for good measure lmfao
 		System.gc();
+		#if cpp
+		cpp.NativeGc.run(true);
+		#end
 	}
 	
 	/**
@@ -140,6 +143,9 @@ class Paths
 			if (FileSystem.exists(modded)) return modded;
 		}
 		#end
+		
+		if (library == "mobile")
+			return getSharedPath('mobile/$file');
 		
 		if (library != null) return getLibraryPath(file, library);
 		
@@ -545,7 +551,7 @@ class Paths
 	#if MODS_ALLOWED
 	inline static public function mods(key:String = '')
 	{
-		return '$MODS_DIRECTORY/' + key;
+		return #if mobile Sys.getCwd() + #end '$MODS_DIRECTORY/' + key;
 	}
 	
 	inline static public function modsFont(key:String)
@@ -604,12 +610,33 @@ class Paths
 			var fileToCheck:String = mods(mod + '/' + key);
 			if (FileSystem.exists(fileToCheck)) return fileToCheck;
 		}
-		return '$MODS_DIRECTORY/' + key;
+		return #if mobile Sys.getCwd() + #end '$MODS_DIRECTORY/' + key;
 	}
 	#end
 	
 	public static function loadAnimateAtlas(spr:FlxAnimate, folderOrImg:String, spriteJson:Dynamic = null, animationJson:Dynamic = null)
 	{
 		spr.frames = animate.FlxAnimateFrames.fromAnimate(Paths.getPath('images/$folderOrImg', BINARY, null, true), null, null, null, false, {cacheOnLoad: true});
+	}
+	
+	public static function readDirectory(directory:String):Array<String>
+	{
+		#if MODS_ALLOWED
+		return FileSystem.readDirectory(directory);
+		#else
+		var dirs:Array<String> = [];
+		for(dir in Assets.list().filter(folder -> folder.startsWith(directory)))
+		{
+			@:privateAccess
+			for(library in lime.utils.Assets.libraries.keys())
+			{
+				if(library != 'default' && Assets.exists('$library:$dir') && (!dirs.contains('$library:$dir') || !dirs.contains(dir)))
+					dirs.push('$library:$dir');
+				else if(Assets.exists(dir) && !dirs.contains(dir))
+					dirs.push(dir);
+			}
+		}
+		return dirs.map(dir -> dir.substr(dir.lastIndexOf("/") + 1));
+		#end
 	}
 }

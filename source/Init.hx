@@ -62,6 +62,8 @@ class Init extends FlxState
 		
 		FlxG.mouse.visible = false;
 		
+		MobileData.init();
+		
 		if (FlxG.save.data.streamerMode == null)
 		{
 			Main.game.initialState = CopyrightState;

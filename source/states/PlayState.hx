@@ -264,9 +264,9 @@ class PlayState extends MusicBeatState
 	public var opponentCameraOffset:Array<Float> = null;
 	public var girlfriendCameraOffset:Array<Float> = null;
 	
-	#if desktop
-	// Discord RPC variables
 	var storyDifficultyText:String = "";
+	#if DISCORD_ALLOWED
+	// Discord RPC variables
 	var detailsText:String = "";
 	var detailsPausedText:String = "";
 	#end
@@ -343,9 +343,8 @@ class PlayState extends MusicBeatState
 		Conductor.mapBPMChanges(SONG);
 		Conductor.bpm = SONG.bpm;
 		
-		#if desktop
 		storyDifficultyText = Difficulty.getString();
-		
+		#if DISCORD_ALLOWED
 		// String that contains the mode defined here so it isn't necessary to call changePresence for each mode
 		if (isStoryMode) detailsText = "Story Mode: " + WeekData.getCurrentWeek().weekName;
 		else detailsText = "Freeplay";

@@ -30,7 +30,7 @@ class Preload extends MusicBeatState
 	
 	static final soundsToPreload:Array<String> = [
 		"soundtray/beep",
-		"soundtray/VolMax"
+		"soundtray/VolMAX"
 	];
 	
 	static final imagesToPreload:Array<String> = [];

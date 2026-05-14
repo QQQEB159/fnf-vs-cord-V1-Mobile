@@ -120,7 +120,7 @@ class Main extends Sprite
 		}, false, 100);
 		
 		fpsVar = new FPSCounter(10, 3, 0xFFFFFF);
-		FlxG.game.addChild(fpsVar);
+		addChild(fpsVar);
 		Lib.current.stage.align = "tl";
 		Lib.current.stage.scaleMode = StageScaleMode.NO_SCALE;
 		if (fpsVar != null)
@@ -149,6 +149,10 @@ class Main extends Sprite
 		#if DISCORD_ALLOWED
 		DiscordClient.prepare();
 		#end
+		
+		FlxG.signals.gameResized.add(function (w, h) {
+			if (fpsVar != null) fpsVar.positionFPS(10, 3, Math.min(Lib.current.stage.stageWidth / FlxG.width, Lib.current.stage.stageHeight / FlxG.height));
+		});
 	}
 	
 	public static function getFirstState():NextState

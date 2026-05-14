@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="mash.png" width="2658" height="275">
+	<SubTexture name="mashidle instance 10000" x="2134" y="1" width="523" height="273" rotated="true" frameX="-2" frameY="-10" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10001" x="2134" y="1" width="523" height="273" rotated="true" frameX="-2" frameY="-10" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10002" x="1" y="1" width="522" height="268" rotated="true" frameX="-5" frameY="-11" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10003" x="1" y="1" width="522" height="268" rotated="true" frameX="-5" frameY="-11" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10004" x="528" y="1" width="528" height="268" rotated="true" frameX="-2" frameY="-5" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10005" x="528" y="1" width="528" height="268" rotated="true" frameX="-2" frameY="-5" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10006" x="1061" y="1" width="531" height="268" rotated="true" frameX="-1" frameY="-2" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10007" x="1061" y="1" width="531" height="268" rotated="true" frameX="-1" frameY="-2" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10008" x="1597" y="1" width="532" height="268" rotated="true" frameX="-1" frameY="-1" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10009" x="1597" y="1" width="532" height="268" rotated="true" frameX="-1" frameY="-1" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10010" x="1597" y="1" width="532" height="268" rotated="true" frameX="-1" frameY="-1" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10011" x="1597" y="1" width="532" height="268" rotated="true" frameX="-1" frameY="-1" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10012" x="1597" y="1" width="532" height="268" rotated="true" frameX="-1" frameY="-1" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10013" x="1597" y="1" width="532" height="268" rotated="true" frameX="-1" frameY="-1" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10014" x="1597" y="1" width="532" height="268" rotated="true" frameX="-1" frameY="-1" frameWidth="280" frameHeight="538"/>
+	<SubTexture name="mashidle instance 10015" x="1597" y="1" width="532" height="268" rotated="true" frameX="-1" frameY="-1" frameWidth="280" frameHeight="538"/>
+</TextureAtlas>

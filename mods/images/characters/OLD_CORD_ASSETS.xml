@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="OLD_CORD_ASSETS.png" width="5490" height="585">
+	<SubTexture name="Cord Idle instance 10000" x="1207" y="1" width="434" height="537" frameX="-102" frameY="-48" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Idle instance 10001" x="774" y="1" width="430" height="536" frameX="-104" frameY="-49" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Idle instance 10002" x="1644" y="1" width="423" height="541" frameX="-106" frameY="-44" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Idle instance 10003" x="2070" y="1" width="415" height="543" frameX="-109" frameY="-42" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Idle instance 10004" x="2488" y="1" width="411" height="556" frameX="-110" frameY="-29" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Idle instance 10005" x="2902" y="1" width="402" height="563" frameX="-116" frameY="-22" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Left instance 10007" x="3691" y="1" width="380" height="567" frameX="-58" frameY="-16" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Left instance 10006" x="3307" y="1" width="381" height="564" frameX="-55" frameY="-19" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Up instance 10009" x="4867" y="1" width="309" height="581" frameX="-141" frameY="-2" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Up instance 10008" x="5179" y="1" width="310" height="583" frameX="-143" frameY="-0" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Right instance 10011" x="4074" y="1" width="390" height="572" frameX="-102" frameY="-12" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Right instance 10010" x="4467" y="1" width="397" height="573" frameX="-101" frameY="-11" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Down instance 10013" x="388" y="1" width="383" height="440" frameX="-113" frameY="-146" frameWidth="600" frameHeight="600"/>
+	<SubTexture name="Cord Down instance 10012" x="1" y="1" width="384" height="439" frameX="-114" frameY="-147" frameWidth="600" frameHeight="600"/>
+</TextureAtlas>

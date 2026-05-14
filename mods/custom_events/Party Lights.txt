@@ -1,0 +1,8 @@
+only value 1 works STUUPID
+
+0 == white
+1 == blue
+2 == teal
+3 == pink
+4 == red
+5 == orange

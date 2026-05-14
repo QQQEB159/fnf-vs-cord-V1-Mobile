@@ -1,0 +1,46 @@
+{
+	"storyName": "Curiosity Killed the Cat",
+	"hideFreeplay": false,
+	"weekBackground": "cat",
+	"weekBefore": "weekdate",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"cat",
+		"boyfriend",
+		""
+	],
+
+	"leftCharacter": {
+		"img": "cat"
+	},
+
+	"rightCharacter": {
+		"img": "boyfriend"
+	},
+	"icons": "icon3",
+	"gradient": "gradient2",
+	"storyBG": "bg0",
+	"songs": [
+		[
+			"cat",
+			"cat",
+			[
+				235,
+				155,
+				151
+			]
+		],
+		[
+			"Catus",
+			"catmix",
+			[
+				135,
+				115,
+				151
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Cat"
+}

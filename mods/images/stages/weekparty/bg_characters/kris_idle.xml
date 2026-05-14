@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="kris_idle.png" width="385" height="2160">
+	<SubTexture name="krisidle instance 10000" x="1" y="722" width="382" height="716" frameX="-0" frameY="-0" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10001" x="1" y="722" width="382" height="716" frameX="-0" frameY="-0" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10002" x="1" y="722" width="382" height="716" frameX="-0" frameY="-0" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10003" x="1" y="722" width="382" height="716" frameX="-0" frameY="-0" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10004" x="1" y="1" width="383" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10005" x="1" y="1" width="383" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10006" x="1" y="1" width="383" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10007" x="1" y="1" width="383" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10008" x="1" y="1443" width="382" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10009" x="1" y="1443" width="382" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10010" x="1" y="1443" width="382" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10011" x="1" y="1443" width="382" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10012" x="1" y="1" width="383" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10013" x="1" y="1" width="383" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10014" x="1" y="1" width="383" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+	<SubTexture name="krisidle instance 10015" x="1" y="1" width="383" height="716" frameX="-0" frameY="-1" frameWidth="383" frameHeight="717"/>
+</TextureAtlas>

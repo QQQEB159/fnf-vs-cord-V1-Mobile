@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="soundButtons.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pause instance 10000" x="5" y="5" width="70" height="91"/>
+	<SubTexture name="play instance 10000" x="80" y="5" width="74" height="92"/>
+</TextureAtlas>

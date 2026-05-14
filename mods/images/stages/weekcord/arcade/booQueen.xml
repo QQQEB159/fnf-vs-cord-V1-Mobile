@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="booQueen.png" width="4657" height="601">
+	<SubTexture name="booque instance 10000" x="1774" y="1" width="569" height="599" frameX="-17" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10001" x="1774" y="1" width="569" height="599" frameX="-17" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10002" x="2348" y="1" width="569" height="599" frameX="-17" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10003" x="2348" y="1" width="569" height="599" frameX="-17" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10004" x="1" y="1" width="586" height="599" frameX="-0" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10005" x="1" y="1" width="586" height="599" frameX="-0" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10006" x="4070" y="1" width="586" height="598" frameX="-0" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10007" x="4070" y="1" width="586" height="598" frameX="-0" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10008" x="2922" y="1" width="569" height="599" frameX="-17" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10009" x="2922" y="1" width="569" height="599" frameX="-17" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10010" x="3496" y="1" width="569" height="599" frameX="-17" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10011" x="3496" y="1" width="569" height="599" frameX="-17" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10012" x="592" y="1" width="586" height="599" frameX="-0" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10013" x="592" y="1" width="586" height="599" frameX="-0" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10014" x="1183" y="1" width="586" height="599" frameX="-0" frameY="-1" frameWidth="590" frameHeight="603"/>
+	<SubTexture name="booque instance 10015" x="1183" y="1" width="586" height="599" frameX="-0" frameY="-1" frameWidth="590" frameHeight="603"/>
+</TextureAtlas>

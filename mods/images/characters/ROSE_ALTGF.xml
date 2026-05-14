@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="ROSE_ALTGF.png" width="2171" height="2471">
+	<SubTexture name="sad instance 10000" x="1742" y="1840" width="416" height="597" frameX="-0" frameY="-12" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10001" x="1742" y="1840" width="416" height="597" frameX="-0" frameY="-12" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10002" x="437" y="1244" width="416" height="609" frameX="-0" frameY="-0" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10003" x="437" y="1244" width="416" height="609" frameX="-0" frameY="-0" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10004" x="1747" y="616" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10005" x="1747" y="616" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10006" x="1747" y="1228" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10007" x="1747" y="1228" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10008" x="1" y="1863" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10009" x="1" y="1863" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10010" x="422" y="1863" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10011" x="422" y="1863" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10012" x="1747" y="1228" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10013" x="1747" y="1228" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10014" x="1" y="1863" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10015" x="1" y="1863" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10016" x="422" y="1863" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="sad instance 10017" x="422" y="1863" width="416" height="607" frameX="-0" frameY="-2" frameWidth="416" frameHeight="610"/>
+	<SubTexture name="speakeridle-0alt instance 10000" x="1308" y="616" width="434" height="609" frameX="-0" frameY="-9" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10001" x="1308" y="616" width="434" height="609" frameX="-0" frameY="-7" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10002" x="868" y="1238" width="435" height="612" frameX="-1" frameY="-3" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10003" x="868" y="1238" width="435" height="612" frameX="-1" frameY="-3" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10004" x="436" y="1" width="433" height="617" frameX="-3" frameY="-1" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10005" x="436" y="1" width="433" height="617" frameX="-3" frameY="-1" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10006" x="1" y="1" width="430" height="618" frameX="-2" frameY="-0" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10007" x="1" y="1" width="430" height="618" frameX="-2" frameY="-0" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10008" x="1" y="624" width="429" height="616" frameX="-1" frameY="-1" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10009" x="1" y="624" width="429" height="616" frameX="-1" frameY="-1" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10010" x="1" y="624" width="429" height="616" frameX="-1" frameY="-1" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10011" x="435" y="624" width="428" height="615" frameX="-1" frameY="-2" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10012" x="435" y="624" width="428" height="615" frameX="-1" frameY="-2" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10013" x="1308" y="1" width="428" height="610" frameX="-1" frameY="-7" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10014" x="1308" y="1" width="428" height="610" frameX="-1" frameY="-7" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10015" x="1308" y="1230" width="429" height="608" frameX="-0" frameY="-11" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10016" x="1308" y="1230" width="429" height="608" frameX="-0" frameY="-9" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10017" x="1277" y="1855" width="429" height="605" frameX="-0" frameY="-9" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10018" x="1277" y="1855" width="429" height="605" frameX="-0" frameY="-9" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10019" x="843" y="1858" width="429" height="606" frameX="-0" frameY="-9" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10020" x="843" y="1858" width="429" height="606" frameX="-0" frameY="-9" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10021" x="1741" y="1" width="429" height="610" frameX="-0" frameY="-4" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10022" x="1741" y="1" width="429" height="610" frameX="-0" frameY="-4" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10023" x="874" y="620" width="429" height="613" frameX="-0" frameY="-2" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10024" x="874" y="620" width="429" height="613" frameX="-0" frameY="-2" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10025" x="874" y="1" width="429" height="614" frameX="-1" frameY="-2" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10026" x="874" y="1" width="429" height="614" frameX="-1" frameY="-2" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10027" x="874" y="1" width="429" height="614" frameX="-1" frameY="-2" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10028" x="1" y="1245" width="431" height="613" frameX="-0" frameY="-4" frameWidth="437" frameHeight="620"/>
+	<SubTexture name="speakeridle-0alt instance 10029" x="1" y="1245" width="431" height="613" frameX="-0" frameY="-4" frameWidth="437" frameHeight="620"/>
+</TextureAtlas>

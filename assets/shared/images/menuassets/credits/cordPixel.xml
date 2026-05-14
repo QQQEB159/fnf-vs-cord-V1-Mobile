@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="cordPixel.png" width="284" height="23">
+	<SubTexture name="Idle0000" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0001" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0002" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0003" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0004" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0005" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0006" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0007" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0008" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Idle0009" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0000" x="111" y="1" width="19" height="21" frameX="-2" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0001" x="111" y="1" width="19" height="21" frameX="-2" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0002" x="133" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0003" x="133" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0004" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0005" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0006" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0007" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0008" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Blink0009" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0000" x="199" y="1" width="18" height="21" frameX="-3" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0001" x="199" y="1" width="18" height="21" frameX="-3" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0002" x="199" y="1" width="18" height="21" frameX="-3" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0003" x="220" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0004" x="220" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0005" x="220" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0006" x="241" y="1" width="20" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0007" x="241" y="1" width="20" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0008" x="241" y="1" width="20" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0009" x="264" y="1" width="19" height="21" frameX="-2" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0010" x="264" y="1" width="19" height="21" frameX="-2" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Run0011" x="264" y="1" width="19" height="21" frameX="-2" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0000" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0001" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0002" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0003" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0004" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0005" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0006" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0007" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Jump0008" x="175" y="1" width="21" height="21" frameX="-2" frameY="-0" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0000" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0001" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0002" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0003" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0004" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0005" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0006" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0007" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0008" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0009" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0010" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0011" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0012" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0013" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0014" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0015" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0016" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0017" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0018" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0019" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0020" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0021" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0022" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0023" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0024" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0025" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0026" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0027" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0028" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0029" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0030" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0031" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0032" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0033" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0034" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0035" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0036" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0037" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0038" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0039" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0040" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0041" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0042" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0043" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0044" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0045" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0046" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0047" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0048" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0049" x="1" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0050" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0051" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0052" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0053" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0054" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0055" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0056" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0057" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0058" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0059" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0060" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0061" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0062" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0063" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0064" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0065" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0066" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0067" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0068" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0069" x="31" y="1" width="27" height="11" frameX="-1" frameY="-11" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0070" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0071" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0072" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0073" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0074" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0075" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0076" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0077" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0078" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0079" x="61" y="1" width="23" height="15" frameX="-0" frameY="-7" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0080" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0081" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0082" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0083" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0084" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0085" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0086" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0087" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0088" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0089" x="87" y="1" width="21" height="18" frameX="-2" frameY="-4" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0090" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0091" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0092" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0093" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0094" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0095" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0096" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0097" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0098" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0099" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0100" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0101" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0102" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0103" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0104" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0105" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0106" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0107" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0108" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0109" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+	<SubTexture name="Start Anim0110" x="154" y="1" width="18" height="21" frameX="-3" frameY="-1" frameWidth="28" frameHeight="22"/>
+</TextureAtlas>

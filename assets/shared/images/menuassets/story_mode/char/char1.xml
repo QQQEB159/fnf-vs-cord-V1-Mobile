@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="char1.png" width="1020" height="845">
+	<SubTexture name="idle instance 10000" x="1" y="1" width="310" height="441" frameX="-39" frameY="-0" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10001" x="1" y="1" width="310" height="441" frameX="-39" frameY="-0" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10002" x="316" y="1" width="309" height="435" frameX="-43" frameY="-6" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10003" x="316" y="1" width="309" height="435" frameX="-43" frameY="-6" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10004" x="728" y="428" width="291" height="391" frameX="-62" frameY="-47" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10005" x="728" y="428" width="291" height="391" frameX="-62" frameY="-47" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10006" x="434" y="441" width="289" height="399" frameX="-61" frameY="-40" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10007" x="434" y="441" width="289" height="399" frameX="-61" frameY="-40" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10008" x="1" y="447" width="428" height="397" rotated="true" frameX="-0" frameY="-12" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10009" x="1" y="447" width="428" height="397" rotated="true" frameX="-0" frameY="-12" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10010" x="630" y="1" width="389" height="422" frameX="-5" frameY="-15" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10011" x="630" y="1" width="389" height="422" frameX="-5" frameY="-15" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10012" x="728" y="428" width="291" height="391" frameX="-62" frameY="-47" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10013" x="728" y="428" width="291" height="391" frameX="-62" frameY="-47" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10014" x="434" y="441" width="289" height="399" frameX="-61" frameY="-40" frameWidth="397" frameHeight="442"/>
+	<SubTexture name="idle instance 10015" x="434" y="441" width="289" height="399" frameX="-61" frameY="-40" frameWidth="397" frameHeight="442"/>
+</TextureAtlas>

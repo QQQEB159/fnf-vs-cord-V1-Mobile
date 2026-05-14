@@ -1,0 +1,53 @@
+{
+	"storyName": "Kitty Battle of Wits",
+	"hideFreeplay": false,
+	"weekBackground": "cord",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"marilyn",
+		"feline",
+		""
+	],
+	"leftCharacter": {
+		"img": "marilyn",
+		"offsets": [0,10]
+	},
+	"rightCharacter": {
+		"img": "feline",
+		"offsets": [-40,0]
+	},
+	"icons": "icon1",
+	"gradient": "gradient1",
+	"storyBG": "bg1",
+	"songs": [
+		[
+			"babe",
+			"marilyn",
+			[
+				115,
+				175,
+				255
+			]
+		],
+		[
+			"dejala",
+			"marilyn",
+			[
+				195,
+				115,
+				255
+			]
+		],
+		[
+			"milk duds",
+			"marilyn",
+			[
+				55,
+				55,
+				155
+			]
+		]
+	],
+	"weekName": "Kitty Battle"
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WADE_BARK.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bark instance 10000" x="5" y="5" width="40" height="75" frameX="-113" frameY="-67" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10001" x="50" y="5" width="99" height="126" frameX="-21" frameY="-9" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10002" x="154" y="5" width="70" height="137" frameX="-8" frameY="0" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10003" x="154" y="5" width="70" height="137" frameX="-8" frameY="0" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10004" x="229" y="5" width="49" height="139" frameX="-2" frameY="-1" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10005" x="229" y="5" width="49" height="139" frameX="-2" frameY="-1" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10006" x="229" y="5" width="49" height="139" frameX="-2" frameY="-1" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10007" x="283" y="5" width="38" height="135" frameX="0" frameY="-3" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10008" x="283" y="5" width="38" height="135" frameX="0" frameY="-3" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10009" x="326" y="5" width="114" height="65" frameX="-19" frameY="-45" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10010" x="326" y="5" width="114" height="65" frameX="-19" frameY="-45" frameWidth="153" frameHeight="142"/>
+	<SubTexture name="bark instance 10011" x="326" y="5" width="114" height="65" frameX="-19" frameY="-45" frameWidth="153" frameHeight="142"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"position": [
+		-120,
+		120
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "BF_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				-12
+			],
+			"anim": "talk",
+			"idle_name": "bf_norm instance 1",
+			"loop_name": "bf_norm instance 1"
+		},
+		{
+			"loop_offsets": [
+				26,
+				-20
+			],
+			"anim": "cocky",
+			"idle_offsets": [
+				26,
+				-20
+			],
+			"loop_name": "bf_cocky instance 1",
+			"idle_name": "bf_cocky instance 1"
+		},
+		{
+			"loop_offsets": [
+				-40,
+				-8
+			],
+			"anim": "peace",
+			"idle_offsets": [
+				-40,
+				-8
+			],
+			"loop_name": "bf_peace instance 1",
+			"idle_name": "bf_peace instance 1"
+		},
+		{
+			"loop_offsets": [
+				2,
+				-12
+			],
+			"anim": "silent",
+			"idle_offsets": [
+				2,
+				-12
+			],
+			"loop_name": "bf_silent instance 1",
+			"idle_name": "bf_silent instance 1"
+		},
+		{
+			"loop_offsets": [
+				2,
+				-12
+			],
+			"anim": "stupid",
+			"idle_offsets": [
+				2,
+				-12
+			],
+			"loop_name": "bf_stupid instance 1",
+			"idle_name": "bf_silent instance 1"
+		},
+		{
+			"loop_offsets": [
+				1,
+				-12
+			],
+			"anim": "wtf",
+			"idle_offsets": [
+				1,
+				-12
+			],
+			"loop_name": "bf_wtf instance 1",
+			"idle_name": "bf_wtf instance 1"
+		}
+	]
+}

@@ -1,0 +1,214 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				25
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "char/.marilyn sprites/idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				25
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "char/.marilyn sprites/idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "char/.marilyn sprites/upsketch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "char/.marilyn sprites/leftsketch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "char/.marilyn sprites/down sketch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "char/.marilyn sprites/right skrthc",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-4
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "char/.marilyn sprites/laughing",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				20,
+				20,
+				20
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				25
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "char/.marilyn sprites/stressedidle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				25
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "char/.marilyn sprites/stressedidle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marilyn",
+	"position": [
+		-100,
+		-110
+	],
+	"healthicon": "marilyn",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		165,
+		205
+	],
+	"camera_position": [
+		330,
+		410
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

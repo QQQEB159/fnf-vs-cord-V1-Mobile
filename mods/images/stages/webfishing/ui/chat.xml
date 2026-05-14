@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chat.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="text0 instance 10000" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10001" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10002" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10003" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10004" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10005" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10006" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10007" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10008" x="5" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10009" x="327" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10010" x="327" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10011" x="327" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10012" x="649" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10013" x="649" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10014" x="649" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10015" x="649" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10016" x="649" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10017" x="649" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10018" x="649" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10019" x="649" y="5" width="317" height="175" frameX="0" frameY="-10" frameWidth="317" frameHeight="185"/>
+	<SubTexture name="text0 instance 10020" x="971" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10021" x="971" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10022" x="971" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10023" x="971" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10024" x="971" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10025" x="971" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10026" x="1293" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10027" x="1293" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10028" x="1293" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10029" x="1293" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10030" x="1293" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10031" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10032" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10033" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10034" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10035" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10036" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10037" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10038" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10039" x="1615" y="5" width="317" height="185"/>
+	<SubTexture name="text0 instance 10040" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10041" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10042" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10043" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10044" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10045" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10046" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10047" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10048" x="5" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10049" x="327" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10050" x="327" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10051" x="327" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10052" x="327" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10053" x="327" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10054" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10055" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10056" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10057" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10058" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10059" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10060" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10061" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10062" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10063" x="649" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10064" x="971" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10065" x="971" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10066" x="971" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10067" x="971" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10068" x="1293" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10069" x="1293" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10070" x="1293" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10071" x="1293" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10072" x="1293" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10073" x="1293" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10074" x="1615" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10075" x="1615" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10076" x="1615" y="195" width="317" height="185"/>
+	<SubTexture name="text0 instance 10077" x="5" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10078" x="5" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10079" x="5" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10080" x="5" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10081" x="5" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10082" x="327" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10083" x="327" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10084" x="327" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10085" x="649" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10086" x="649" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10087" x="649" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10088" x="649" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10089" x="649" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10090" x="649" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10091" x="971" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10092" x="971" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10093" x="971" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10094" x="1293" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10095" x="1293" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10096" x="1293" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10097" x="1293" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10098" x="1293" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10099" x="1293" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10100" x="1293" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10101" x="1293" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10102" x="1615" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10103" x="1615" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10104" x="1615" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10105" x="1615" y="385" width="317" height="185"/>
+	<SubTexture name="text0 instance 10106" x="5" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10107" x="5" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10108" x="327" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10109" x="327" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10110" x="327" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10111" x="327" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10112" x="649" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10113" x="649" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10114" x="649" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10115" x="649" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10116" x="649" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10117" x="649" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10118" x="971" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10119" x="971" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10120" x="971" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10121" x="971" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10122" x="971" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10123" x="971" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10124" x="971" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10125" x="971" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10126" x="1293" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10127" x="1293" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10128" x="1293" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10129" x="1615" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10130" x="1615" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10131" x="1615" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10132" x="1615" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10133" x="1615" y="575" width="317" height="185"/>
+	<SubTexture name="text0 instance 10134" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10135" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10136" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10137" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10138" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10139" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10140" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10141" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10142" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10143" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10144" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10145" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10146" x="5" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10147" x="327" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10148" x="327" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10149" x="327" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10150" x="327" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10151" x="327" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10152" x="327" y="765" width="317" height="185"/>
+	<SubTexture name="text0 instance 10153" x="327" y="765" width="317" height="185"/>
+</TextureAtlas>

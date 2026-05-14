@@ -1,0 +1,363 @@
+[
+	{
+		"category": "Gallery",
+		"entries": 
+		[
+			{
+				"description": "★ Welcome to the Gallery! ★\nMost images here may contain spoilers, so make sure to play through the mod first.\nOtherwise, enjoy your stay!",
+				"image": "logo"
+			}
+		]
+	},
+	{
+		"category": "Characters",
+		"entries": 
+		[
+			{
+				"description": "Cord is a black cat (appears dark purple under light), in his early 20s and is the opponent in his week!\nCord also plays a part in the Carefree level!",
+				"image": "characters/cord"
+			},
+			{
+				"description": "Rose is a black cat (appears dark purple under light), in her early 20s and appears in Kitty Battle!\nShe has very similar details to Cord as she stems from a 'genderswapped' version of him.\nDespite that, she is her own seperate character!",
+				"image": "characters/rose"
+			},
+			{
+				"description": "Marilyn is the opponent you fight against in Kitty Battle!\nShe's in her late 20s and dresses \"gothly\". She is also the older sister to Melanie!",
+				"image": "characters/marilyn"
+			},
+			{
+				"description": "This is Molly, a very pink cat!\nShe is the main playable character for Kitty Battle!",
+				"image": "characters/feline"
+			},
+			{
+				"description": "Melanie is a shop clerk, who's shown in the Freeplay Menu! \nShe's in her early 20s and can be a bit bossy sometimes. She is also the younger sister to Marilyn!",
+				"image": "characters/melanie"
+			},
+			{
+				"description": "Cat...I don't know why he's here.\nMost powerful Vs Cord character.",
+				"image": "characters/cat"
+			}
+		]
+	},
+	{
+		"category": "Behind the Scenes",
+		"entries": 
+		[
+			{
+				"description": "When developing Vs Cord, I never thought it would get to where it is now. I started working on the mod back in july of 2021 with a small team of 4, and it was going in a completely different direction.\nA few months later, the first batch of songs were made and the demo released on Dec 23, 2021.",
+				"image": "behindTheScenes/cordDemo"
+			},
+			{
+				"description": "Through 2021-2023, the almost the entire mod was made by me, including art and code. When 2024 came around, we decided to remake almost everything and polish it up, since many assets and songs were outdated.\nIn early 2023, 'Miau' was the first song to get remastered, even before we decided to polish everything.",
+				"image": "behindTheScenes/cord"
+			},
+			{
+				"description": "From that point on, slowly but surely, every song would be remade (except catus for now), all the art would be polished, and more people would help with the mod. Turning it into what it is Today.",
+				"image": "behindTheScenes/cord2"
+			},
+			{
+				"description": "'Babe' was a replaced test song for Vs Cord in early 2023, the key difference is that it was shorter and used Boyfriends chromatic instead (Press space to listen). By late 2023, 'Dejala' was made as a joke song\nwhich ended up creating the whole \"Kitty Battle\" idea.",
+				"image": "behindTheScenes/kittyBattleSketch",
+				"audio": "oldBabe"
+			},
+			{
+				"description": "'Dejala' was meant to be an extra song, seperated from 'Babe' for a short time, but since it used the same opponent chromatic, we thought it would make sense to put it in a week. With that, 'Babe' got remastered,\nand 'Milk Duds' was created a few months after.",
+				"image": "behindTheScenes/kittyBattle"
+			},
+			{
+				"description": "In my eyes, 'Carefree' had the best glowup out of all the other songs in the mod, even if its not canon to the story. The original level was referencing 'Heartbass' from \"The Date Week\", but after things, I wanted to change the vibe up completely and make it more of a tribute to my friends instead.",
+				"image": "behindTheScenes/carefree"
+			},
+			{
+				"description": "The cat week has an interesting backstory... While developing Vs Cord in 2021, I had an idea to make a level\nwhere you battle against the cat emoji. I told Nyamukoneko (Composer) about it and not long after, a test song was made for it, which makes it the first ever Vs Cord song.",
+				"image": "behindTheScenes/cat"
+			},
+			{
+				"description": "That being said, it wasn't supposed to be for Vs Cord. It was going to be its own short mod. There was a build\nbut it's partially lost media, as its on my old computer hard drives. All I remember is that BF and GF would both be cats (no GF sprite was ever made).",
+				"image": "behindTheScenes/firstCordSong",
+				"audio": "firstVsCordsong | 145"
+			},
+			{
+				"description": "Catus is strange. The song is around 4-5 years old, and was meant for a different mod. Not sure what happened to the other mod, but the song got edited and repurposed for this one instead. It's also the only song in Vs Cord that never got revamped. Hopefully it will next update...!",
+				"image": "behindTheScenes/catus"
+			},
+			{
+				"description": "When 'Webfishing' first came out, I found it really enjoyable. So much so that I made an unfinished FNF mod\nabout it (and was the first). I didnt think much of the level, but after I posted it, it became my most popular post on youtube. After that, I just decided to put it in this mod for funsies.",
+				"image": "behindTheScenes/catch"
+			},
+			{
+				"description": "The main menu was a bit difficult to make. Throughout the mods history, I've remade the menu countless times. I think I might be a perfectionist...\nThe other ideas I had for main menus felt too basic and unoriginal.",
+				"image": "behindTheScenes/mainMenu"
+			},
+			{
+				"description": "To get the transitions to work, I had to recreate the machine in blender, and make a tiny animation of it going towards the screen. After that, I imported some of the frames in adobe, traced them, and finalized them with a bit of help.",
+				"image": "behindTheScenes/blender"
+			},
+			{
+				"description": "Freeplay was tough to manage. Like the main menu, the freeplay menu had way too many attempts at it that just didnt work. Thankfully, this one did, but it took a long time to perfect.",
+				"image": "behindTheScenes/freeplay"
+			}
+		]
+	},
+	{
+		"category": "Development",
+		"entries": 
+		[
+			{
+				"description": "Cord over the years! This isn't *every* version of Cord, but in my mind they were the most memorable while making this mod.",
+				"image": "development/oldCords"
+			},
+			{
+				"description": "The first background I made for the mod, way back in 2021.",
+				"image": "development/firstCordBg"
+			},
+			{
+				"description": "Sketched this in Firealpaca back in 2021. As you may notice, alot of things are different in the sketch compared to the final version. There's shelves on the wall where the crack usually is, no shelves, and the lights are something you'd see in a restaraunt. Not sure why I made them like that...",
+				"image": "development/cordBgSketch"
+			},
+			{
+				"description": "A frame from an older unfinished cord cutscene. I ended up scrapping it because I didnt like it.",
+				"image": "development/lostMediaCutscene"
+			},
+			{
+				"description": "Coming up with Marilyn's design was a bit difficult. The idea was to have her look like a vampire goth girl. This sketch by @MashProtato was one of the first designs of her out of many.",
+				"image": "development/marilynSketch"
+			},
+			{
+				"description": "The ACTUAL first design was by me back in 2024 (before the sketch). It wasn't very good, but I wanted to get the general vibe down. After the sketch design was digitalized, I did my own take on how I wanted her to look (lineart wise).",
+				"image": "development/m0"
+			},
+			{
+				"description": "Figuring out the colours for Marilyn was by far the hardest part. It took 6 months before her design got finalized. I had @kangeldeviI help with the design which helped solidify her design by a landslide, which I then cleaned up in adobe animate. From that point on, everything was fine!",
+				"image": "development/m1"
+			},
+			{
+				"description": "Until I got picky. I was really contemplating her design for a very long time. So much so that I wanted\nto sketch a new take on her that was a bit easier for me. The zombie look was for fun, but I really liked how I did her dress and mofidied her hair. It felt like a step in the right direction.",
+				"image": "development/m2"
+			},
+			{
+				"description": "From that point on, all that was left was figuring out the colours. These attempts here were me trying to figure out which one felt \"normal\". I thought it would be cute if I gave her a little bow on her hair and made her purple/blue, but some people weren't fans, so I went with attempt #2 and modified it to what we have now.",
+				"image": "development/m3"
+			},
+			{
+				"description": "Bonus unfinished sketch of making Marilyn's design. If I remember correctly, this was made during the first few concepts of her design. I dont remember where I was going with this, but I did want to give her a spiked choker necklace at one point.",
+				"image": "development/marilynUnfinished"
+			},
+			{
+				"description": "When first developing Kitty Battle, Molly originally had no costume (gasp!). Overtime, I had feedback saying Molly should be in a costume since it'd fit the week. The two costume ideas I had were NekoChan, and an AiAi outfit (Super Monkey Ball).",
+				"image": "development/costumes"
+			},
+			{
+				"description": "Something I did for fun one day. I was still practicing perspective and i figured this was a good way to practice it.",
+				"image": "development/catchSketch"
+			},
+			{
+				"description": "Originally, Wade was going to be blue instead of beige. I scrapped the blue colour because it looks a bit unnatural.",
+				"image": "development/catchWade"
+			},
+			{
+				"description": "Here's the sketch for the main menu. The background wouldve been a bit different, with it having a pool table and a shelf. I still like the pool table idea, so im saving it incase I decide to do something with it.",
+				"image": "development/conceptMainMenu"
+			},
+			{
+				"description": "Sketching out the freeplay menu was really fun. I did this back in late 2024. Everything is pretty much the same except for Melanie, as her face was a bit different back then. There is also a beta freeplay theme you can hear by pressing space!",
+				"image": "development/freeplaySketch",
+				"audio": "betaFreeplay"
+			},
+			{
+				"description": "This was the first mockup I did of the credits menu. I was still trying to figure out where to go with it but it got the idea across.",
+				"image": "development/creditConcept1"
+			},
+			{
+				"description": "This is a more accurate mockup of what I wanted for the credits. I did this back around 2024.",
+				"image": "development/creditConcept2"
+			},
+			{
+				"description": "Some concepts of how Cord's animations would play out. There was a falling animation concept that never got to see the light of day.",
+				"image": "development/creditConcept3"
+			},
+			{
+				"description": "In 2024 (again), I had the genius idea of making a stats menu. In terms of looks, I wanted to make it similar to when you check your profile in Geometry Dash, but I eventually came up with something better.",
+				"image": "development/statsConcept"
+			},
+			{
+				"description": "Concept of what the stats menu was going to look like. It pretty much looks the same, just with a few missing details.",
+				"image": "development/oldStats"
+			},
+			{
+				"description": "Some closeups of the UI thats used in gameplay, aswell as an unused 'combo' symbol.",
+				"image": "development/ui"
+			},
+			{
+				"description": "A collection of plants I've made while making this mod.",
+				"image": "development/plants"
+			},
+			{
+				"description": "Old Rosie Clicker. I coded this game as a way to learn more about flixel (I forgot everything). Rosie Clicker was remade from scratch, and now looks 100x better than what it used to be!\n(If you want to access the new Rosie Clicker, talk to Melanie for hints!)",
+				"image": "development/rosieClicker"
+			},
+			{
+				"description": "The logo that was used for the demo releases of Vs Cord.",
+				"image": "development/oldLogo"
+			}
+		]
+	},
+	{
+		"category": "Unused Content",
+		"entries": 
+		[
+			{
+				"description": "An unused logo from before the demo was released. This was when Cord had a blue sweater.",
+				"image": "unused/veryOldLogo"
+			},
+			{
+				"description": "An unused logo after the demos were released. I have no memory of making this logo.",
+				"image": "unused/oldLogo2"
+			},
+			{
+				"description": "Same as before, I have no memory of ever making this.\nThey both suck tho so thank god I never went with either of those lol",
+				"image": "unused/oldLogo3"
+			},
+			{
+				"description": "The second last main menu I came up with before making the arcade machine menu. I still like how I made this, but it doesn't fit the vibe of Vs Cord.",
+				"image": "unused/mainMenuOld"
+			},
+			{
+				"description": "This wouldve been perfect for a freeplay menu. If only it worked out how I imagined it to (it didnt).",
+				"image": "unused/freeplayOld"
+			},
+			{
+				"description": "An older version of the freeplay menu. If I remember correctly, I threw this up back in 2023. It's way too similar to the gallery so I had to change it. It also just looks terrible.",
+				"image": "unused/freeplayOld2"
+			},
+			{
+				"description": "Originally, Vs Cord was going to have 8 achievements, but I decided to add more for a better experience. There were a few reasons for me scrapping this, but one of them was that it's too bland.",
+				"image": "unused/achievements"
+			},
+			{
+				"description": "Back in 2022-2023, this is what the gallery looked like. This is the only screenshot I have. At this time, I was making it so you could softcode the gallery descriptions. But now, this gallery is almost entirely softcoded, including descriptions, images, and sounds!",
+				"image": "unused/oldGallery"
+			},
+			{
+				"description": "Old concept for a pause menu. This was later repurposed to be in the 'Wanted' minigame.",
+				"image": "unused/paused"
+			},
+			{
+				"description": "I was unsure if I wanted custom note arrows for this mod or not. The paw notes I made didn't work out as I wanted them to, but they still look cool. The 3d ones were sketched to get some sort of idea.",
+				"image": "unused/arrows"
+			},
+			{
+				"description": "Old poster for Kitty Battle. Changed it for a multitude of reasons.",
+				"image": "unused/oldKittyBattle"
+			},
+			{
+				"description": "An older version of Bad Luck with an alternate ending.",
+				"image": "unused/oldBl",
+				"audio": "oldBadLuck | 111"
+			},
+			{
+				"description": "Before the final version of 'Nine Lives', there were around 8 or 9 different versions of the song, which I have saved in a folder. This was the second most recent one.",
+				"image": "unused/nl",
+				"audio": "oldNineLives | 124"
+			},
+			{
+				"description": "The very first version of 'Nine Lives', when Vs Cord was in it's demo state.",
+				"image": "unused/betaNineLives",
+				"audio": "betaNineLives | 118"
+			},
+			{
+				"description": "For some reason, Miau had an alternate ending. Not sure why...",
+				"image": "unused/oldMiau",
+				"audio": "miauAlt | 140"
+			}
+		]
+	},
+	{
+		"category": "Fanart",
+		"entries": 
+		[
+			{
+				"description": "VS_CORD_FAN_ARTWORK",
+				"image": "VS_CORD_FAN_ARTWORK"
+			},
+			{
+				"description": "Cord fanart by @Kormeets! (2021)",
+				"image": "fanart/Kormeets"
+			},
+			{
+				"description": "Unused loading screen art by @shiroipc.bsky.social! (2022)",
+				"image": "fanart/shiroi"
+			},
+			{
+				"description": "SCARY @dymeArachnyd (2022)",
+				"image": "fanart/dymeArachnyd"
+			},
+			{
+				"description": "even SCARIER @dymeArachnyd (2022)",
+				"image": "fanart/snickles"
+			},
+			{
+				"description": "even scarier than the last one (Friday Night Bloxxin') (2022)",
+				"image": "fanart/fnb"
+			},
+			{
+				"description": "SkateCord (skateboard) Commission from @evilsk8r! (2023)",
+				"image": "fanart/evilsk8r"
+			},
+			{
+				"description": "'Carefree' Cord fanart by @TheHexal_! (2025)",
+				"image": "fanart/hexal"
+			},
+			{
+				"description": "The collab we needed @ABBSOME_SAUCE (2025)",
+				"image": "fanart/jesus"
+			},
+			{
+				"description": "Genetically modified Cord (drawn by yours truly) (2026)",
+				"image": "fanart/cordgenics"
+			},
+			{
+				"description": "Rose commission by @Cinnla! (2021)",
+				"image": "fanart/cinnla"
+			},
+			{
+				"description": "Rose fanart by @mashprotato! (2024)",
+				"image": "fanart/mashprotato"
+			},
+			{
+				"description": "Tiny Rose fanart by @salterin0! (2024)",
+				"image": "fanart/salterino"
+			},
+			{
+				"description": "Rose fanart by @spaarzyo! (2025)",
+				"image": "fanart/Spaarzyo"
+			},
+			{
+				"description": "Rose fanart by @Andrewdapuss! (2025)",
+				"image": "fanart/Andrew"
+			},
+			{
+				"description": "Rosie boop by @numbdropbc! (2025)",
+				"image": "fanart/roll"
+			},
+			{
+				"description": "The first ever Marilyn fanart by @_CavernKeeper_! (2025)",
+				"image": "fanart/keeper"
+			},
+			{
+				"description": "important.png @TheWoom4 (2025)",
+				"image": "fanart/important"
+			}
+		]
+	},
+	{
+		"category": "The End",
+		"entries": 
+		[
+			{
+				"description": "★ After over 4 years of development, we'd like to thank you for playing Vs Cord! ★\nExpect to see upcoming content in the near future!",
+				"image": "banner"
+			}
+		]
+	}
+]

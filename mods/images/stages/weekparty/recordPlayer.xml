@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="recordPlayer.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="recordplayer instance 10000" x="2" y="2" width="360" height="226"/>
+	<SubTexture name="recordplayer instance 10001" x="2" y="230" width="360" height="226"/>
+</TextureAtlas>

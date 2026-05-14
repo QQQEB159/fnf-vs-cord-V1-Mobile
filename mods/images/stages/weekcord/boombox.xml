@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="boombox.png" width="562" height="125">
+	<SubTexture name="boombox instance 10000" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10001" x="1" y="1" width="185" height="121" frameX="-0" frameY="-1" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10002" x="1" y="1" width="185" height="121" frameX="-0" frameY="-1" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10003" x="378" y="1" width="183" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10004" x="378" y="1" width="183" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10005" x="378" y="1" width="183" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10006" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10007" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10008" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10009" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10010" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10011" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10012" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10013" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10014" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10015" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10016" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10017" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10018" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10019" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10020" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10021" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10022" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10023" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10024" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10025" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10026" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10027" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10028" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+	<SubTexture name="boombox instance 10029" x="191" y="1" width="182" height="123" frameX="-1" frameY="-0" frameWidth="185" frameHeight="123"/>
+</TextureAtlas>

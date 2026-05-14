@@ -1,0 +1,35 @@
+function onCreatePost()
+	-- notes
+	for i = 0,3 do
+		setPropertyFromGroup('opponentStrums', i, 'visible', false);
+		setPropertyFromGroup('playerStrums', i, 'visible', false);
+	end
+	for i = 0, getProperty('unspawnNotes.length')-1 do
+		setPropertyFromGroup('unspawnNotes', i, 'noteSplashDisabled', true);
+	end
+	-- text
+	setProperty('timeTxt.visible', false);
+	setProperty('timeBar.visible', false);
+	setProperty('prototype.visible', false);
+	setProperty('watermark.visible', false);
+
+	-- healthbar
+	setProperty('healthBarBG.visible', false);
+	setProperty('healthBar.visible', false);
+	setProperty('iconP1.visible', false);
+	setProperty('iconP2.visible', false);
+	setProperty('scoreTxt.visible', false);
+	
+	-- botplay setting
+	setProperty('cpuControlled', true);
+end
+
+function onCreate()
+	--sick, good, bad, shit and combo system hud
+	setProperty('showRating', false);
+	setProperty('showComboNum', false);
+end
+
+function onSpawnNote(membersIndex, noteData, noteType, isSustainNote)
+    setPropertyFromGroup('notes', membersIndex, 'visible', false);
+end

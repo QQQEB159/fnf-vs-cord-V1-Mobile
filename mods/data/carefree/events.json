@@ -1,0 +1,151 @@
+{
+	"song": {
+		"events": [
+			[
+				34594.5945945946,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				49729.7297297297,
+				[
+					[
+						"",
+						"spawnRate",
+						"30"
+					]
+				]
+			],
+			[
+				51891.8918918919,
+				[
+					[
+						"",
+						"spawnRate",
+						"30"
+					]
+				]
+			],
+			[
+				52432.4324324324,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"Dad"
+					]
+				]
+			],
+			[
+				64864.8648648648,
+				[
+					[
+						"",
+						"spawnRate",
+						"15"
+					]
+				]
+			],
+			[
+				67027.027027027,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"scared",
+						"Dad"
+					],
+					[
+						"Play Animation",
+						"scared",
+						"BF"
+					]
+				]
+			],
+			[
+				77837.8378378378,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				86486.4864864864,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.575"
+					]
+				]
+			],
+			[
+				95135.1351351351,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.625"
+					]
+				]
+			],
+			[
+				101621.621621622,
+				[
+					[
+						"",
+						"spawnRate",
+						"50"
+					]
+				]
+			],
+			[
+				104324.324324324,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"Dad"
+					]
+				]
+			],
+			[
+				118918.918918919,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"",
+						"ending",
+						""
+					]
+				]
+			]
+		]
+	}
+}

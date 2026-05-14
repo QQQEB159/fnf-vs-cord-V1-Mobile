@@ -1,0 +1,98 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hmm...",
+			"boxState": "normal",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "talk",
+			"text": "Honestly, that wasn't as bad as I was expecting it to be...",
+			"boxState": "normal",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "happy",
+			"text": "That was kinda fun...",
+			"boxState": "normal",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "angry",
+			"text": "But you still need to leave.",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "cocky",
+			"text": "Skadap beep!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "angry",
+			"text": "I don't care if I lost, this is my home!",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "stupid",
+			"text": "duurrrr...",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Ugh...",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "confident",
+			"text": "Y'know what, fine!",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "confident",
+			"text": "I'll do one more! And this time, I'll make sure you don't win.",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "peace",
+			"text": "YAY!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "ready",
+			"text": "Bring it.",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		}
+	]
+}

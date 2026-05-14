@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="machines.png" width="4809" height="678">
+	<SubTexture name="silly arcade stuff instance 10000" x="1" y="1" width="1198" height="676" frameX="-0" frameY="-0" frameWidth="1202" frameHeight="680"/>
+	<SubTexture name="silly arcade stuff instance 10001" x="1" y="1" width="1198" height="676" frameX="-0" frameY="-0" frameWidth="1202" frameHeight="680"/>
+	<SubTexture name="silly arcade stuff instance 10002" x="1204" y="1" width="1198" height="676" frameX="-0" frameY="-0" frameWidth="1202" frameHeight="680"/>
+	<SubTexture name="silly arcade stuff instance 10003" x="1204" y="1" width="1198" height="676" frameX="-0" frameY="-0" frameWidth="1202" frameHeight="680"/>
+	<SubTexture name="silly arcade stuff instance 10004" x="2407" y="1" width="1198" height="676" frameX="-0" frameY="-0" frameWidth="1202" frameHeight="680"/>
+	<SubTexture name="silly arcade stuff instance 10005" x="2407" y="1" width="1198" height="676" frameX="-0" frameY="-0" frameWidth="1202" frameHeight="680"/>
+	<SubTexture name="silly arcade stuff instance 10006" x="3610" y="1" width="1198" height="676" frameX="-0" frameY="-0" frameWidth="1202" frameHeight="680"/>
+	<SubTexture name="silly arcade stuff instance 10007" x="3610" y="1" width="1198" height="676" frameX="-0" frameY="-0" frameWidth="1202" frameHeight="680"/>
+</TextureAtlas>

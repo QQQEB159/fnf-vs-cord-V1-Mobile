@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="starLatte.png" width="2598" height="697">
+	<SubTexture name="starLatte0 instance 10000" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte0 instance 10001" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte0 instance 10002" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte0 instance 10003" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte0 instance 10004" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte0 instance 10005" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte0 instance 10006" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte0 instance 10007" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte0 instance 10008" x="1" y="1" width="865" height="695" frameX="-1" frameY="-0" frameWidth="869" frameHeight="699"/>
+	<SubTexture name="starLatte1 instance 10000" x="1735" y="1" width="862" height="682" frameX="-0" frameY="-0" frameWidth="867" frameHeight="686"/>
+	<SubTexture name="starLatte1 instance 10001" x="1735" y="1" width="862" height="682" frameX="-0" frameY="-0" frameWidth="867" frameHeight="686"/>
+	<SubTexture name="starLatte1 instance 10002" x="1735" y="1" width="862" height="682" frameX="-0" frameY="-0" frameWidth="867" frameHeight="686"/>
+	<SubTexture name="starLatte1 instance 10003" x="1735" y="1" width="862" height="682" frameX="-0" frameY="-0" frameWidth="867" frameHeight="686"/>
+	<SubTexture name="starLatte1 instance 10004" x="1735" y="1" width="862" height="682" frameX="-0" frameY="-0" frameWidth="867" frameHeight="686"/>
+	<SubTexture name="starLatte1 instance 10005" x="1735" y="1" width="862" height="682" frameX="-0" frameY="-0" frameWidth="867" frameHeight="686"/>
+	<SubTexture name="starLatte1 instance 10006" x="1735" y="1" width="862" height="682" frameX="-0" frameY="-0" frameWidth="867" frameHeight="686"/>
+	<SubTexture name="starLatte1 instance 10007" x="1735" y="1" width="862" height="682" frameX="-0" frameY="-0" frameWidth="867" frameHeight="686"/>
+	<SubTexture name="starLatteBlink instance 10000" x="869" y="1" width="863" height="682" frameX="-0" frameY="-0" frameWidth="866" frameHeight="685"/>
+	<SubTexture name="starLatteBlink instance 10001" x="869" y="1" width="863" height="682" frameX="-0" frameY="-0" frameWidth="866" frameHeight="685"/>
+	<SubTexture name="starLatteBlink instance 10002" x="869" y="1" width="863" height="682" frameX="-0" frameY="-0" frameWidth="866" frameHeight="685"/>
+	<SubTexture name="starLatteBlink instance 10003" x="869" y="1" width="863" height="682" frameX="-0" frameY="-0" frameWidth="866" frameHeight="685"/>
+	<SubTexture name="starLatteBlink instance 10004" x="869" y="1" width="863" height="682" frameX="-0" frameY="-0" frameWidth="866" frameHeight="685"/>
+	<SubTexture name="starLatteBlink instance 10005" x="869" y="1" width="863" height="682" frameX="-0" frameY="-0" frameWidth="866" frameHeight="685"/>
+	<SubTexture name="starLatteBlink instance 10006" x="869" y="1" width="863" height="682" frameX="-0" frameY="-0" frameWidth="866" frameHeight="685"/>
+	<SubTexture name="starLatteBlink instance 10007" x="869" y="1" width="863" height="682" frameX="-0" frameY="-0" frameWidth="866" frameHeight="685"/>
+</TextureAtlas>

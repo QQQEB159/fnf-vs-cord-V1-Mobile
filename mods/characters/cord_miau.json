@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				31,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cord Left instance 1"
+		},
+		{
+			"offsets": [
+				-27,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cord Down instance 1"
+		},
+		{
+			"offsets": [
+				-26,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cord Right instance 1"
+		},
+		{
+			"offsets": [
+				-34,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cord Up instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cord Idle instance 1"
+		},
+		{
+			"offsets": [
+				-29,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-giggle",
+			"indices": [],
+			"name": "giggle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				18
+			],
+			"anim": "singUP-Meow",
+			"fps": 24,
+			"name": "CordMeow instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CORDMIAU_ASSETS",
+	"position": [
+		-30,
+		120
+	],
+	"healthicon": "cord",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		52,
+		97
+	],
+	"camera_position": [
+		100,
+		40
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1.05,
+	"_editor_isPlayer": false
+}

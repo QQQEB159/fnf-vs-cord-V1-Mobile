@@ -1,0 +1,31 @@
+{
+	"[haxe]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnSaveMode": "file",
+		"editor.defaultFormatter": "nadako.vshaxe"
+	},
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": true,
+	"files.associations": {
+		".hxpkg": "json"
+	},
+	"lime.targetConfigurations": [
+		{
+			"label": "Windows / Debug (ASSET_REDIRECT)",
+			"target": "windows",
+			"args": [
+				"-debug",
+				"-DASSET_REDIRECT"
+			]
+		},
+		{
+			"label": "hl / Debug (ASSET_REDIRECT)",
+			"target": "hl",
+			"args": [
+				"-debug",
+				"-DASSET_REDIRECT"
+			]
+		},
+	],
+}

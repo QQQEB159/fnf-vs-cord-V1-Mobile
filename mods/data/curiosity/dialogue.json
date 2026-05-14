@@ -1,0 +1,358 @@
+{
+	"dialogue": [
+		{
+			"expression": "scared",
+			"text": "WWWHHHHHHHHHHHHHHHHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT",
+			"portrait": "cord",
+			"speed": 0.005,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "HUH??-",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "WHO-",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "HOW THE-",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "ARE-",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "WHY-",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "WHEN DID-",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "WHERE-",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "WTF-",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "WJKDZFG-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "DFMJDFZXCV-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "ADHFSDRFXZBVC-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "RJ7YTDGFXASGCXZ-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "9837EPWRFTIOH-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": ";JOLUBASDVFASDFV-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": ";HKB AFSVDBHKL,ERSAGYV,IJH-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "LKHVSDFVUGLKAVSZ-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "JLKNBHWERVOBIHACVDE-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "KLMN;ASVDJNL;ASG-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "HIL KBWEVRLIBYASVRF;Z-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": ";OUINVQ3RWP97GHBUOAFSGDSF-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "ASDVASFDVAS-",
+			"portrait": "cord",
+			"speed": 0.015,
+			"sound": "dialogue/cordScared",
+			"autoSkip": true
+		},
+		{
+			"expression": "scared",
+			"text": "HOW DID YOU GET INTO MY HOUSE?!?!!??",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordScared"
+		},
+		{
+			"expression": "stupid",
+			"text": "Bep",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "scared",
+			"text": "DON'T YOU KNOW THERE'S A THING CALLED BASIC HUMAN DECENCY?!?!?!!",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordScared"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap skebap beep bep",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "confused",
+			"text": "...The TV? What are you even talking about??",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "stupid",
+			"text": "Durrr balap dep skadeep bleep bep bap bop bah",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "confused",
+			"text": "That's your girlfriend???",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "peace",
+			"text": "Yeah!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Well isn't that just beautiful. Here, I have an idea for both of you!",
+			"portrait": "cord",
+			"speed": 0.06,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "angry",
+			"text": "Get the hell out of my house before I call the police.",
+			"portrait": "cord",
+			"speed": 0.065,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "cocky",
+			"text": "Bap bedep dop daskep beep!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "confused",
+			"text": "A... karaoke battle? What?? Why would I even do that???",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "stupid",
+			"text": "Bap!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "angry",
+			"text": "Are you insane?! I'm not doing that. I don't even KNOW you.",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "stupid",
+			"text": "Bep?",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf",
+			"autoSkip": true
+		},
+		{
+			"expression": "angry",
+			"text": "No.",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "stupid",
+			"text": "Bap?",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf",
+			"autoSkip": true
+		},
+		{
+			"expression": "angry",
+			"text": "Stop it.",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "stupid",
+			"text": "Skep?",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf",
+			"autoSkip": true
+		},
+		{
+			"expression": "pissed",
+			"text": "GET OUT.",
+			"portrait": "cord",
+			"speed": 0.075,
+			"sound": "dialogue/cordScared"
+		},
+		{
+			"expression": "stupid",
+			"text": "Beep...?",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "angry",
+			"text": "...Ugh, christ. fine.",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "peace",
+			"text": "Yeah!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "angry",
+			"text": "After this is over, get your girlfriend out of my TV and leave me alone. Okay?",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "cocky",
+			"text": "Beep!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		}
+	]
+}

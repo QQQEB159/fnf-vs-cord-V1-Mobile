@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="1.png" width="1531" height="1661">
+	<SubTexture name="bfSticker1 instance 10000" x="760" y="945" width="373" height="249" frameX="-0" frameY="-0" frameWidth="373" frameHeight="249"/>
+	<SubTexture name="bfSticker1 instance 10001" x="760" y="945" width="373" height="249" frameX="-0" frameY="-0" frameWidth="373" frameHeight="249"/>
+	<SubTexture name="bfSticker2 instance 10000" x="1160" y="624" width="361" height="248" frameX="-0" frameY="-0" frameWidth="362" frameHeight="248"/>
+	<SubTexture name="bfSticker3 instance 10000" x="1136" y="945" width="362" height="250" frameX="-0" frameY="-1" frameWidth="363" frameHeight="251"/>
+	<SubTexture name="cordSticker1 instance 10000" x="648" y="1197" width="321" height="259" frameX="-0" frameY="-0" frameWidth="322" frameHeight="260"/>
+	<SubTexture name="cordSticker2 instance 10000" x="873" y="1" width="346" height="315" frameX="-0" frameY="-0" frameWidth="346" frameHeight="315"/>
+	<SubTexture name="cordSticker3 instance 10000" x="359" y="923" width="398" height="261" frameX="-0" frameY="-0" frameWidth="398" frameHeight="261"/>
+	<SubTexture name="cordSticker4 instance 10000" x="1160" y="319" width="320" height="302" frameX="-0" frameY="-0" frameWidth="320" frameHeight="302"/>
+	<SubTexture name="djSticker1 instance 10000" x="1" y="980" width="317" height="274" frameX="-0" frameY="-0" frameWidth="317" frameHeight="275"/>
+	<SubTexture name="djSticker2 instance 10000" x="1222" y="1" width="308" height="285" frameX="-0" frameY="-1" frameWidth="308" frameHeight="286"/>
+	<SubTexture name="felineSticker1 instance 10000" x="972" y="1198" width="306" height="269" frameX="-0" frameY="-0" frameWidth="306" frameHeight="269"/>
+	<SubTexture name="felineSticker2 instance 10000" x="321" y="1187" width="324" height="257" frameX="-0" frameY="-0" frameWidth="324" frameHeight="258"/>
+	<SubTexture name="felineSticker3 instance 10000" x="1" y="1257" width="317" height="226" frameX="-0" frameY="-1" frameWidth="317" frameHeight="227"/>
+	<SubTexture name="marilynSticker1 instance 10000" x="1" y="362" width="455" height="298" frameX="-0" frameY="-1" frameWidth="456" frameHeight="299"/>
+	<SubTexture name="marilynSticker2 instance 10000" x="459" y="302" width="411" height="297" frameX="-0" frameY="-0" frameWidth="412" frameHeight="298"/>
+	<SubTexture name="marilynSticker3 instance 10000" x="418" y="1" width="438" height="298" frameX="-0" frameY="-0" frameWidth="439" frameHeight="299"/>
+	<SubTexture name="miscSticker1 instance 10000" x="1" y="1" width="414" height="358" frameX="-0" frameY="-0" frameWidth="418" frameHeight="362"/>
+	<SubTexture name="miscSticker2 instance 10000" x="1281" y="1198" width="213" height="300" frameX="-0" frameY="-0" frameWidth="214" frameHeight="301"/>
+	<SubTexture name="miscSticker3 instance 10000" x="873" y="319" width="262" height="246" frameX="-0" frameY="-1" frameWidth="263" frameHeight="247"/>
+	<SubTexture name="miscSticker4 instance 10000" x="834" y="602" width="323" height="340" frameX="-0" frameY="-1" frameWidth="323" frameHeight="341"/>
+	<SubTexture name="miscSticker5 instance 10000" x="321" y="1447" width="216" height="213" frameX="-0" frameY="-1" frameWidth="216" frameHeight="214"/>
+	<SubTexture name="roseSticker1 instance 10000" x="1" y="663" width="355" height="314" frameX="-0" frameY="-0" frameWidth="355" frameHeight="315"/>
+	<SubTexture name="roseSticker2 instance 10000" x="459" y="602" width="372" height="318" frameX="-0" frameY="-1" frameWidth="373" frameHeight="319"/>
+</TextureAtlas>

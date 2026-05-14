@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="ATARIPICO_ASSETS.png" width="122" height="19">
+	<SubTexture name="down instance 10000" x="76" y="1" width="22" height="14" frameX="-5" frameY="-3" frameWidth="33" frameHeight="17"/>
+	<SubTexture name="idle instance 10000" x="1" y="1" width="22" height="15" frameX="-5" frameY="-2" frameWidth="33" frameHeight="17"/>
+	<SubTexture name="left instance 10000" x="26" y="1" width="22" height="15" frameX="-3" frameY="-2" frameWidth="33" frameHeight="17"/>
+	<SubTexture name="right instance 10000" x="51" y="1" width="22" height="15" frameX="-7" frameY="-2" frameWidth="33" frameHeight="17"/>
+	<SubTexture name="up instance 10000" x="101" y="1" width="20" height="17" frameX="-5" frameY="-0" frameWidth="33" frameHeight="17"/>
+</TextureAtlas>

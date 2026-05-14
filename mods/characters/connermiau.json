@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"name": "idle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				2
+			],
+			"anim": "smoke",
+			"fps": 24,
+			"name": "smoke instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CONNERMIAU_ASSETS",
+	"position": [
+		-40,
+		-40
+	],
+	"healthicon": "marilyn",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		165,
+		205
+	],
+	"camera_position": [
+		40,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

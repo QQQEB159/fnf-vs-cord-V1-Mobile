@@ -1,0 +1,27 @@
+{
+	"storyName": "Stay Tuned!",
+	"hideFreeplay": false,
+	"weekBackground": "cord",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"char0",
+		"char1",
+		""
+	],
+
+	"leftCharacter": {
+		"img": "char0",
+		"offsets": [0,-20]
+	},
+	"rightCharacter": {
+		"img": "char1",
+		"offsets": [10,-20]
+	},
+	"icons": "icon4",
+	"gradient": "gradient0",
+	"storyBG": "bg3",
+	"songs": [
+	],
+	"weekName": "Coming Soon"
+}

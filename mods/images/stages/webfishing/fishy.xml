@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fishy.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fishy instance 10000" x="5" y="5" width="71" height="50" frameX="-449" frameY="0" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10001" x="5" y="5" width="71" height="50" frameX="-449" frameY="0" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10002" x="81" y="5" width="62" height="69" frameX="-433" frameY="-5" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10003" x="81" y="5" width="62" height="69" frameX="-433" frameY="-5" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10004" x="148" y="5" width="80" height="89" frameX="-461" frameY="-19" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10005" x="148" y="5" width="80" height="89" frameX="-461" frameY="-19" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10006" x="233" y="5" width="143" height="77" frameX="-458" frameY="-33" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10007" x="233" y="5" width="143" height="77" frameX="-458" frameY="-33" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10008" x="233" y="5" width="143" height="77" frameX="-458" frameY="-33" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10009" x="381" y="5" width="211" height="88" frameX="-492" frameY="-29" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10010" x="381" y="5" width="211" height="88" frameX="-492" frameY="-29" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10011" x="381" y="5" width="211" height="88" frameX="-492" frameY="-29" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10012" x="597" y="5" width="178" height="126" frameX="-568" frameY="-39" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10013" x="597" y="5" width="178" height="126" frameX="-568" frameY="-39" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10014" x="597" y="5" width="178" height="126" frameX="-568" frameY="-39" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10015" x="597" y="5" width="178" height="126" frameX="-568" frameY="-39" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10016" x="780" y="5" width="188" height="186" frameX="-599" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10017" x="780" y="5" width="188" height="186" frameX="-599" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10018" x="780" y="5" width="188" height="186" frameX="-599" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10019" x="5" y="196" width="233" height="203" frameX="-522" frameY="-79" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10020" x="5" y="196" width="233" height="203" frameX="-522" frameY="-79" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10021" x="5" y="196" width="233" height="203" frameX="-522" frameY="-79" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10022" x="243" y="196" width="319" height="158" frameX="-275" frameY="-143" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10023" x="243" y="196" width="319" height="158" frameX="-275" frameY="-143" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10024" x="567" y="196" width="262" height="171" frameX="-130" frameY="-120" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10025" x="567" y="196" width="262" height="171" frameX="-130" frameY="-120" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10026" x="834" y="196" width="166" height="193" frameX="-41" frameY="-79" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10027" x="834" y="196" width="166" height="193" frameX="-41" frameY="-79" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10028" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10029" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10030" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10031" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10032" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10033" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10034" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10035" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10036" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10037" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+	<SubTexture name="fishy instance 10038" x="5" y="404" width="122" height="141" frameX="0" frameY="-64" frameWidth="787" frameHeight="301"/>
+</TextureAtlas>

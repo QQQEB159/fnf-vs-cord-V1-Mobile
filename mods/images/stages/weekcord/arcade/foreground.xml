@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="foreground.png" width="6293" height="2129">
+	<SubTexture name="fg arcades instance 10000" x="1" y="1" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10001" x="1" y="1" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10002" x="1" y="1" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10003" x="3149" y="1" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10004" x="3149" y="1" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10005" x="3149" y="1" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10006" x="3149" y="1" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10007" x="1" y="1067" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10008" x="1" y="1067" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10009" x="1" y="1067" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10010" x="1" y="1067" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10011" x="3149" y="1067" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10012" x="3149" y="1067" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10013" x="3149" y="1067" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+	<SubTexture name="fg arcades instance 10014" x="3149" y="1067" width="3143" height="1061" frameX="-0" frameY="-2" frameWidth="3151" frameHeight="1072"/>
+</TextureAtlas>

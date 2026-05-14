@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="GF_A.png" width="4023" height="4162">
+	<SubTexture name="_GF instance 10000" x="1" y="1" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10001" x="672" y="1" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10002" x="1" y="834" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10003" x="672" y="834" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10004" x="1343" y="1" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10005" x="1343" y="834" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10006" x="1" y="1667" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10007" x="672" y="1667" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10008" x="1343" y="1667" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10009" x="2014" y="1" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10010" x="2014" y="834" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10011" x="2014" y="1667" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10012" x="1" y="2500" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10013" x="672" y="2500" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10014" x="1343" y="2500" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10015" x="2014" y="2500" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10016" x="2685" y="1" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10017" x="2685" y="834" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10018" x="2685" y="1667" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10019" x="2685" y="2500" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10020" x="1" y="3333" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10021" x="672" y="3333" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10022" x="1343" y="3333" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10023" x="2014" y="3333" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10024" x="2685" y="3333" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10025" x="3356" y="1" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10026" x="3356" y="834" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10027" x="3356" y="1667" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10028" x="3356" y="2500" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+	<SubTexture name="_GF instance 10029" x="3356" y="3333" width="666" height="828" frameX="-60" frameY="-30" frameWidth="773" frameHeight="858"/>
+</TextureAtlas>

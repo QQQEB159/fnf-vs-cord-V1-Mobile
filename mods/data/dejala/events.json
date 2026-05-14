@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				30967.7419354839,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					]
+				]
+			],
+			[
+				31354.8387096774,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.5"
+					]
+				]
+			],
+			[
+				31741.935483871,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					]
+				]
+			],
+			[
+				32129.0322580645,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.5"
+					]
+				]
+			],
+			[
+				39483.8709677419,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39870.9677419355,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40258.064516129,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52645.1612903226,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.45"
+					]
+				]
+			],
+			[
+				64258.0645161291,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					]
+				]
+			],
+			[
+				64645.1612903226,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				65032.2580645162,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.5"
+					]
+				]
+			],
+			[
+				99096.7741935485,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					]
+				]
+			],
+			[
+				101419.35483871,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				101806.451612903,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				102193.548387097,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.45"
+					]
+				]
+			]
+		]
+	}
+}

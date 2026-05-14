@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="PACMAN_ASSETS.png" width="2317" height="275">
+	<SubTexture name="down instance 10000" x="1817" y="1" width="257" height="266" frameX="-3" frameY="-10" frameWidth="264" frameHeight="277"/>
+	<SubTexture name="down instance 10001" x="1817" y="1" width="257" height="266" frameX="-3" frameY="-10" frameWidth="264" frameHeight="277"/>
+	<SubTexture name="down instance 10002" x="1055" y="1" width="263" height="262" frameX="-1" frameY="-0" frameWidth="264" frameHeight="277"/>
+	<SubTexture name="down instance 10003" x="1055" y="1" width="263" height="262" frameX="-1" frameY="-0" frameWidth="264" frameHeight="277"/>
+	<SubTexture name="idle instance 10000" x="532" y="1" width="259" height="258" frameX="-0" frameY="-0" frameWidth="259" frameHeight="259"/>
+	<SubTexture name="idle instance 10001" x="532" y="1" width="259" height="258" frameX="-0" frameY="-0" frameWidth="259" frameHeight="259"/>
+	<SubTexture name="idle instance 10002" x="532" y="1" width="259" height="258" frameX="-0" frameY="-0" frameWidth="259" frameHeight="259"/>
+	<SubTexture name="idle instance 10003" x="532" y="1" width="259" height="258" frameX="-0" frameY="-0" frameWidth="259" frameHeight="259"/>
+	<SubTexture name="left instance 10000" x="1" y="1" width="269" height="236" frameX="-0" frameY="-17" frameWidth="272" frameHeight="260"/>
+	<SubTexture name="left instance 10001" x="1" y="1" width="269" height="236" frameX="-0" frameY="-17" frameWidth="272" frameHeight="260"/>
+	<SubTexture name="left instance 10002" x="794" y="1" width="258" height="260" frameX="-13" frameY="-0" frameWidth="272" frameHeight="260"/>
+	<SubTexture name="left instance 10003" x="794" y="1" width="258" height="260" frameX="-13" frameY="-0" frameWidth="272" frameHeight="260"/>
+	<SubTexture name="right instance 10000" x="2077" y="1" width="239" height="273" frameX="-14" frameY="-0" frameWidth="257" frameHeight="273"/>
+	<SubTexture name="right instance 10001" x="2077" y="1" width="239" height="273" frameX="-14" frameY="-0" frameWidth="257" frameHeight="273"/>
+	<SubTexture name="right instance 10002" x="273" y="1" width="256" height="255" frameX="-0" frameY="-11" frameWidth="257" frameHeight="273"/>
+	<SubTexture name="right instance 10003" x="273" y="1" width="256" height="255" frameX="-0" frameY="-11" frameWidth="257" frameHeight="273"/>
+	<SubTexture name="up instance 10000" x="1573" y="1" width="241" height="265" frameX="-1" frameY="-0" frameWidth="249" frameHeight="272"/>
+	<SubTexture name="up instance 10001" x="1573" y="1" width="241" height="265" frameX="-1" frameY="-0" frameWidth="249" frameHeight="272"/>
+	<SubTexture name="up instance 10002" x="1321" y="1" width="249" height="263" frameX="-0" frameY="-8" frameWidth="249" frameHeight="272"/>
+	<SubTexture name="up instance 10003" x="1321" y="1" width="249" height="263" frameX="-0" frameY="-8" frameWidth="249" frameHeight="272"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="heart.png" width="577" height="579">
+	<SubTexture name="heart instance 10000" x="505" y="375" width="63" height="57" frameX="-0" frameY="-0" frameWidth="64" frameHeight="57"/>
+	<SubTexture name="heart instance 10001" x="505" y="375" width="63" height="57" frameX="-0" frameY="-0" frameWidth="64" frameHeight="57"/>
+	<SubTexture name="heart instance 10002" x="505" y="375" width="63" height="57" frameX="-0" frameY="-0" frameWidth="64" frameHeight="57"/>
+	<SubTexture name="heart instance 10003" x="505" y="375" width="63" height="57" frameX="-0" frameY="-0" frameWidth="64" frameHeight="57"/>
+	<SubTexture name="heart instance 10004" x="505" y="375" width="63" height="57" frameX="-0" frameY="-0" frameWidth="64" frameHeight="57"/>
+	<SubTexture name="heartBlush instance 10000" x="505" y="313" width="67" height="57" frameX="-0" frameY="-0" frameWidth="70" frameHeight="58"/>
+	<SubTexture name="heartBlush instance 10001" x="505" y="313" width="67" height="57" frameX="-0" frameY="-0" frameWidth="70" frameHeight="58"/>
+	<SubTexture name="heartBlush instance 10002" x="505" y="251" width="68" height="57" frameX="-0" frameY="-0" frameWidth="70" frameHeight="58"/>
+	<SubTexture name="heartBlush instance 10003" x="505" y="251" width="68" height="57" frameX="-0" frameY="-0" frameWidth="70" frameHeight="58"/>
+	<SubTexture name="heartBlush instance 10004" x="505" y="189" width="69" height="57" frameX="-0" frameY="-0" frameWidth="70" frameHeight="58"/>
+	<SubTexture name="heartBlush instance 10005" x="505" y="189" width="69" height="57" frameX="-0" frameY="-0" frameWidth="70" frameHeight="58"/>
+	<SubTexture name="loseHeart instance 10000" x="505" y="375" width="63" height="57" frameX="-66" frameY="-126" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10001" x="476" y="437" width="63" height="58" frameX="-66" frameY="-125" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10002" x="366" y="418" width="105" height="94" frameX="-34" frameY="-100" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10003" x="190" y="261" width="171" height="217" frameX="-19" frameY="-2" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10004" x="1" y="269" width="184" height="247" frameX="-17" frameY="-0" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10005" x="294" y="1" width="146" height="226" frameX="-19" frameY="-13" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10006" x="160" y="1" width="129" height="255" frameX="-22" frameY="-4" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10007" x="1" y="1" width="154" height="263" frameX="-19" frameY="-4" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10008" x="445" y="1" width="131" height="183" frameX="-31" frameY="-0" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10009" x="366" y="232" width="134" height="181" frameX="-36" frameY="-2" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10010" x="1" y="521" width="63" height="57" frameX="-66" frameY="-126" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10011" x="1" y="521" width="63" height="57" frameX="-66" frameY="-126" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10012" x="1" y="521" width="63" height="57" frameX="-66" frameY="-126" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10013" x="1" y="521" width="63" height="57" frameX="-66" frameY="-126" frameWidth="201" frameHeight="282"/>
+	<SubTexture name="loseHeart instance 10014" x="1" y="521" width="63" height="57" frameX="-66" frameY="-126" frameWidth="201" frameHeight="282"/>
+</TextureAtlas>

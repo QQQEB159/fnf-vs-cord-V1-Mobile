@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cordidle instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-13
+			],
+			"anim": "die1",
+			"fps": 24,
+			"name": "die1 instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "die2",
+			"indices": [],
+			"name": "die0 instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "cordscared instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CORD_TABLE_ASSETS",
+	"position": [
+		-2,
+		12
+	],
+	"healthicon": "cord",
+	"flip_x": true,
+	"healthbar_colors": [
+		52,
+		52,
+		97
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

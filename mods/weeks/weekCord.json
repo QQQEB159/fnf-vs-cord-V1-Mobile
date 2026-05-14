@@ -1,0 +1,54 @@
+{
+	"storyName": "Breaking An Entry",
+	"hideFreeplay": false,
+	"weekBackground": "cord",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"cord",
+		"boyfriend",
+		""
+	],
+
+	"leftCharacter": {
+		"img": "cord"
+	},
+
+	"rightCharacter": {
+		"img": "boyfriend"
+	},
+
+	"icons": "icon0",
+	"gradient": "gradient0",
+	"storyBG": "bg0",
+	"songs": [
+		[
+			"Curiosity",
+			"cord",
+			[
+				155,
+				175,
+				251
+			]
+		],
+		[
+			"Bad Luck",
+			"cord",
+			[
+				255,
+				155,
+				191
+			]
+		],
+		[
+			"Nine Lives",
+			"cord",
+			[
+				95,
+				95,
+				171
+			]
+		]
+	],
+	"weekName": "Vs Cord"
+}

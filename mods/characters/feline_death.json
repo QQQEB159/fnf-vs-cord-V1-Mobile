@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath instance 1"
+		},
+		{
+			"offsets": [
+				-4,
+				93
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathLoop instance 1"
+		},
+		{
+			"offsets": [
+				2,
+				-249
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deathConfirm instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FELINE_DEATH",
+	"position": [
+		-350,
+		22
+	],
+	"healthicon": "feline",
+	"flip_x": true,
+	"healthbar_colors": [
+		230,
+		129,
+		217
+	],
+	"camera_position": [
+		-150,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

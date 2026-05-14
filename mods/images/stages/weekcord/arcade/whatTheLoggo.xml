@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="whatTheLoggo.png" width="657" height="303">
+	<SubTexture name="loggoandsign instance 10000" x="1" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10001" x="1" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10002" x="1" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10003" x="1" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10004" x="1" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10005" x="1" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10006" x="1" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10007" x="1" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10008" x="331" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10009" x="331" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10010" x="331" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10011" x="331" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10012" x="331" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10013" x="331" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10014" x="331" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+	<SubTexture name="loggoandsign instance 10015" x="331" y="1" width="325" height="301" frameX="-0" frameY="-0" frameWidth="330" frameHeight="307"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="superFuckingMario.png" width="548" height="224">
+	<SubTexture name="idle0000" x="1" y="1" width="208" height="222" frameX="-14" frameY="-0" frameWidth="223" frameHeight="223"/>
+	<SubTexture name="idle0001" x="212" y="1" width="152" height="222" frameX="-28" frameY="-0" frameWidth="223" frameHeight="223"/>
+	<SubTexture name="idle0002" x="367" y="1" width="180" height="208" frameX="-28" frameY="-14" frameWidth="223" frameHeight="223"/>
+	<SubTexture name="idle0003" x="212" y="1" width="152" height="222" frameX="-28" frameY="-0" frameWidth="223" frameHeight="223"/>
+</TextureAtlas>

@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "blink",
+			"fps": 24,
+			"name": "blink instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WADE_ASSETS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "wade",
+	"flip_x": true,
+	"healthbar_colors": [
+		209,
+		131,
+		56
+	],
+	"camera_position": [
+		100,
+		80
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

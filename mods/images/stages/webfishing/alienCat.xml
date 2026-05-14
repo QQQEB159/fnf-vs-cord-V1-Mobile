@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alienCat.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="catch instance 10000" x="5" y="5" width="1950" height="1238" frameX="0" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10001" x="5" y="5" width="1950" height="1238" frameX="0" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10002" x="5" y="5" width="1950" height="1238" frameX="0" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10003" x="1960" y="5" width="1950" height="1238" frameX="0" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10004" x="1960" y="5" width="1950" height="1238" frameX="0" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10005" x="1960" y="5" width="1950" height="1238" frameX="0" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10006" x="1960" y="5" width="1950" height="1238" frameX="0" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10007" x="3915" y="5" width="1959" height="1231" frameX="-2" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10008" x="5879" y="5" width="1977" height="1221" frameX="-6" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10009" x="5" y="1248" width="2062" height="912" frameX="-75" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10010" x="2072" y="1248" width="2062" height="637" frameX="-154" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10011" x="2072" y="1248" width="2062" height="637" frameX="-154" frameY="-190" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10012" x="4139" y="1248" width="2062" height="618" frameX="-221" frameY="-19" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10013" x="4139" y="1248" width="2062" height="618" frameX="-221" frameY="-19" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10014" x="5" y="2165" width="2063" height="632" frameX="-237" frameY="0" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10015" x="5" y="2165" width="2063" height="632" frameX="-237" frameY="0" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10016" x="2073" y="2165" width="2062" height="632" frameX="-244" frameY="-2" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10017" x="2073" y="2165" width="2062" height="632" frameX="-244" frameY="-2" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10018" x="2073" y="2165" width="2062" height="632" frameX="-244" frameY="-2" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10019" x="4140" y="2165" width="2062" height="622" frameX="-256" frameY="-56" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10020" x="4140" y="2165" width="2062" height="622" frameX="-256" frameY="-56" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10021" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10022" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10023" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10024" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10025" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10026" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10027" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10028" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10029" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10030" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10031" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10032" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10033" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10034" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10035" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10036" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10037" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10038" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10039" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="catch instance 10040" x="5" y="2802" width="2062" height="631" frameX="-254" frameY="-44" frameWidth="2318" frameHeight="1428"/>
+	<SubTexture name="idle instance 10000" x="2072" y="2802" width="550" height="938"/>
+	<SubTexture name="idle instance 10001" x="2072" y="2802" width="550" height="938"/>
+	<SubTexture name="idle instance 10002" x="2072" y="2802" width="550" height="938"/>
+	<SubTexture name="idle instance 10003" x="2072" y="2802" width="550" height="938"/>
+	<SubTexture name="idle instance 10004" x="2627" y="2802" width="550" height="938"/>
+	<SubTexture name="idle instance 10005" x="2627" y="2802" width="550" height="938"/>
+	<SubTexture name="idle instance 10006" x="2627" y="2802" width="550" height="938"/>
+	<SubTexture name="idle instance 10007" x="2627" y="2802" width="550" height="938"/>
+	<SubTexture name="reel instance 10000" x="3182" y="2802" width="550" height="939"/>
+	<SubTexture name="reel instance 10001" x="3182" y="2802" width="550" height="939"/>
+	<SubTexture name="reel instance 10002" x="3737" y="2802" width="550" height="938" frameX="0" frameY="0" frameWidth="550" frameHeight="939"/>
+	<SubTexture name="reel instance 10003" x="3737" y="2802" width="550" height="938" frameX="0" frameY="0" frameWidth="550" frameHeight="939"/>
+	<SubTexture name="reel instance 10004" x="4292" y="2802" width="550" height="936" frameX="0" frameY="0" frameWidth="550" frameHeight="939"/>
+	<SubTexture name="reel instance 10005" x="4292" y="2802" width="550" height="936" frameX="0" frameY="0" frameWidth="550" frameHeight="939"/>
+	<SubTexture name="reel instance 10006" x="4847" y="2802" width="550" height="937" frameX="0" frameY="0" frameWidth="550" frameHeight="939"/>
+	<SubTexture name="reel instance 10007" x="4847" y="2802" width="550" height="937" frameX="0" frameY="0" frameWidth="550" frameHeight="939"/>
+</TextureAtlas>

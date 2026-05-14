@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="cord.png" width="349" height="305">
+	<SubTexture name="cordCaught instance 10000" x="179" y="1" width="169" height="150" frameX="-1" frameY="-3" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10001" x="1" y="1" width="173" height="151" frameX="-0" frameY="-5" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10002" x="1" y="1" width="173" height="151" frameX="-0" frameY="-5" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10003" x="179" y="156" width="168" height="148" frameX="-3" frameY="-0" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10004" x="179" y="156" width="168" height="148" frameX="-3" frameY="-0" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10005" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10006" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10007" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10008" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10009" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10010" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10011" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10012" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordCaught instance 10013" x="1" y="157" width="172" height="147" frameX="-1" frameY="-2" frameWidth="173" frameHeight="156"/>
+	<SubTexture name="cordNormal instance 10000" x="179" y="1" width="169" height="150" frameX="-0" frameY="-0" frameWidth="173" frameHeight="156"/>
+</TextureAtlas>

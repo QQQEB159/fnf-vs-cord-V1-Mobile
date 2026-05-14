@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="cord.png" width="2713" height="534">
+	<SubTexture name="idle instance 10000" x="390" y="1" width="395" height="522" frameX="-0" frameY="-10" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10001" x="390" y="1" width="395" height="522" frameX="-0" frameY="-10" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10002" x="1" y="1" width="386" height="521" frameX="-10" frameY="-11" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10003" x="1" y="1" width="386" height="521" frameX="-10" frameY="-11" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10004" x="788" y="1" width="379" height="524" frameX="-15" frameY="-8" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10005" x="788" y="1" width="379" height="524" frameX="-15" frameY="-8" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10006" x="1170" y="1" width="382" height="531" frameX="-11" frameY="-1" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10007" x="1170" y="1" width="382" height="531" frameX="-11" frameY="-1" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10008" x="1555" y="1" width="384" height="532" frameX="-6" frameY="-0" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10009" x="1555" y="1" width="384" height="532" frameX="-6" frameY="-0" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10010" x="1942" y="1" width="383" height="532" frameX="-7" frameY="-0" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10011" x="1942" y="1" width="383" height="532" frameX="-7" frameY="-0" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10012" x="2328" y="1" width="384" height="532" frameX="-6" frameY="-0" frameWidth="396" frameHeight="533"/>
+	<SubTexture name="idle instance 10013" x="2328" y="1" width="384" height="532" frameX="-6" frameY="-0" frameWidth="396" frameHeight="533"/>
+</TextureAtlas>

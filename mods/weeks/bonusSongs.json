@@ -1,0 +1,43 @@
+{
+	"storyName": "Bonus Levels",
+	"hideFreeplay": false,
+	"weekBackground": "cord",
+	"weekBefore": "week6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"cord",
+		"boyfriend",
+		"titlecord"
+	],
+
+	"leftCharacter": {
+		"img": "cord"
+	},
+
+	"rightCharacter": {
+		"img": "boyfriend"
+	},
+	
+	"songs": [
+		[
+			"Catch!",
+			"lily",
+			[
+				75,
+				155,
+				151
+			]
+		],
+		[
+			"Miau",
+			"cord",
+			[
+				75,
+				95,
+				171
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": ""
+}

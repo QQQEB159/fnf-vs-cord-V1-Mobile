@@ -1,0 +1,37 @@
+{
+	"storyName": "How 2 Not Be Awkward",
+	"hideFreeplay": false,
+	"weekBackground": "dj",
+	"weekBefore": "weekcord",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"table_dj",
+		"table_cord",
+		""
+	],
+
+	"leftCharacter": {
+		"img": "table_dj",
+		"offsets": [-190,20]
+	},
+	"rightCharacter": {
+		"img": "table_cord",
+		"offsets": [190,43]
+	},
+	"icons": "icon2",
+	"gradient": "gradient2",
+	"storyBG": "bg2",
+	"songs": [
+		[
+			"Carefree",
+			"dj",
+			[
+				50,
+				93,
+				115
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Side Quest"
+}

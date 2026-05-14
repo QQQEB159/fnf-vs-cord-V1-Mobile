@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="border.png" width="4168" height="808">
+	<SubTexture name="Symbol 1 instance 10000" x="2781" y="1" width="1386" height="806" frameX="-0" frameY="-0" frameWidth="1387" frameHeight="806"/>
+	<SubTexture name="Symbol 1 instance 10001" x="1" y="1" width="1383" height="800" frameX="-2" frameY="-3" frameWidth="1387" frameHeight="806"/>
+	<SubTexture name="Symbol 1 instance 10002" x="1389" y="1" width="1387" height="800" frameX="-0" frameY="-3" frameWidth="1387" frameHeight="806"/>
+</TextureAtlas>

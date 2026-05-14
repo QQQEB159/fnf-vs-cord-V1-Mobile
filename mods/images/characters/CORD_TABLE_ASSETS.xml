@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="CORD_TABLE_ASSETS.png" width="3892" height="3908">
+	<SubTexture name="cordidle instance 10000" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10001" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10002" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10003" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10004" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10005" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10006" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10007" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10008" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10009" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10010" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10011" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10012" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10013" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10014" x="751" y="760" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10015" x="751" y="760" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10016" x="2330" y="748" width="387" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10017" x="2330" y="748" width="387" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10018" x="2330" y="748" width="387" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10019" x="2330" y="748" width="387" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10020" x="2720" y="1" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10021" x="2720" y="1" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10022" x="2720" y="1" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10023" x="2720" y="1" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10024" x="2720" y="1" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10025" x="2720" y="1" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10026" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10027" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10028" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10029" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10030" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10031" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10032" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10033" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10034" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10035" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10036" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10037" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10038" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10039" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10040" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10041" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10042" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10043" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10044" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10045" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10046" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10047" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10048" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10049" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10050" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10051" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10052" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10053" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10054" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10055" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10056" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10057" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10058" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10059" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10060" x="738" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10061" x="738" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10062" x="2226" y="2674" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10063" x="2226" y="2674" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10064" x="2720" y="745" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10065" x="2720" y="745" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10066" x="2720" y="745" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10067" x="2720" y="745" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10068" x="1497" y="1887" width="744" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10069" x="1497" y="1887" width="744" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10070" x="1497" y="1887" width="744" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10071" x="1497" y="1887" width="744" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10072" x="1497" y="1887" width="744" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10073" x="1497" y="1887" width="744" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10074" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10075" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10076" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10077" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10078" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10079" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10080" x="1" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10081" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10082" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10083" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10084" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10085" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10086" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10087" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10088" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10089" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10090" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10091" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10092" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10093" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10094" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10095" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10096" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10097" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10098" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10099" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10100" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10101" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10102" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10103" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10104" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10105" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10106" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10107" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10108" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10109" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10110" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10111" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10112" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10113" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10114" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10115" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10116" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10117" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10118" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10119" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10120" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10121" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10122" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10123" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10124" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10125" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10126" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10127" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10128" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10129" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10130" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10131" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10132" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10133" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10134" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10135" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10136" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10137" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10138" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10139" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10140" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10141" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10142" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10143" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10144" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10145" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10146" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10147" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10148" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10149" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10150" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10151" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10152" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10153" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10154" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10155" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10156" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10157" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10158" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10159" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10160" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10161" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10162" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10163" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10164" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10165" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10166" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10167" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10168" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10169" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10170" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10171" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10172" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10173" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10174" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10175" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10176" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10177" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10178" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10179" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10180" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10181" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10182" x="1" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10183" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10184" x="1" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10185" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10186" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10187" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10188" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10189" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10190" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10191" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10192" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10193" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10194" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10195" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10196" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10197" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10198" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10199" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10200" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10201" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10202" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10203" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10204" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10205" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10206" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10207" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10208" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10209" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10210" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10211" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10212" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10213" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10214" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10215" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10216" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10217" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10218" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10219" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10220" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10221" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10222" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10223" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10224" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10225" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10226" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10227" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10228" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10229" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10230" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10231" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10232" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10233" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10234" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10235" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10236" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10237" x="751" y="760" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10238" x="751" y="760" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10239" x="751" y="760" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10240" x="2330" y="748" width="387" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10241" x="2330" y="748" width="387" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10242" x="2330" y="748" width="387" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10243" x="2330" y="748" width="387" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10244" x="2720" y="1489" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10245" x="2720" y="1489" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10246" x="2720" y="1489" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10247" x="2720" y="1489" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10248" x="2720" y="1489" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10249" x="2720" y="1489" width="388" height="741" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10250" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10251" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10252" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10253" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10254" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10255" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10256" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10257" x="1486" y="2725" width="737" height="388" rotated="true" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10258" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10259" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10260" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10261" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10262" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10263" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10264" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10265" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10266" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10267" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10268" x="1" y="3127" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10269" x="1475" y="3116" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10270" x="2212" y="3116" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10271" x="2212" y="3116" width="734" height="389" rotated="true" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10272" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10273" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10274" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10275" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10276" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10277" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10278" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10279" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10280" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10281" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10282" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10283" x="3502" y="1" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10284" x="3502" y="738" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10285" x="3502" y="738" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10286" x="3502" y="738" width="389" height="734" frameX="-0" frameY="-13" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10287" x="3111" y="1" width="388" height="737" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10288" x="3111" y="1" width="388" height="737" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10289" x="3111" y="1" width="388" height="737" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10290" x="3111" y="1" width="388" height="737" frameX="-0" frameY="-9" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10291" x="2242" y="2277" width="741" height="388" rotated="true" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10292" x="2242" y="2277" width="741" height="388" rotated="true" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10293" x="2242" y="2277" width="741" height="388" rotated="true" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10294" x="2242" y="2277" width="741" height="388" rotated="true" frameX="-0" frameY="-5" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10295" x="2330" y="1" width="387" height="744" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10296" x="2330" y="1" width="387" height="744" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10297" x="2330" y="1" width="387" height="744" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10298" x="2330" y="1" width="387" height="744" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10299" x="2330" y="1" width="387" height="744" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10300" x="2330" y="1" width="387" height="744" frameX="-0" frameY="-2" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10301" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10302" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10303" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10304" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10305" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10306" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10307" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10308" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10309" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10310" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10311" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10312" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10313" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10314" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10315" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10316" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10317" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10318" x="1550" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10319" x="1499" y="749" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10320" x="1" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10321" x="1" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10322" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10323" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10324" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10325" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10326" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10327" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10328" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10329" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10330" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10331" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10332" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10333" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10334" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10335" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10336" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10337" x="2279" y="1494" width="388" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10338" x="2279" y="1494" width="388" height="743" frameX="-0" frameY="-3" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10339" x="1" y="774" width="747" height="387" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10340" x="1" y="774" width="747" height="387" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10341" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10342" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10343" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10344" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10345" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10346" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10347" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10348" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10349" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10350" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10351" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10352" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10353" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10354" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10355" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10356" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10357" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10358" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10359" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10360" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10361" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10362" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10363" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10364" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10365" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10366" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10367" x="749" y="1554" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10368" x="1499" y="749" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10369" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10370" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10371" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10372" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10373" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10374" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10375" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10376" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10377" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10378" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10379" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10380" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10381" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10382" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10383" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10384" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10385" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10386" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10387" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10388" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10389" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10390" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10391" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10392" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10393" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10394" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10395" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10396" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10397" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10398" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10399" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10400" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10401" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10402" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10403" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10404" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10405" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10406" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10407" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10408" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10409" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10410" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10411" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10412" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10413" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10414" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10415" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10416" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10417" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10418" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10419" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10420" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10421" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10422" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10423" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10424" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10425" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10426" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10427" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10428" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10429" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10430" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10431" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10432" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10433" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10434" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10435" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10436" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10437" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10438" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10439" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10440" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10441" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10442" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10443" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10444" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10445" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10446" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10447" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10448" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10449" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10450" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10451" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10452" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10453" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10454" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10455" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10456" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10457" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10458" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10459" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10460" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10461" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10462" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10463" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10464" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10465" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10466" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10467" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10468" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10469" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10470" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10471" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10472" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10473" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10474" x="1" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10475" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10476" x="749" y="1164" width="745" height="387" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10477" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordidle instance 10478" x="1160" y="1" width="387" height="745" frameX="-0" frameY="-1" frameWidth="389" frameHeight="747"/>
+	<SubTexture name="cordscared instance 10000" x="2986" y="2233" width="392" height="737" frameX="-0" frameY="-7" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10001" x="771" y="1" width="386" height="748" frameX="-0" frameY="-0" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10002" x="771" y="1" width="386" height="748" frameX="-0" frameY="-0" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10003" x="1" y="2334" width="742" height="387" rotated="true" frameX="-0" frameY="-4" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10004" x="1" y="2334" width="742" height="387" rotated="true" frameX="-0" frameY="-4" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10005" x="1" y="2334" width="742" height="387" rotated="true" frameX="-0" frameY="-4" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10006" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10007" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10008" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10009" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10010" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10011" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10012" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10013" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10014" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10015" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10016" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10017" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10018" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10019" x="1889" y="749" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10020" x="1940" y="1" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10021" x="1889" y="749" width="387" height="745" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10022" x="1497" y="1497" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10023" x="1497" y="1497" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10024" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10025" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10026" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10027" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10028" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10029" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10030" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10031" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10032" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10033" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10034" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10035" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10036" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10037" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10038" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10039" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10040" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10041" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10042" x="1" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10043" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10044" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10045" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10046" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10047" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10048" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10049" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10050" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10051" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10052" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10053" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10054" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10055" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10056" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10057" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10058" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10059" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10060" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10061" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10062" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10063" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10064" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10065" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10066" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10067" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10068" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10069" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10070" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10071" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10072" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10073" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10074" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10075" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10076" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10077" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10078" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10079" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10080" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10081" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10082" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10083" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10084" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10085" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10086" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10087" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10088" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10089" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10090" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10091" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10092" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10093" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10094" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10095" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10096" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10097" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10098" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10099" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10100" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10101" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10102" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10103" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10104" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10105" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10106" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10107" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10108" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10109" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10110" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10111" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10112" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10113" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10114" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10115" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10116" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10117" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10118" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10119" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10120" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10121" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10122" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10123" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10124" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10125" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="cordscared instance 10126" x="749" y="1944" width="745" height="387" rotated="true" frameX="-0" frameY="-2" frameWidth="393" frameHeight="748"/>
+	<SubTexture name="die0 instance 10000" x="3381" y="2212" width="386" height="732" frameX="-0" frameY="-8" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10001" x="746" y="2334" width="740" height="388" rotated="true" frameX="-0" frameY="-0" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10002" x="746" y="2334" width="740" height="388" rotated="true" frameX="-0" frameY="-0" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10003" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10004" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10005" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10006" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10007" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10008" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10009" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10010" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10011" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10012" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10013" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10014" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10015" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10016" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10017" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10018" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10019" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10020" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10021" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10022" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10023" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10024" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10025" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10026" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10027" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10028" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10029" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10030" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10031" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10032" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10033" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10034" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10035" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10036" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10037" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10038" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10039" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10040" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die0 instance 10041" x="745" y="2725" width="738" height="388" rotated="true" frameX="-0" frameY="-2" frameWidth="388" frameHeight="740"/>
+	<SubTexture name="die1 instance 10000" x="1475" y="3508" width="729" height="389" rotated="true" frameX="-0" frameY="-4" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10001" x="1" y="3519" width="732" height="388" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10002" x="1" y="3519" width="732" height="388" rotated="true" frameX="-0" frameY="-1" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10003" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10004" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10005" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10006" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10007" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10008" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10009" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10010" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10011" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10012" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10013" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10014" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10015" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10016" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10017" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10018" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10019" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10020" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10021" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10022" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10023" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10024" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10025" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10026" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10027" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10028" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10029" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10030" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10031" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10032" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10033" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10034" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10035" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10036" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10037" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10038" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10039" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10040" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="die1 instance 10041" x="2949" y="3065" width="733" height="389" rotated="true" frameX="-0" frameY="-0" frameWidth="389" frameHeight="733"/>
+	<SubTexture name="down instance 10000" x="2923" y="3508" width="704" height="393" rotated="true" frameX="-0" frameY="-7" frameWidth="395" frameHeight="713"/>
+	<SubTexture name="down instance 10001" x="2923" y="3508" width="704" height="393" rotated="true" frameX="-0" frameY="-7" frameWidth="395" frameHeight="713"/>
+	<SubTexture name="down instance 10002" x="2207" y="3508" width="713" height="395" rotated="true" frameX="-0" frameY="-0" frameWidth="395" frameHeight="713"/>
+	<SubTexture name="down instance 10003" x="2207" y="3508" width="713" height="395" rotated="true" frameX="-0" frameY="-0" frameWidth="395" frameHeight="713"/>
+	<SubTexture name="down instance 10004" x="2207" y="3508" width="713" height="395" rotated="true" frameX="-0" frameY="-0" frameWidth="395" frameHeight="713"/>
+	<SubTexture name="down instance 10005" x="2207" y="3508" width="713" height="395" rotated="true" frameX="-0" frameY="-0" frameWidth="395" frameHeight="713"/>
+	<SubTexture name="left instance 10000" x="3111" y="741" width="384" height="735" frameX="-0" frameY="-0" frameWidth="386" frameHeight="735"/>
+	<SubTexture name="left instance 10001" x="3111" y="741" width="384" height="735" frameX="-0" frameY="-0" frameWidth="386" frameHeight="735"/>
+	<SubTexture name="left instance 10002" x="3498" y="1475" width="386" height="734" frameX="-0" frameY="-1" frameWidth="386" frameHeight="735"/>
+	<SubTexture name="left instance 10003" x="3498" y="1475" width="386" height="734" frameX="-0" frameY="-1" frameWidth="386" frameHeight="735"/>
+	<SubTexture name="left instance 10004" x="3498" y="1475" width="386" height="734" frameX="-0" frameY="-1" frameWidth="386" frameHeight="735"/>
+	<SubTexture name="left instance 10005" x="3498" y="1475" width="386" height="734" frameX="-0" frameY="-1" frameWidth="386" frameHeight="735"/>
+	<SubTexture name="right instance 10000" x="1" y="2724" width="741" height="400" rotated="true" frameX="-0" frameY="-1" frameWidth="400" frameHeight="742"/>
+	<SubTexture name="right instance 10001" x="1" y="2724" width="741" height="400" rotated="true" frameX="-0" frameY="-1" frameWidth="400" frameHeight="742"/>
+	<SubTexture name="right instance 10002" x="1497" y="2277" width="742" height="394" rotated="true" frameX="-0" frameY="-0" frameWidth="400" frameHeight="742"/>
+	<SubTexture name="right instance 10003" x="1497" y="2277" width="742" height="394" rotated="true" frameX="-0" frameY="-0" frameWidth="400" frameHeight="742"/>
+	<SubTexture name="right instance 10004" x="1497" y="2277" width="742" height="394" rotated="true" frameX="-0" frameY="-0" frameWidth="400" frameHeight="742"/>
+	<SubTexture name="right instance 10005" x="1497" y="2277" width="742" height="394" rotated="true" frameX="-0" frameY="-0" frameWidth="400" frameHeight="742"/>
+	<SubTexture name="up instance 10000" x="1" y="1" width="382" height="770" frameX="-0" frameY="-0" frameWidth="383" frameHeight="770"/>
+	<SubTexture name="up instance 10001" x="1" y="1" width="382" height="770" frameX="-0" frameY="-0" frameWidth="383" frameHeight="770"/>
+	<SubTexture name="up instance 10002" x="386" y="1" width="382" height="756" frameX="-0" frameY="-10" frameWidth="383" frameHeight="770"/>
+	<SubTexture name="up instance 10003" x="386" y="1" width="382" height="756" frameX="-0" frameY="-10" frameWidth="383" frameHeight="770"/>
+	<SubTexture name="up instance 10004" x="386" y="1" width="382" height="756" frameX="-0" frameY="-10" frameWidth="383" frameHeight="770"/>
+	<SubTexture name="up instance 10005" x="386" y="1" width="382" height="756" frameX="-0" frameY="-10" frameWidth="383" frameHeight="770"/>
+</TextureAtlas>

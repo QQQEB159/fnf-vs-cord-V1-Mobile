@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="ruby.png" width="1942" height="849">
+	<SubTexture name="rubyBlink instance 10000" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10001" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10002" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10003" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10004" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10005" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10006" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10007" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10008" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10009" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10010" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10011" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10012" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyBlink instance 10013" x="1" y="1" width="646" height="847" frameX="-0" frameY="-0" frameWidth="648" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10000" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10001" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10002" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10003" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10004" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10005" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10006" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10007" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10008" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10009" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10010" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10011" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10012" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle0 instance 10013" x="650" y="1" width="645" height="847" frameX="-0" frameY="-0" frameWidth="649" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10000" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10001" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10002" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10003" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10004" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10005" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10006" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10007" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10008" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10009" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10010" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10011" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10012" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+	<SubTexture name="rubyIdle1 instance 10013" x="1298" y="1" width="643" height="847" frameX="-0" frameY="-0" frameWidth="646" frameHeight="851"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="liz.png" width="7386" height="1429">
+	<SubTexture name="liz instance 10000" x="1" y="1" width="1065" height="1399" frameX="-0" frameY="-37" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10001" x="1" y="1" width="1065" height="1399" frameX="-0" frameY="-37" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10002" x="1" y="1" width="1065" height="1399" frameX="-0" frameY="-37" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10003" x="1" y="1" width="1065" height="1399" frameX="-0" frameY="-37" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10004" x="1071" y="1" width="1063" height="1399" frameX="-0" frameY="-33" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10005" x="1071" y="1" width="1063" height="1399" frameX="-0" frameY="-33" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10006" x="1071" y="1" width="1063" height="1399" frameX="-0" frameY="-33" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10007" x="2139" y="1" width="1048" height="1408" frameX="-5" frameY="-19" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10008" x="2139" y="1" width="1048" height="1408" frameX="-5" frameY="-19" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10009" x="2139" y="1" width="1048" height="1408" frameX="-5" frameY="-19" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10010" x="4254" y="1" width="1042" height="1421" frameX="-8" frameY="-6" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10011" x="4254" y="1" width="1042" height="1421" frameX="-8" frameY="-6" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10012" x="4254" y="1" width="1042" height="1421" frameX="-8" frameY="-6" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10013" x="5301" y="1" width="1037" height="1425" frameX="-9" frameY="-2" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10014" x="5301" y="1" width="1037" height="1425" frameX="-9" frameY="-2" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10015" x="5301" y="1" width="1037" height="1425" frameX="-9" frameY="-2" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10016" x="5301" y="1" width="1037" height="1425" frameX="-9" frameY="-2" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10017" x="6343" y="1" width="1042" height="1427" frameX="-8" frameY="-0" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10018" x="6343" y="1" width="1042" height="1427" frameX="-8" frameY="-0" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10019" x="3192" y="1" width="1057" height="1415" frameX="-0" frameY="-12" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10020" x="3192" y="1" width="1057" height="1415" frameX="-0" frameY="-12" frameWidth="1069" frameHeight="1440"/>
+	<SubTexture name="liz instance 10021" x="3192" y="1" width="1057" height="1415" frameX="-0" frameY="-12" frameWidth="1069" frameHeight="1440"/>
+</TextureAtlas>

@@ -1,0 +1,115 @@
+{
+	"position": [
+		150,
+		100
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "CORD_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-60,
+				50
+			],
+			"loop_offsets": [
+				-60,
+				50
+			],
+			"anim": "talk",
+			"idle_name": "normal1",
+			"loop_name": "normal1"
+		},
+		{
+			"loop_offsets": [
+				-60,
+				0
+			],
+			"anim": "scared",
+			"idle_offsets": [
+				-60,
+				80
+			],
+			"loop_name": "scared",
+			"idle_name": "scared"
+		},
+		{
+			"loop_name": "happy",
+			"idle_offsets": [
+				-60,
+				50
+			],
+			"idle_name": "happy",
+			"anim": "happy",
+			"loop_offsets": [
+				-60,
+				50
+			]
+		},
+		{
+			"loop_name": "confused",
+			"idle_offsets": [
+				-60,
+				90
+			],
+			"idle_name": "confused",
+			"anim": "confused",
+			"loop_offsets": [
+				-60,
+				90
+			]
+		},
+		{
+			"loop_name": "normal2",
+			"idle_offsets": [
+				-60,
+				50
+			],
+			"idle_name": "normal2",
+			"anim": "ready",
+			"loop_offsets": [
+				-60,
+				50
+			]
+		},
+		{
+			"loop_name": "angry1",
+			"idle_offsets": [
+				-40,
+				30
+			],
+			"idle_name": "angry1",
+			"anim": "angry",
+			"loop_offsets": [
+				-40,
+				30
+			]
+		},
+		{
+			"loop_name": "angry2",
+			"idle_offsets": [
+				-43,
+				27
+			],
+			"idle_name": "angry2",
+			"anim": "pissed",
+			"loop_offsets": [
+				-43,
+				27
+			]
+		},
+		{
+			"loop_name": "confident",
+			"idle_offsets": [
+				-40,
+				80
+			],
+			"idle_name": "confident",
+			"anim": "confident",
+			"loop_offsets": [
+				-40,
+				80
+			]
+		}
+	]
+}

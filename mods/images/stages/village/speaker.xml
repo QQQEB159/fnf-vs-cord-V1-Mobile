@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speaker.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speaker instance 10000" x="5" y="5" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10001" x="266" y="5" width="257" height="307"/>
+	<SubTexture name="speaker instance 10002" x="266" y="5" width="257" height="307"/>
+	<SubTexture name="speaker instance 10003" x="528" y="5" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10004" x="528" y="5" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10005" x="528" y="5" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10006" x="5" y="317" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10007" x="5" y="317" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10008" x="5" y="317" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10009" x="5" y="317" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10010" x="5" y="317" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10011" x="5" y="317" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10012" x="5" y="317" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+	<SubTexture name="speaker instance 10013" x="5" y="317" width="256" height="306" frameX="-1" frameY="-1" frameWidth="257" frameHeight="307"/>
+</TextureAtlas>

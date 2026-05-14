@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="oldWaiter.png" width="317" height="514">
+	<SubTexture name="idle0000" x="1" y="1" width="315" height="512" frameX="-0" frameY="-0" frameWidth="315" frameHeight="513"/>
+</TextureAtlas>

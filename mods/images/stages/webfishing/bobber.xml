@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bobber.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bobber instance 10000" x="5" y="5" width="486" height="409" frameX="-82" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10001" x="5" y="5" width="486" height="409" frameX="-82" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10002" x="5" y="5" width="486" height="409" frameX="-82" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10003" x="5" y="5" width="486" height="409" frameX="-82" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10004" x="496" y="5" width="488" height="409" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10005" x="496" y="5" width="488" height="409" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10006" x="496" y="5" width="488" height="409" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10007" x="989" y="5" width="496" height="409" frameX="-75" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10008" x="1490" y="5" width="496" height="411" frameX="-75" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10009" x="1490" y="5" width="496" height="411" frameX="-75" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10010" x="1490" y="5" width="496" height="411" frameX="-75" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10011" x="5" y="421" width="537" height="411" frameX="-54" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10012" x="547" y="421" width="537" height="409" frameX="-54" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10013" x="547" y="421" width="537" height="409" frameX="-54" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10014" x="547" y="421" width="537" height="409" frameX="-54" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10015" x="1089" y="421" width="592" height="409" frameX="-27" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10016" x="1089" y="421" width="592" height="409" frameX="-27" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10017" x="1089" y="421" width="592" height="409" frameX="-27" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10018" x="1089" y="421" width="592" height="409" frameX="-27" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10019" x="5" y="837" width="631" height="409" frameX="-8" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10020" x="641" y="837" width="631" height="411" frameX="-8" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10021" x="641" y="837" width="631" height="411" frameX="-8" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10022" x="641" y="837" width="631" height="411" frameX="-8" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10023" x="1277" y="837" width="646" height="411"/>
+	<SubTexture name="bobber instance 10024" x="5" y="1253" width="646" height="409" frameX="0" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10025" x="5" y="1253" width="646" height="409" frameX="0" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10026" x="5" y="5" width="486" height="409" frameX="-82" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10027" x="5" y="5" width="486" height="409" frameX="-82" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10028" x="496" y="5" width="488" height="409" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10029" x="496" y="5" width="488" height="409" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10030" x="496" y="5" width="488" height="409" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10031" x="496" y="5" width="488" height="409" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10032" x="656" y="1253" width="488" height="411" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10033" x="656" y="1253" width="488" height="411" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10034" x="656" y="1253" width="488" height="411" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+	<SubTexture name="bobber instance 10035" x="656" y="1253" width="488" height="411" frameX="-81" frameY="0" frameWidth="646" frameHeight="411"/>
+</TextureAtlas>

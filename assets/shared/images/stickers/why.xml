@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="2.png" width="1268" height="1441">
+	<SubTexture name="croyxc" x="361" y="428" width="426" height="407" frameX="-6" frameY="-3" frameWidth="441" frameHeight="422"/>
+	<SubTexture name="funkypop" x="1" y="1226" width="208" height="214" frameX="-0" frameY="-0" frameWidth="211" frameHeight="218"/>
+	<SubTexture name="infrysticker" x="361" y="840" width="204" height="508" frameX="-3" frameY="-9" frameWidth="213" frameHeight="521"/>
+	<SubTexture name="neo" x="868" y="1" width="399" height="242" frameX="-2" frameY="-2" frameWidth="408" frameHeight="250"/>
+	<SubTexture name="noahhg" x="1" y="934" width="247" height="287" frameX="-1" frameY="-1" frameWidth="253" frameHeight="293"/>
+	<SubTexture name="vlad" x="1" y="1" width="468" height="422" frameX="-1" frameY="-1" frameWidth="474" frameHeight="428"/>
+	<SubTexture name="data1" x="792" y="731" width="234" height="573" frameX="-1" frameY="-1" frameWidth="239" frameHeight="579"/>
+	<SubTexture name="data2" x="1031" y="731" width="234" height="573" frameX="-1" frameY="-1" frameWidth="239" frameHeight="578"/>
+	<SubTexture name="efan" x="1" y="428" width="355" height="501" frameX="-1" frameY="-1" frameWidth="361" frameHeight="507"/>
+	<SubTexture name="headdzo" x="474" y="1" width="389" height="369" frameX="-2" frameY="-3" frameWidth="396" frameHeight="376"/>
+	<SubTexture name="lemon" x="792" y="375" width="408" height="351" frameX="-1" frameY="-1" frameWidth="414" frameHeight="356"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="monster.png" width="1789" height="573">
+	<SubTexture name="monster instance 10000" x="603" y="1" width="591" height="559" frameX="-4" frameY="-12" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10001" x="603" y="1" width="591" height="559" frameX="-4" frameY="-12" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10002" x="603" y="1" width="591" height="559" frameX="-4" frameY="-12" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10003" x="603" y="1" width="591" height="559" frameX="-4" frameY="-12" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10004" x="1199" y="1" width="589" height="571" frameX="-2" frameY="-0" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10005" x="1199" y="1" width="589" height="571" frameX="-2" frameY="-0" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10006" x="1199" y="1" width="589" height="571" frameX="-2" frameY="-0" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10007" x="1199" y="1" width="589" height="571" frameX="-2" frameY="-0" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10008" x="1" y="1" width="597" height="559" frameX="-1" frameY="-10" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10009" x="1" y="1" width="597" height="559" frameX="-1" frameY="-10" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10010" x="1" y="1" width="597" height="559" frameX="-1" frameY="-10" frameWidth="598" frameHeight="571"/>
+	<SubTexture name="monster instance 10011" x="1" y="1" width="597" height="559" frameX="-1" frameY="-10" frameWidth="598" frameHeight="571"/>
+</TextureAtlas>

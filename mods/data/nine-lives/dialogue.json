@@ -1,0 +1,191 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Sigh...",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "happy",
+			"text": "Never thought I'd enjoy this...",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "angry",
+			"text": "Which is weird considering you literally BROKE into my house.",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "silent",
+			"text": "...",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/nothing"
+		},
+		{
+			"expression": "confused",
+			"text": "What?",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "cocky",
+			"text": "Bep bap beep!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "confused",
+			"text": "What do you mean I lost again?!",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "angry",
+			"text": "I totally won that!",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "stupid",
+			"text": "Bap!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "scared",
+			"text": "Wait WHAT?!?! IT'S MIDNIGHT ALREADY?!?!",
+			"boxState": "normal",
+			"sound": "dialogue/cordScared",
+			"speed": 0.035,
+			"portrait": "cord"
+		},
+		{
+			"expression": "scared",
+			"text": "How long have we been doing this for?!\rI wasn't looking at the time...",
+			"boxState": "normal",
+			"sound": "dialogue/cordScared",
+			"speed": 0.03,
+			"portrait": "cord"
+		},
+		{
+			"expression": "stupid",
+			"text": "Skebap Bap!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Um... okay look. We had our fun, but It's getting late and I think you should start heading out.",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "confused",
+			"text": "I need sleep too y'know?",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "angry",
+			"text": "What? No, I can't do one more.",
+			"boxState": "normal",
+			"sound": "dialogue/cordNormal",
+			"speed": 0.05,
+			"portrait": "cord"
+		},
+		{
+			"expression": "stupid",
+			"text": "Bep?-",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf",
+			"autoSkip": true
+		},
+		{
+			"expression": "angry",
+			"text": "I said no.",
+			"portrait": "cord",
+			"speed": 0.035,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "silent",
+			"text": "...?",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"portrait": "cord",
+			"speed": 0.1,
+			"sound": "dialogue/nothing"
+		},
+		{
+			"expression": "ready",
+			"text": "Okay fine, ONE more.",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "peace",
+			"text": "YEA!",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dialogue/bf"
+		},
+		{
+			"expression": "confident",
+			"text": "Better be ready, It wont be easy this time!",
+			"portrait": "cord",
+			"speed": 0.05,
+			"sound": "dialogue/cordNormal"
+		},
+		{
+			"expression": "confident",
+			"text": "...",
+			"portrait": "cord",
+			"speed": 0.1,
+			"sound": "dialogue/nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "...Ok well, maybe not. I'm still tired.",
+			"portrait": "cord",
+			"speed": 0.06,
+			"sound": "dialogue/cordNormal"
+		}
+	]
+}

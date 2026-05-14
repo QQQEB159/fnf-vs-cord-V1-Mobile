@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="2.png" width="1448" height="298">
+	<SubTexture name="bunnySticker1 instance 10000" x="277" y="1" width="315" height="278" frameX="-0" frameY="-1" frameWidth="316" frameHeight="279"/>
+	<SubTexture name="bunnySticker2 instance 10000" x="1" y="1" width="273" height="221" frameX="-0" frameY="-0" frameWidth="274" frameHeight="221"/>
+	<SubTexture name="bunnySticker3 instance 10000" x="595" y="1" width="254" height="284" frameX="-0" frameY="-0" frameWidth="255" frameHeight="285"/>
+	<SubTexture name="bunnySticker4 instance 10000" x="852" y="1" width="331" height="285" frameX="-0" frameY="-1" frameWidth="331" frameHeight="286"/>
+	<SubTexture name="bunnySticker5 instance 10000" x="1186" y="1" width="261" height="296" frameX="-0" frameY="-1" frameWidth="261" frameHeight="297"/>
+</TextureAtlas>

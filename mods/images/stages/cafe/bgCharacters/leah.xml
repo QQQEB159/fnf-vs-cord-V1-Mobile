@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="leah.png" width="800" height="765">
+	<SubTexture name="leah instance 10000" x="402" y="1" width="397" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10001" x="402" y="1" width="397" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10002" x="402" y="1" width="397" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10003" x="402" y="1" width="397" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10004" x="402" y="1" width="397" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10005" x="402" y="1" width="397" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10006" x="402" y="1" width="397" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10007" x="402" y="1" width="397" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10008" x="1" y="1" width="398" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10009" x="1" y="1" width="398" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10010" x="1" y="1" width="398" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10011" x="1" y="1" width="398" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10012" x="1" y="1" width="398" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10013" x="1" y="1" width="398" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10014" x="1" y="1" width="398" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+	<SubTexture name="leah instance 10015" x="1" y="1" width="398" height="763" frameX="-0" frameY="-0" frameWidth="400" frameHeight="767"/>
+</TextureAtlas>

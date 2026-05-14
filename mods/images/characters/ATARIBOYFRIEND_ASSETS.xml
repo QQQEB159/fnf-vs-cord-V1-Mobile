@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="ATARIBOYFRIEND_ASSETS.png" width="126" height="16">
+	<SubTexture name="down instance 10000" x="1" y="1" width="22" height="13" frameX="-4" frameY="-4" frameWidth="32" frameHeight="17"/>
+	<SubTexture name="idle instance 10000" x="76" y="1" width="24" height="14" frameX="-4" frameY="-3" frameWidth="33" frameHeight="17"/>
+	<SubTexture name="left instance 10000" x="105" y="1" width="20" height="14" frameX="-6" frameY="-3" frameWidth="32" frameHeight="17"/>
+	<SubTexture name="right instance 10000" x="28" y="1" width="20" height="13" frameX="-8" frameY="-4" frameWidth="33" frameHeight="17"/>
+	<SubTexture name="up instance 10000" x="53" y="1" width="18" height="13" frameX="-8" frameY="-4" frameWidth="33" frameHeight="17"/>
+</TextureAtlas>

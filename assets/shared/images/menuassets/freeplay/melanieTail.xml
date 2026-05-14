@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="melanieTail.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tailIdle instance 10000" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10001" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10002" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10003" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10004" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10005" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10006" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10007" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10008" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10009" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10010" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10011" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10012" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10013" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10014" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10015" x="5" y="5" width="187" height="202" frameX="0" frameY="0" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10016" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10017" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10018" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10019" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10020" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10021" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10022" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10023" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10024" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10025" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10026" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10027" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10028" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10029" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10030" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailIdle instance 10031" x="197" y="5" width="188" height="200" frameX="0" frameY="-2" frameWidth="188" frameHeight="202"/>
+	<SubTexture name="tailTalking instance 10000" x="390" y="5" width="187" height="202" frameX="-2" frameY="0" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10001" x="390" y="5" width="187" height="202" frameX="-2" frameY="0" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10002" x="390" y="5" width="187" height="202" frameX="-2" frameY="0" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10003" x="582" y="5" width="190" height="197" frameX="0" frameY="-8" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10004" x="582" y="5" width="190" height="197" frameX="0" frameY="-8" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10005" x="582" y="5" width="190" height="197" frameX="0" frameY="-8" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10006" x="777" y="5" width="193" height="198" frameX="0" frameY="-8" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10007" x="777" y="5" width="193" height="198" frameX="0" frameY="-8" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10008" x="777" y="5" width="193" height="198" frameX="0" frameY="-8" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10009" x="5" y="212" width="190" height="203" frameX="-2" frameY="-4" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10010" x="5" y="212" width="190" height="203" frameX="-2" frameY="-4" frameWidth="193" frameHeight="207"/>
+	<SubTexture name="tailTalking instance 10011" x="5" y="212" width="190" height="203" frameX="-2" frameY="-4" frameWidth="193" frameHeight="207"/>
+</TextureAtlas>

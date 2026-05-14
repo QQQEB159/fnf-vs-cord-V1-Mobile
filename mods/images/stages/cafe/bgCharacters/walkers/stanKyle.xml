@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="stanKyle.png" width="2819" height="318">
+	<SubTexture name="idle0000" x="705" y="1" width="344" height="310" frameX="-5" frameY="-5" frameWidth="356" frameHeight="317"/>
+	<SubTexture name="idle0001" x="2115" y="1" width="346" height="314" frameX="-3" frameY="-1" frameWidth="356" frameHeight="317"/>
+	<SubTexture name="idle0002" x="1052" y="1" width="348" height="311" frameX="-3" frameY="-1" frameWidth="356" frameHeight="317"/>
+	<SubTexture name="idle0003" x="1" y="1" width="351" height="307" frameX="-0" frameY="-5" frameWidth="356" frameHeight="317"/>
+	<SubTexture name="idle0004" x="1403" y="1" width="356" height="312" frameX="-0" frameY="-5" frameWidth="356" frameHeight="317"/>
+	<SubTexture name="idle0005" x="2464" y="1" width="354" height="316" frameX="-2" frameY="-1" frameWidth="356" frameHeight="317"/>
+	<SubTexture name="idle0006" x="1762" y="1" width="350" height="312" frameX="-2" frameY="-1" frameWidth="356" frameHeight="317"/>
+	<SubTexture name="idle0007" x="355" y="1" width="347" height="308" frameX="-5" frameY="-5" frameWidth="356" frameHeight="317"/>
+</TextureAtlas>

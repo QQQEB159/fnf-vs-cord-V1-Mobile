@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="bratty_idle.png" width="4278" height="394">
+	<SubTexture name="bratty instance 10000" x="2578" y="1" width="847" height="392" rotated="true" frameX="-0" frameY="-11" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10001" x="2578" y="1" width="847" height="392" rotated="true" frameX="-0" frameY="-11" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10002" x="3430" y="1" width="847" height="392" rotated="true" frameX="-0" frameY="-11" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10003" x="3430" y="1" width="847" height="392" rotated="true" frameX="-0" frameY="-11" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10004" x="1724" y="1" width="849" height="388" rotated="true" frameX="-2" frameY="-9" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10005" x="1724" y="1" width="849" height="388" rotated="true" frameX="-2" frameY="-9" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10006" x="1" y="1" width="855" height="386" rotated="true" frameX="-3" frameY="-3" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10007" x="1" y="1" width="855" height="386" rotated="true" frameX="-3" frameY="-3" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10008" x="861" y="1" width="858" height="386" rotated="true" frameX="-3" frameY="-0" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10009" x="861" y="1" width="858" height="386" rotated="true" frameX="-3" frameY="-0" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10010" x="861" y="1" width="858" height="386" rotated="true" frameX="-3" frameY="-0" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10011" x="861" y="1" width="858" height="386" rotated="true" frameX="-3" frameY="-0" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10012" x="861" y="1" width="858" height="386" rotated="true" frameX="-3" frameY="-0" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10013" x="861" y="1" width="858" height="386" rotated="true" frameX="-3" frameY="-0" frameWidth="392" frameHeight="859"/>
+	<SubTexture name="bratty instance 10014" x="861" y="1" width="858" height="386" rotated="true" frameX="-3" frameY="-0" frameWidth="392" frameHeight="859"/>
+</TextureAtlas>

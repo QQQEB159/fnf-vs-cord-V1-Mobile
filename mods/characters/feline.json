@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				34
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "char/.costume feline sprites/leftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "char/.costume feline sprites/rightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				75
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "char/.costume feline sprites/upMiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				36,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "char/.costume feline sprites/downMiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "char/.costume feline sprites/left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "char/.costume feline sprites/right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "char/.costume feline sprites/up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				45,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "char/.costume feline sprites/down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				13,
+				2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "char/.costume feline sprites/idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/feline",
+	"position": [
+		-100,
+		40
+	],
+	"healthicon": "feline",
+	"flip_x": true,
+	"healthbar_colors": [
+		230,
+		129,
+		217
+	],
+	"camera_position": [
+		-70,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

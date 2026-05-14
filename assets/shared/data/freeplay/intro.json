@@ -1,0 +1,33 @@
+[
+
+	{
+		"text": "Oh, hey there. Im assuming you're new here, so I'll show you around the place.",
+		"anim": "talk"
+	},
+	{
+		"text": "Not because I want to though, my boss would get mad at me.",
+		"anim": "talk-moody"
+	},
+	{
+	"text": "First, if you need help picking a song, navigate through the record by pressing the *Up Arrow or Down Arrow* keys.",
+		"anim": "talk-sideEye"
+	},
+	{
+		"text": "Changing the difficulty of your song is about the same, just press the *Left Arrow or Right Arrow* keys to suit your liking.",
+		"anim": "talk-sideEye"
+	},
+	{
+		"text": "Your difficulty will show up in the top left.",
+		"anim": "talk-sideEye"
+	},
+	{
+		"text": "And if you ever wanna talk again for some reason, *press T on your keyboard*.",
+		"anim": "talk"
+	},
+	{
+		"text": "Now go, shoo.",
+		"anim": "talk-moody"
+	}
+]
+
+

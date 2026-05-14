@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="ravenTeamFreaker.png" width="691" height="650">
+	<SubTexture name="AAKLALALAF instance 10000" x="1" y="1" width="345" height="648" frameX="-0" frameY="-0" frameWidth="345" frameHeight="652"/>
+	<SubTexture name="AAKLALALAF instance 10001" x="1" y="1" width="345" height="648" frameX="-0" frameY="-0" frameWidth="345" frameHeight="652"/>
+	<SubTexture name="AAKLALALAF instance 10002" x="1" y="1" width="345" height="648" frameX="-0" frameY="-0" frameWidth="345" frameHeight="652"/>
+	<SubTexture name="AAKLALALAF instance 10003" x="1" y="1" width="345" height="648" frameX="-0" frameY="-0" frameWidth="345" frameHeight="652"/>
+	<SubTexture name="AAKLALALAF instance 10004" x="349" y="1" width="341" height="648" frameX="-0" frameY="-0" frameWidth="345" frameHeight="652"/>
+	<SubTexture name="AAKLALALAF instance 10005" x="349" y="1" width="341" height="648" frameX="-0" frameY="-0" frameWidth="345" frameHeight="652"/>
+	<SubTexture name="AAKLALALAF instance 10006" x="349" y="1" width="341" height="648" frameX="-0" frameY="-0" frameWidth="345" frameHeight="652"/>
+	<SubTexture name="AAKLALALAF instance 10007" x="349" y="1" width="341" height="648" frameX="-0" frameY="-0" frameWidth="345" frameHeight="652"/>
+</TextureAtlas>

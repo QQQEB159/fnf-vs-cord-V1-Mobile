@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spritesheet.png">
+	<SubTexture name="coin0000" x="0" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="spin0000" x="13" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="spin0001" x="26" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="spin0002" x="13" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="spin0003" x="0" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="spin0004" x="13" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="spin0005" x="26" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="spin0006" x="13" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="spin0007" x="0" y="0" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="get0000" x="0" y="10" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="get0001" x="13" y="10" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="get0002" x="26" y="10" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+	<SubTexture name="get0003" x="0" y="20" width="13" height="10" frameX="-3" frameY="-4" frameWidth="18" frameHeight="18" />
+</TextureAtlas>

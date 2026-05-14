@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="grav.png" width="1587" height="684">
+	<SubTexture name="graev instance 10000" x="1" y="1" width="399" height="673" frameX="-0" frameY="-9" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10001" x="1" y="1" width="399" height="673" frameX="-0" frameY="-9" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10002" x="1" y="1" width="399" height="673" frameX="-0" frameY="-9" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10003" x="405" y="1" width="393" height="677" frameX="-3" frameY="-5" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10004" x="405" y="1" width="393" height="677" frameX="-3" frameY="-5" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10005" x="405" y="1" width="393" height="677" frameX="-3" frameY="-5" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10006" x="803" y="1" width="389" height="681" frameX="-5" frameY="-1" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10007" x="803" y="1" width="389" height="681" frameX="-5" frameY="-1" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10008" x="803" y="1" width="389" height="681" frameX="-5" frameY="-1" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10009" x="1197" y="1" width="389" height="682" frameX="-5" frameY="-0" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10010" x="1197" y="1" width="389" height="682" frameX="-5" frameY="-0" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10011" x="1197" y="1" width="389" height="682" frameX="-5" frameY="-0" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10012" x="1197" y="1" width="389" height="682" frameX="-5" frameY="-0" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10013" x="1197" y="1" width="389" height="682" frameX="-5" frameY="-0" frameWidth="400" frameHeight="683"/>
+	<SubTexture name="graev instance 10014" x="1197" y="1" width="389" height="682" frameX="-5" frameY="-0" frameWidth="400" frameHeight="683"/>
+</TextureAtlas>

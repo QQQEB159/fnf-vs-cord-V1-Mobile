@@ -1,0 +1,768 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					],
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				4800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.56"
+					]
+				]
+			],
+			[
+				7200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.57"
+					]
+				]
+			],
+			[
+				8400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.58"
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				12600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			],
+			[
+				13200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					],
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"0.015"
+					]
+				]
+			],
+			[
+				13500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"0.015"
+					]
+				]
+			],
+			[
+				13800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"0.015"
+					]
+				]
+			],
+			[
+				14100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"0.015"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				16800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				17400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					],
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"0.015"
+					]
+				]
+			],
+			[
+				18300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"0.015"
+					]
+				]
+			],
+			[
+				18600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"0.015"
+					]
+				]
+			],
+			[
+				18900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.005",
+						"0.015"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				26400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.71"
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.72"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.73"
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.74"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				47850,
+				[
+					[
+						"Play Animation",
+						"shocked",
+						"BF"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"cat"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"0.35"
+					],
+					[
+						"Set GF Speed",
+						"32",
+						""
+					]
+				]
+			],
+			[
+				49500,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				55200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					],
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				55500,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			],
+			[
+				55800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					]
+				]
+			],
+			[
+				56100,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				61200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.75"
+					]
+				]
+			],
+			[
+				64500,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					]
+				]
+			],
+			[
+				65400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.85"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				70800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				73200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			],
+			[
+				74100,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.75"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.625"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.7"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.625"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.75"
+					]
+				]
+			],
+			[
+				84600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					]
+				]
+			],
+			[
+				84900,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.825"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.55"
+					]
+				]
+			],
+			[
+				94800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.625"
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.675"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.625"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.65"
+					],
+					[
+						"Set GF Speed",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				109200,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.6"
+					],
+					[
+						"Set GF Speed",
+						"32",
+						""
+					]
+				]
+			]
+		]
+	}
+}

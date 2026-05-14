@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="nolim.png" width="1097" height="269">
+	<SubTexture name="nolimOnthepute instance 10000" x="1" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10001" x="1" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10002" x="1" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10003" x="1" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10004" x="1" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10005" x="1" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10006" x="1" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10007" x="367" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10008" x="367" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10009" x="367" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10010" x="367" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10011" x="367" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10012" x="367" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10013" x="367" y="1" width="363" height="267" frameX="-0" frameY="-0" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10014" x="733" y="1" width="363" height="266" frameX="-0" frameY="-1" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10015" x="733" y="1" width="363" height="266" frameX="-0" frameY="-1" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10016" x="733" y="1" width="363" height="266" frameX="-0" frameY="-1" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10017" x="733" y="1" width="363" height="266" frameX="-0" frameY="-1" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10018" x="733" y="1" width="363" height="266" frameX="-0" frameY="-1" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10019" x="733" y="1" width="363" height="266" frameX="-0" frameY="-1" frameWidth="364" frameHeight="267"/>
+	<SubTexture name="nolimOnthepute instance 10020" x="733" y="1" width="363" height="266" frameX="-0" frameY="-1" frameWidth="364" frameHeight="267"/>
+</TextureAtlas>

@@ -1,0 +1,92 @@
+[
+	{
+		"profile": "default",
+		"pkgs": [
+			{
+				"name": "flixel",
+				"version": "6.0.0"
+			},
+			{
+				"name": "flixel-addons",
+				"link": "https://github.com/HaxeFlixel/flixel-addons",
+				"branch": "dcd3895f404fece5580d28f2d47c3cb12b279a2b"
+			},
+			{
+				"name": "flixel-ui",
+				"version": "2.6.4"
+			},
+			{
+				"name": "flixel-animate",
+				"link": "https://github.com/MaybeMaru/flixel-animate",
+				"branch": "4fb307acac9379966dfa0b7619b37036fcd39b32"
+			},
+			{
+				"name": "lib5",
+				"link": "https://github.com/FixedData/Lib5"
+			},
+			{
+				"name": "hscript",
+				"version": "2.6.0"
+			},
+			{
+				"name": "littleBigInt"
+			},
+			{
+				"name": "hscript-iris",
+				"version": "1.1.3"
+			},
+			{
+				"name": "hxcpp-debug-server",
+				"version": "1.2.4"
+			},
+			{
+				"name": "tjson",
+				"version": "1.4.0"
+			},
+			{
+				"name": "hxcpp",
+				"link": "https://github.com/HaxeFoundation/hxcpp",
+				"branch": "be7ef02b785cf9cac8377b0ddbeef5026aa65221"
+			},
+			{
+				"name": "hxvlc",
+				"link": "https://github.com/MAJigsaw77/hxvlc",
+				"branch": "e3e87dc7d3142a083aac39749173d00a4ecb7b70"
+			},
+			{
+				"name": "lime",
+				"version": "8.1.3"
+			},
+			{
+				"name": "openfl",
+				"link": "https://github.com/openfl/openfl",
+				"branch": "2dc98531ee685c465ad98cfebef6da3002648840"
+			},
+			{
+				"name": "hxdiscord_rpc",
+				"version": "1.2.4"
+			},
+			{
+				"name": "flxgif",
+				"version": "1.0.3"
+			},
+			{
+				"name": "yagp",
+				"version": "1.1.4"
+			},
+			{
+				"name": "newgrounds",
+				"version": "2.0.3"
+			},
+			{
+				"name": "hxWebP",
+				"version": "0.4.0"
+			},
+			{
+				"name": "linc_luajit",
+				"link": "https://github.com/superpowers04/linc_luajit",
+				"branch": "daf0664aee99aa8b8d6bdd1eda993a1c3a399067"
+			}
+		]
+	}
+]

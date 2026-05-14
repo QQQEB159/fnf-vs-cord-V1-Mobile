@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="cord_couchjump.png" width="3097" height="2986">
+	<SubTexture name="cordjumpanim instance 10000" x="1" y="1" width="631" height="861" frameX="-71" frameY="-132" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10001" x="1" y="1" width="631" height="861" frameX="-71" frameY="-132" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10002" x="1" y="1" width="631" height="861" frameX="-71" frameY="-132" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10003" x="1" y="1" width="631" height="861" frameX="-71" frameY="-132" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10004" x="1" y="1" width="631" height="861" frameX="-71" frameY="-132" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10005" x="1" y="1" width="631" height="861" frameX="-71" frameY="-132" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10006" x="1" y="1" width="631" height="861" frameX="-71" frameY="-132" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10007" x="1" y="1" width="631" height="861" frameX="-71" frameY="-132" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10008" x="635" y="1" width="633" height="826" frameX="-77" frameY="-175" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10009" x="635" y="1" width="633" height="826" frameX="-77" frameY="-175" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10010" x="635" y="1" width="633" height="826" frameX="-77" frameY="-175" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10011" x="635" y="1" width="633" height="826" frameX="-77" frameY="-175" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10012" x="1271" y="774" width="650" height="644" rotated="true" frameX="-79" frameY="-271" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10013" x="1271" y="774" width="650" height="644" rotated="true" frameX="-79" frameY="-271" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10014" x="807" y="1421" width="596" height="628" frameX="-115" frameY="-269" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10015" x="807" y="1421" width="596" height="628" frameX="-115" frameY="-269" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10016" x="807" y="1421" width="596" height="628" frameX="-115" frameY="-269" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10017" x="807" y="1421" width="596" height="628" frameX="-115" frameY="-269" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10018" x="1" y="865" width="803" height="681" rotated="true" frameX="-0" frameY="-104" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10019" x="1" y="865" width="803" height="681" rotated="true" frameX="-0" frameY="-104" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10020" x="1271" y="1" width="693" height="770" frameX="-42" frameY="-0" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10021" x="1271" y="1" width="693" height="770" frameX="-42" frameY="-0" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10022" x="1271" y="1" width="693" height="770" frameX="-42" frameY="-0" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10023" x="1271" y="1" width="693" height="770" frameX="-42" frameY="-0" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10024" x="1" y="1549" width="641" height="582" rotated="true" frameX="-93" frameY="-66" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10025" x="1" y="1549" width="641" height="582" rotated="true" frameX="-93" frameY="-66" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10026" x="1" y="1549" width="641" height="582" rotated="true" frameX="-93" frameY="-66" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10027" x="1406" y="1421" width="533" height="624" frameX="-118" frameY="-106" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10028" x="1406" y="1421" width="533" height="624" frameX="-118" frameY="-106" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10029" x="2445" y="2397" width="437" height="555" frameX="-176" frameY="-201" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10030" x="807" y="830" width="356" height="556" frameX="-234" frameY="-235" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10031" x="807" y="830" width="356" height="556" frameX="-234" frameY="-235" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10032" x="2723" y="1822" width="361" height="572" frameX="-234" frameY="-218" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10033" x="2723" y="1822" width="361" height="572" frameX="-234" frameY="-218" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10034" x="2723" y="1223" width="351" height="596" frameX="-229" frameY="-194" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10035" x="2723" y="1223" width="351" height="596" frameX="-229" frameY="-194" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10036" x="1834" y="2477" width="606" height="349" rotated="true" frameX="-226" frameY="-184" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10037" x="1834" y="2477" width="606" height="349" rotated="true" frameX="-226" frameY="-184" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10038" x="1967" y="1" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10039" x="1967" y="1" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10040" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10041" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10042" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10043" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10044" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10045" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10046" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10047" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10048" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10049" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10050" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10051" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10052" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10053" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10054" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10055" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10056" x="1967" y="612" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10057" x="1942" y="1223" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10058" x="1942" y="1223" width="348" height="608" frameX="-227" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10059" x="2747" y="608" width="348" height="602" frameX="-223" frameY="-188" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10060" x="2747" y="608" width="348" height="602" frameX="-223" frameY="-188" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10061" x="2747" y="1" width="349" height="604" frameX="-222" frameY="-186" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10062" x="2747" y="1" width="349" height="604" frameX="-222" frameY="-186" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10063" x="1" y="2134" width="608" height="429" rotated="true" frameX="-235" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10064" x="1" y="2134" width="608" height="429" rotated="true" frameX="-235" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10065" x="1" y="2566" width="607" height="419" rotated="true" frameX="-228" frameY="-183" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10066" x="1" y="2566" width="607" height="419" rotated="true" frameX="-228" frameY="-183" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10067" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10068" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10069" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10070" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10071" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10072" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10073" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10074" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10075" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10076" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10077" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10078" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10079" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10080" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10081" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10082" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10083" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10084" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10085" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10086" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10087" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10088" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10089" x="612" y="2134" width="608" height="420" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10090" x="1223" y="2052" width="608" height="421" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10091" x="2318" y="1" width="426" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10092" x="2318" y="1" width="426" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10093" x="2318" y="1" width="426" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10094" x="2293" y="1223" width="427" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10095" x="2293" y="1223" width="427" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10096" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10097" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10098" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10099" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10100" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10101" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10102" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10103" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10104" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10105" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10106" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10107" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10108" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10109" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10110" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10111" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10112" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10113" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10114" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10115" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10116" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10117" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10118" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10119" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10120" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10121" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10122" x="2318" y="612" width="425" height="608" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10123" x="1834" y="2048" width="608" height="426" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10124" x="1834" y="2048" width="608" height="426" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10125" x="1223" y="2476" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10126" x="1223" y="2476" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10127" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10128" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10129" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10130" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10131" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10132" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10133" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10134" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10135" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10136" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10137" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10138" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10139" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10140" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10141" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10142" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10143" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10144" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10145" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10146" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+	<SubTexture name="cordjumpanim instance 10147" x="612" y="2557" width="608" height="425" rotated="true" frameX="-230" frameY="-182" frameWidth="739" frameHeight="1005"/>
+</TextureAtlas>

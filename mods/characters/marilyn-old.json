@@ -1,0 +1,189 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "idle instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"name": "idle instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right skrthc instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upsketch instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftsketch instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-144
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down sketch instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "stressedidle instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "stressedidle instance 1",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		},
+		{
+			"offsets": [
+				-18,
+				-8
+			],
+			"indices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,20,20,20],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "laughing instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MARILYN_ASSETS",
+	"position": [
+		-100,
+		-110
+	],
+	"healthicon": "marilyn",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		165,
+		205
+	],
+	"camera_position": [
+		90,
+		50
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

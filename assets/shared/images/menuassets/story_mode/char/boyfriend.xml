@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="boyfriend.png" width="362" height="1820">
+	<SubTexture name="idle instance 10000" x="1" y="1467" width="357" height="352" frameX="-1" frameY="-18" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10001" x="1" y="1467" width="357" height="352" frameX="-1" frameY="-18" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10002" x="1" y="748" width="359" height="354" frameX="-0" frameY="-17" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10003" x="1" y="748" width="359" height="354" frameX="-0" frameY="-17" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10004" x="1" y="1105" width="357" height="359" frameX="-2" frameY="-12" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10005" x="1" y="1105" width="357" height="359" frameX="-2" frameY="-12" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10006" x="1" y="375" width="360" height="370" frameX="-1" frameY="-1" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10007" x="1" y="375" width="360" height="370" frameX="-1" frameY="-1" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10008" x="1" y="1" width="360" height="371" frameX="-1" frameY="-0" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10009" x="1" y="1" width="360" height="371" frameX="-1" frameY="-0" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10010" x="1" y="1" width="360" height="371" frameX="-1" frameY="-0" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10011" x="1" y="1" width="360" height="371" frameX="-1" frameY="-0" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10012" x="1" y="1" width="360" height="371" frameX="-1" frameY="-0" frameWidth="361" frameHeight="371"/>
+	<SubTexture name="idle instance 10013" x="1" y="1" width="360" height="371" frameX="-1" frameY="-0" frameWidth="361" frameHeight="371"/>
+</TextureAtlas>

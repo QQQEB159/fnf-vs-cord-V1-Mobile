@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="maxdesignpro.png" width="421" height="1622">
+	<SubTexture name="max designer instance 10000" x="1" y="814" width="419" height="807" frameX="-0" frameY="-1" frameWidth="421" frameHeight="812"/>
+	<SubTexture name="max designer instance 10001" x="1" y="814" width="419" height="807" frameX="-0" frameY="-1" frameWidth="421" frameHeight="812"/>
+	<SubTexture name="max designer instance 10002" x="1" y="1" width="419" height="808" frameX="-0" frameY="-0" frameWidth="421" frameHeight="812"/>
+	<SubTexture name="max designer instance 10003" x="1" y="1" width="419" height="808" frameX="-0" frameY="-0" frameWidth="421" frameHeight="812"/>
+</TextureAtlas>

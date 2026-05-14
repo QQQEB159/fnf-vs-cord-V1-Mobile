@@ -1,0 +1,22 @@
+[
+	{
+		"text": "So let me get this straight...",
+		"anim": "talk-serious"
+	},
+	{
+		"text": "You're girlfriend was \"stuck\" in a TV, correct?",
+		"anim": "talk"
+	},
+	{
+		"text": "...Ok so instead of trying to help her get out, you started singing with some random guy in the same room as you?",
+		"anim": "talk-serious"
+	},
+	{
+		"text": "The same guy who rents the apartment you JUST broke into?",
+		"anim": "talk-serious"
+	},
+	{
+		"text": "...You're weird man.",
+		"anim": "talk-serious"
+	}
+]

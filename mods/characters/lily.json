@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left-alt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0 instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-1
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "right-alt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up-alt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-1
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down-alt instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				6
+			],
+			"anim": "meow",
+			"fps": 24,
+			"name": "meow instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LILY_ASSETS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lily",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		22,
+		139
+	],
+	"camera_position": [
+		100,
+		80
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

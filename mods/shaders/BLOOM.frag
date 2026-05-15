@@ -8,10 +8,9 @@ float Directions = 16.0;
 float Quality = 2.0; 
 float Size = 0.3; 
 
-vec2 Radius = Size / openfl_TextureSize.xy;
-	
 void main()
 { 
+	vec2 Radius = Size / openfl_TextureSize.xy;
 	vec2 uv = openfl_TextureCoordv.xy;
 	
 	vec2 pixel = uv * openfl_TextureSize.xy;

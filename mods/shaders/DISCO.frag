@@ -1,8 +1,6 @@
 //SHADERTOY PORT FIX
 #pragma header
-vec2 uv = openfl_TextureCoordv.xy;
-vec2 fragCoord = openfl_TextureCoordv*openfl_TextureSize;
-vec2 iResolution = openfl_TextureSize;
+
 uniform float iTime;
 uniform sampler2D iChannel1;
 #define iChannel0 bitmap
@@ -23,6 +21,8 @@ const float BIG = 1e30;
 const float EPSILON = 1e-10;
 const float THETA = (1.0 + 2.2360679775) / 2.0;
 const float INV_THETA = 1.0 / THETA;
+
+vec2 iResolution;
 
 struct Ray
 {
@@ -367,6 +367,10 @@ void setUpLights()
 
 void mainImage()
 {   
+    vec2 uv = openfl_TextureCoordv.xy;
+    vec2 fragCoord = openfl_TextureCoordv*openfl_TextureSize;
+    iResolution = openfl_TextureSize;
+    
     setUpLights();
     
     Ray ray;

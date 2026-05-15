@@ -10,7 +10,7 @@ class ShaderFunctions
 	{
 		var lua = funk.lua;
 		// shader shit
-		funk.addLocalCallback("initLuaShader", function(name:String, ?glslVersion:Int = 120) {
+		funk.addLocalCallback("initLuaShader", function(name:String, ?glslVersion:Int = 100) {
 			if (!PlayState.instance.usesShaders) return false;
 			
 			#if (!flash && MODS_ALLOWED && sys)

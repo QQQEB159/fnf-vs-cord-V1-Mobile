@@ -5,6 +5,7 @@ import flixel.FlxBasic;
 class TurboControl extends FlxBasic
 {
 	public var buttons:Null<Array<Int>> = null;
+	public var mobileButtons:Null<Array<Int>> = null;
 	public var keys:Array<Int>;
 	public var rate:Float = 0.1;
 	public var initialDelay:Float = 0.5;
@@ -30,6 +31,18 @@ class TurboControl extends FlxBasic
 			for (button in buttons)
 			{
 				if (!isPressing && FlxG.gamepads.anyPressed(button))
+				{
+					isPressing = true;
+					break;
+				}
+			}
+		}
+		
+		if (mobileButtons != null)
+		{
+			for (mobileButton in mobileButtons)
+			{
+				if (!isPressing && MobileInputManager.instance != null && MobileInputManager.instance.exists && MobileInputManager.instance.anyPressed(mobileButton))
 				{
 					isPressing = true;
 					break;
@@ -79,6 +92,7 @@ class TurboControl extends FlxBasic
 		var instance = new TurboControl(keys, rate);
 		
 		instance.buttons = ClientPrefs.gamepadBinds.get(action);
+		instance.mobileButtons = ClientPrefs.mobileBinds.get(action);
 		
 		return instance;
 	}

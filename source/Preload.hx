@@ -82,6 +82,7 @@ class Preload extends MusicBeatState
 		
 		Mods.loadTopMod();
 		
+		#if desktop
 		@:privateAccess
 		{
 			(cast FlxG.scaleMode : RatioScaleMode).fillScreen = true;
@@ -89,6 +90,7 @@ class Preload extends MusicBeatState
 			FlxG.stage.window.resizable = false;
 			CoolUtil.centerWindow();
 		}
+		#end
 		
 		sticker = new FlxSprite();
 		sticker.frames = Paths.getAtlas('stickers/1');
@@ -125,6 +127,9 @@ class Preload extends MusicBeatState
 		add(tipText);
 		tipText.y = loadingBar.y - curLoadingTxt.height - 60;
 		tipText.alpha = 0.5;
+		
+		addTouchPad("NONE", "A_B");
+		addTouchPadCamera();
 	}
 	
 	override function update(elapsed:Float)
@@ -141,10 +146,10 @@ class Preload extends MusicBeatState
 				
 				final timeLeft = Math.ceil(timerTillPreload);
 				
-				loadingTxt.text = 'Asset preloading will start in $timeLeft\nPress SPACE to cancel.\n\nOr Press Enter to start now.';
+				loadingTxt.text = 'Asset preloading will start in $timeLeft\nPress B to cancel.\n\nOr Press A to start now.';
 			}
 			
-			if (FlxG.keys.justPressed.SPACE)
+			if (FlxG.keys.justPressed.SPACE || touchPad != null && touchPad.buttonB.justPressed)
 			{
 				canceled = true;
 				curLoadingTxt.text = 'Loading Canceled';
@@ -153,7 +158,7 @@ class Preload extends MusicBeatState
 				exit();
 			}
 			
-			if (FlxG.keys.justPressed.ENTER)
+			if (FlxG.keys.justPressed.ENTER || touchPad != null && touchPad.buttonA.justPressed)
 			{
 				timerTillPreload = 0;
 			}

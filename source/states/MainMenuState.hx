@@ -156,6 +156,7 @@ class MainMenuState extends MusicBeatState
 			seenIntro = true;
 			intro();
 			
+			#if desktop
 			FlxTween.tween(FlxG.stage.window, {width: backend.Native.windowWidth}, 0.7,
 				{
 					startDelay: 0.3,
@@ -170,6 +171,7 @@ class MainMenuState extends MusicBeatState
 						CoolUtil.centerWindow();
 					}
 				});
+			#end
 				
 			updateTextPos(true);
 		}
@@ -212,6 +214,9 @@ class MainMenuState extends MusicBeatState
 		var leDate = Date.now();
 		if (leDate.getDay() == 5 && leDate.getHours() >= 18) Achievements.unlock('friday');
 		#end
+		
+		addTouchPad("UP_DOWN", "A");
+		addTouchPadCamera();
 	}
 	
 	function slideCamera(into:Bool)

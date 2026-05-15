@@ -57,6 +57,9 @@ class CopyrightState extends MusicBeatState
 		drawing.screenCenter(X);
 		
 		drawing.y = FlxG.height - drawing.height - 80;
+		
+		addTouchPad("LEFT_RIGHT", "A");
+		addTouchPadCamera();
 	}
 	
 	override function update(elapsed:Float)

@@ -58,7 +58,7 @@ class FPSCounter extends TextField
 			return;
 		}
 
-		currentFPS = currentFPS < FlxG.updateFramerate ? times.length : FlxG.updateFramerate;		
+		currentFPS = times.length < FlxG.updateFramerate ? times.length : FlxG.updateFramerate;		
 		updateText();
 		
 		deltaTimeout = 0.0;

@@ -24,6 +24,9 @@ class FlashingState extends MusicBeatState
 		warnText.setFormat(Paths.font('PixelOperator8.ttf'), 18, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
 		add(warnText);
+		
+		addTouchPad("NONE", "A_B");
+		addTouchPadCamera();
 	}
 	
 	override function update(elapsed:Float)

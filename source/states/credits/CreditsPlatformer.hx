@@ -369,6 +369,9 @@ class CreditsPlatformer extends MusicBeatState
 			
 			FlxTween.tween(mosaicShader, {value: 0.001}, 2);
 		}
+		
+		addTouchPad("LEFT_FULL", "NONE");
+		addTouchPadCamera();
 	}
 	
 	function generateCredits()

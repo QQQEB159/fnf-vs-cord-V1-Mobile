@@ -17,8 +17,8 @@ const int NUM_LIGHTS = 10;
 
 const float PI = 3.1415926535897932384626433832795;
 const float TAU = 2.0 * PI;
-const float BIG = 1e30;
-const float EPSILON = 1e-10;
+const float BIG = 1000000000000000000000000000000.0;
+const float EPSILON = 0.0000000001;
 const float THETA = (1.0 + 2.2360679775) / 2.0;
 const float INV_THETA = 1.0 / THETA;
 
@@ -368,7 +368,9 @@ void setUpLights()
 void mainImage()
 {   
     vec2 uv = openfl_TextureCoordv.xy;
-    vec2 fragCoord = openfl_TextureCoordv*openfl_TextureSize;
+    vec2 invert = openfl_TextureCoordv;
+	invert.y = 1.0 - invert.y;
+	vec2 fragCoord = invert * openfl_TextureSize;
     iResolution = openfl_TextureSize;
     
     setUpLights();
@@ -382,8 +384,4 @@ void mainImage()
    	vec3 color = renderScene(ray);
     color = toneMap(color);
     fragColor = vec4(color, 1.0);
-	
-	vec2 invert = openfl_TextureCoordv;
-	invert.y = 1.0 - invert.y;
-	vec2 fragCoord = invert * openfl_TextureSize;
 }

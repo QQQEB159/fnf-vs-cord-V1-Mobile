@@ -53,12 +53,14 @@ class TitleState extends MusicBeatState
 	function startIntro()
 	{
 		// no need to replace the scalemode instance just change its fill mode
+		#if desktop
 		@:privateAccess
 		(cast FlxG.scaleMode : RatioScaleMode).fillScreen = true;
 		FlxG.resizeWindow(FAKE_WIDTH, backend.Native.windowHeight);
 		FlxG.stage.window.resizable = false;
 		
 		CoolUtil.centerWindow();
+		#end
 		
 		persistentUpdate = true;
 		
@@ -98,7 +100,7 @@ class TitleState extends MusicBeatState
 			pStart.text = previousBlink ? '> PRESS START <' : 'PRESS START';
 		}
 		
-		if (controls.ACCEPT && can)
+		if ((controls.ACCEPT || TouchUtil.justPressed) && can)
 		{
 			can = false;
 			FlxG.sound.play(Paths.sound('main/select'));

@@ -201,7 +201,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		{
 			bgFade.alpha = FlxMath.bound(bgFade.alpha + (0.5 * elapsed), null, 0.5);
 			
-			if (Controls.instance.ACCEPT && dialogueStarted)
+			if ((Controls.instance.ACCEPT || TouchUtil.justPressed) && dialogueStarted)
 			{
 				if (textTyper.state != FINISHED)
 				{

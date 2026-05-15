@@ -209,6 +209,9 @@ class StoryMenuState extends MusicBeatState
 		changeDifficulty();
 		
 		_cacheChars();
+		
+		addTouchPad("LEFT_FULL", "A_B_X_Y");
+		addTouchPadCamera();
 	}
 	
 	function _cacheChars()
@@ -232,6 +235,9 @@ class StoryMenuState extends MusicBeatState
 	{
 		persistentUpdate = true;
 		changeWeek();
+		removeTouchPad();
+		addTouchPad("LEFT_FULL", "A_B_X_Y");
+		addTouchPadCamera();
 		super.closeSubState();
 	}
 	
@@ -273,17 +279,19 @@ class StoryMenuState extends MusicBeatState
 			else if (controls.UI_LEFT_P) changeDifficulty(-1);
 			else if (controls.UI_UP_P || controls.UI_DOWN_P) changeDifficulty();
 			
-			if (FlxG.keys.justPressed.CONTROL)
+			if (FlxG.keys.justPressed.CONTROL || touchPad != null && touchPad.buttonX.justPressed)
 			{
 				persistentUpdate = false;
 				openSubState(new substates.GameplayChangersSubstate());
+				removeTouchPad();
 			}
-			else if (controls.RESET)
+			else if (controls.RESET || touchPad != null && touchPad.buttonY.justPressed)
 			{
 				if (curWeek != 5)
 				{
 					persistentUpdate = false;
 					openSubState(new substates.ResetScoreSubState('', curDifficulty, '', curWeek));
+					removeTouchPad();
 				}
 			}
 			else if (controls.ACCEPT)

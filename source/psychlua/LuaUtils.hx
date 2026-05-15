@@ -153,8 +153,8 @@ class LuaUtils
 				{
 					var errorTitle = 'Mod name: ' + Mods.currentModDirectory;
 					var errorMsg = 'An error occurred: $e';
-					#if windows
-					lime.app.Application.current.window.alert(errorMsg, errorTitle);
+					#if (windows || mobile)
+					CoolUtil.showPopUp(errorMsg, errorTitle);
 					#end
 					trace('$errorTitle - $errorMsg');
 				}

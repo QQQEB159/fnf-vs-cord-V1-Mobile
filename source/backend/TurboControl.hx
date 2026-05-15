@@ -42,7 +42,7 @@ class TurboControl extends FlxBasic
 		{
 			for (mobileButton in mobileButtons)
 			{
-				if (!isPressing && MobileInputManager.instance != null && MobileInputManager.instance.exists && MobileInputManager.instance.anyPressed(mobileButton))
+				if (!isPressing && MobileInputManager.instance != null && MobileInputManager.instance.exists && MobileInputManager.instance.buttonPressed(mobileButton))
 				{
 					isPressing = true;
 					break;

@@ -330,12 +330,34 @@ class Shader
 
 		if (hasInfoLog || compileStatus == 0)
 		{
-			var message = (compileStatus == 0) ? "Error" : "Info";
-			message += (type == gl.VERTEX_SHADER) ? " compiling vertex shader" : " compiling fragment shader";
+			final startMessage = '${(compileStatus == 0) ? "Error" : "Info" } ${(type == gl.VERTEX_SHADER) ? "compiling vertex shader" : "compiling fragment shader"}';
+			var message = startMessage;
 			message += "\n" + shaderInfoLog;
 			message += "\n" + source;
-			if (compileStatus == 0) Log.error(message);
-			else if (hasInfoLog) Log.debug(message);
+			#if sys
+			if (compileStatus == 0)
+			{
+				try
+				{
+					if (!sys.FileSystem.exists('logs'))
+						sys.FileSystem.createDirectory('logs');
+
+					sys.io.File.saveContent('logs/' + 'ShaderCompileError.txt', '$message');
+				}
+				catch (e:haxe.Exception)
+					Log.warn('Couldn\'t save error message. (${e.message})', null);
+			}
+			#end
+			if (compileStatus == 0)
+				#if (android && !macro)
+				android.Tools.showAlertDialog("Shader Compile Error!", message, {name: "OK", func: null}, null)
+				#elseif !ios
+				openfl.Lib.application.window.alert('$message', 'Shader Compile Error!')
+				#else
+				Log.error(message)
+				#end;
+			else if (hasInfoLog)
+				Log.debug(message);
 		}
 
 		return shader;

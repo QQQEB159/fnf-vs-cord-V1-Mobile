@@ -26,6 +26,7 @@ import flixel.input.keyboard.FlxKey;
 
 import options.BaseOptionsMenu;
 import options.Option;
+import options.Option.OptionType;
 
 class MobileOptionsSubState extends BaseOptionsMenu
 {
@@ -45,7 +46,7 @@ class MobileOptionsSubState extends BaseOptionsMenu
 		title = 'Mobile Options';
 		rpcTitle = 'Mobile Options Menu'; // for Discord Rich Presence, fuck it
 
-		var option:Option = new Option('Mobile Controls', 'Choose which control to play.', '', BUTTON, true);
+		var option:Option = new Option('Mobile Controls', 'Choose which control to play.', '', OptionType.BUTTON);
 		option.onChange = () -> {
 		    openSubState(new mobile.substates.MobileControlSelectSubState());
 		    touchPad.active = touchPad.visible = false;

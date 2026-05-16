@@ -1020,7 +1020,6 @@ class PlayState extends MusicBeatState
 		
 		seenCutscene = true;
 		inCutscene = false;
-		mobileControls.instance.visible = true;
 		var ret:Dynamic = callOnScripts('onStartCountdown', null, true);
 		if (ret != FunkinLua.Function_Stop)
 		{
@@ -1045,7 +1044,7 @@ class PlayState extends MusicBeatState
 			noteUnderlay.alpha = 0;
 			FlxTween.tween(noteUnderlay, {alpha: ClientPrefs.data.noteUnderlayAlpha}, 0.7);
 			
-			startedCountdown = true;
+			startedCountdown = mobileControls.instance.visible = true;
 			Conductor.songPosition = -Conductor.crochet * 5;
 			setOnScripts('startedCountdown', true);
 			callOnScripts('onCountdownStarted', null);

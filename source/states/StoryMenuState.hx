@@ -211,7 +211,7 @@ class StoryMenuState extends MusicBeatState
 		_cacheChars();
 		
 		addTouchPad("LEFT_FULL", "A_B_X_Y");
-		addTouchPadCamera();
+		//addTouchPadCamera();
 	}
 	
 	function _cacheChars()
@@ -237,7 +237,7 @@ class StoryMenuState extends MusicBeatState
 		changeWeek();
 		removeTouchPad();
 		addTouchPad("LEFT_FULL", "A_B_X_Y");
-		addTouchPadCamera();
+		//addTouchPadCamera();
 		super.closeSubState();
 	}
 	

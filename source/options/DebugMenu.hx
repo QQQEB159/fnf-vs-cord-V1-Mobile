@@ -35,6 +35,9 @@ class DebugMenu extends MusicBeatSubstate
 		FlxTimer.wait(0.1, () -> {
 			canType = true;
 		}); // just to be safe
+		
+		addTouchPad("NONE", "B");
+		addTouchPadCamera();
 	}
 	
 	var holdBackTime:Float = 0;

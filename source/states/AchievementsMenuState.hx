@@ -170,6 +170,9 @@ class AchievementsMenuState extends MusicBeatState
 		
 		FlxG.camera.follow(camFollow, null, 0.03);
 		FlxG.camera.scroll.y = -FlxG.height;
+		
+		addTouchPad("LEFT_RIGHT", "B_C");
+		addTouchPadCamera();
 	}
 	
 	function makeAchievement(achievement:String, data:Achievement, unlocked:Bool, mod:String = null)
@@ -190,6 +193,14 @@ class AchievementsMenuState extends MusicBeatState
 	}
 	
 	public static function sortByID(Obj1:Dynamic, Obj2:Dynamic):Int return FlxSort.byValues(FlxSort.ASCENDING, Obj1.ID, Obj2.ID);
+	
+	override function closeSubState()
+	{
+		removeTouchPad();
+		addTouchPad("LEFT_RIGHT", "B_C");
+		addTouchPadCamera();
+		super.closeSubState();
+	}
 	
 	var goingBack:Bool = false;
 	
@@ -245,9 +256,10 @@ class AchievementsMenuState extends MusicBeatState
 				}
 			}
 			
-			if (controls.RESET && (options[curSelected].unlocked || options[curSelected].curProgress > 0))
+			if ((controls.RESET || touchPad != null && touchPad.buttonC.justPressed) && (options[curSelected].unlocked || options[curSelected].curProgress > 0))
 			{
 				openSubState(new ResetAchievementSubstate());
+				removeTouchPad();
 			}
 		}
 		
@@ -450,6 +462,9 @@ class ResetAchievementSubstate extends MusicBeatSubstate
 		noText.scrollFactor.set();
 		add(noText);
 		updateOptions();
+		
+		addTouchPad("LEFT_RIGHT", "A_B");
+		addTouchPadCamera();
 	}
 	
 	override function update(elapsed:Float)

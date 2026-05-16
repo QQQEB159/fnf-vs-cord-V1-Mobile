@@ -59,6 +59,11 @@ class OptionsState extends MusicBeatState
 			d: 'Adjust the gameplay.'
 		},
 		{
+			t: 'Mobile Options',
+			d: 'Change Options related to Mobile or Touch Controls.',
+			addSpacing: true
+		},
+		{
 			t: 'Debug Test',
 			d: 'Access developer mode features.',
 			addSpacing: true,
@@ -93,6 +98,7 @@ class OptionsState extends MusicBeatState
 	
 	function openSelectedSubstate(label:String)
 	{
+		if (label != "Adjust Delay and Combo") removeTouchPad();
 		switch (label)
 		{
 			case 'Controls':
@@ -107,6 +113,8 @@ class OptionsState extends MusicBeatState
 				openSubState(new options.MenuMusicSettingsSubState());
 			case 'Adjust Delay and Combo':
 				FlxG.switchState(() -> new options.NoteOffsetState());
+			case 'Mobile Options':
+				openSubState(new mobile.options.MobileOptionsSubState());
 			case 'Debug Test':
 				openSubState(new options.DebugMenu());
 			case 'Reboot Game':
@@ -192,6 +200,8 @@ class OptionsState extends MusicBeatState
 		
 		CoolUtil.setTransitionSkip(true, true);
 		
+		addTouchPad("UP_DOWN", "A_B");
+		
 		super.create();
 	}
 	
@@ -236,6 +246,10 @@ class OptionsState extends MusicBeatState
 		grpOptions.visible = selectorBG.visible = true;
 		super.closeSubState();
 		ClientPrefs.saveSettings();
+		
+		controls.isInSubstate = false;
+        removeTouchPad();
+		addTouchPad("UP_DOWN", "A_B");
 	}
 	
 	override function update(elapsed:Float)
@@ -326,6 +340,9 @@ private class ResetState extends MusicBeatSubstate
 			+ '] to return to menu.');
 		text.color = 0xFF999999;
 		add(text);
+		
+		addTouchPad("NONE", "A_B");
+		addTouchPadCamera();
 	}
 	
 	override function update(elapsed:Float)

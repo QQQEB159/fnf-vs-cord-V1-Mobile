@@ -171,6 +171,9 @@ class FreeplayMenuCord extends MusicBeatState
 		}
 		
 		MusicBeatState.currentTransition = SWIPE;
+		
+		addTouchPad("LEFT_FULL", "A_B_T");
+		addTouchPadCamera();
 	}
 	
 	function placeVinyl()
@@ -532,7 +535,7 @@ class FreeplayInteraction extends FlxTypedContainer<FlxBasic>
 				FlxG.switchState(() -> new MainMenuState());
 			}
 			
-			if ((FlxG.gamepads.anyJustPressed(X) || FlxG.keys.justPressed.T) && !dialogue.isActive)
+			if ((FlxG.gamepads.anyJustPressed(X) || FlxG.keys.justPressed.T || MusicBeatState.getState().touchPad != null && MusicBeatState.getState().touchPad.buttonT.justPressed) && !dialogue.isActive)
 			{
 				if (FlxG.random.bool(30))
 				{
@@ -901,7 +904,7 @@ class DialogueFreeplay extends FlxSprite
 		
 		typer.update(elapsed);
 		
-		if ((FlxG.gamepads.anyJustPressed(X) || FlxG.keys.justPressed.T) && isActive && infoBg.scale.x > 0)
+		if ((FlxG.gamepads.anyJustPressed(X) || FlxG.keys.justPressed.T || MusicBeatState.getState().touchPad != null && MusicBeatState.getState().touchPad.buttonT.justPressed) && isActive && infoBg.scale.x > 0)
 		{
 			if (typer.state == TYPING)
 			{

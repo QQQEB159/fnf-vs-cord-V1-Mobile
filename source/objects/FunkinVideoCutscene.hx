@@ -24,7 +24,7 @@ class FunkinVideoCutscene extends FunkinVideoSprite
 		{
 			if (canSkip && bitmap != null && bitmap.isPlaying)
 			{
-				if (Controls.instance.pressed('accept'))
+				if (Controls.instance.pressed('accept') || TouchUtil.pressed)
 				{
 					if (skipElapsed >= skipHoldTime)
 					{

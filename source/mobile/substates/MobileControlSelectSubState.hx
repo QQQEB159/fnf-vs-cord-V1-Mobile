@@ -28,6 +28,7 @@ import flixel.addons.display.FlxGridOverlay;
 import flixel.util.FlxGradient;
 import flixel.input.touch.FlxTouch;
 import flixel.ui.FlxButton as UIButton;
+import flixel.addons.transition.FlxTransitionableState;
 
 import mobile.backend.TouchUtil;
 
@@ -137,7 +138,10 @@ class MobileControlSelectSubState extends MusicBeatSubstate
 			controls.isInSubstate = FlxG.mouse.visible = false;
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			MobileData.forcedMode = null;
-			close();
+			//close();
+			FlxTransitionableState.skipNextTransIn = true;
+			FlxTransitionableState.skipNextTransOut = true;
+			FlxG.resetState();
 		});
 		exit.color = FlxColor.LIME;
 		exit.setGraphicSize(Std.int(exit.width) * 3);

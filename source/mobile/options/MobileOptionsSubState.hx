@@ -45,8 +45,15 @@ class MobileOptionsSubState extends BaseOptionsMenu
 		title = 'Mobile Options';
 		rpcTitle = 'Mobile Options Menu'; // for Discord Rich Presence, fuck it
 
-		option = new Option('Mobile Controls Opacity',
-			'Selects the opacity for the mobile buttons (careful not to put it at 0 and lose track of your buttons).', 'controlsAlpha', 'percent');
+		var option:Option = new Option('Mobile Controls', 'Choose which control to play.', '', BUTTON, true);
+		option.onChange = () -> {
+		    openSubState(new mobile.substates.MobileControlSelectSubState());
+		    touchPad.active = touchPad.visible = false;
+		}
+		addOption(option);
+		
+		var option:Option = new Option('Mobile Controls Opacity',
+			'Selects the opacity for the mobile buttons (careful not to put it at 0 and lose track of your buttons).', 'controlsAlpha', PERCENT);
 		option.scrollSpeed = 1;
 		option.minValue = 0.001;
 		option.maxValue = 1;
@@ -60,29 +67,29 @@ class MobileOptionsSubState extends BaseOptionsMenu
 		addOption(option);
 
 		#if mobile
-		option = new Option('Allow Phone Screensaver',
-			'If checked, the phone will sleep after going inactive for few seconds.\n(The time depends on your phone\'s options)', 'screensaver', 'bool');
+		var option:Option = new Option('Allow Phone Screensaver',
+			'If checked, the phone will sleep after going inactive for few seconds.\n(The time depends on your phone\'s options)', 'screensaver', BOOL);
 		option.onChange = () -> lime.system.System.allowScreenTimeout = curOption.getValue();
 		addOption(option);
 		#end
 
 		if (MobileData.mode == 3)
 		{
-			option = new Option('Hitbox Design', 'Choose how your hitbox should look like.', 'hitboxType', 'string', hintOptions);
+			var option:Option = new Option('Hitbox Design', 'Choose how your hitbox should look like.', 'hitboxType', STRING, hintOptions);
 			addOption(option);
 
-			option = new Option('Hitbox Position', 'If checked, the hitbox will be put at the bottom of the screen, otherwise will stay at the top.',
-				'hitboxPos', 'bool');
+			var option:Option = new Option('Hitbox Position', 'If checked, the hitbox will be put at the bottom of the screen, otherwise will stay at the top.',
+				'hitboxPos', BOOL);
 			addOption(option);
 		}
 
-		option = new Option('Dynamic Controls Color',
+		var option:Option = new Option('Dynamic Controls Color',
 			'If checked, the mobile controls color will be set to the notes color in your settings.\n(have effect during gameplay only)', 'dynamicColors',
-			'bool');
+			BOOL);
 		addOption(option);
 
 		#if android
-		option = new Option('Storage Type', 'Which folder Psych Engine should use?\n(CHANGING THIS MAKES DELETE YOUR OLD FOLDER!!)', 'storageType', 'string',
+		var option:Option = new Option('Storage Type', 'Which folder Psych Engine should use?\n(CHANGING THIS MAKES DELETE YOUR OLD FOLDER!!)', 'storageType', STRING,
 			storageTypes);
 		addOption(option);
 		#end

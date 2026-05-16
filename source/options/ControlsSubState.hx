@@ -138,6 +138,8 @@ class ControlsSubState extends MusicBeatSubstate
 		createTexts();
 		
 		(cast FlxG.state : OptionsState).description.typer.startTyping('');
+		
+		addTouchPad("NONE", "B");
 	}
 	
 	var lastID:Int = 0;
@@ -260,7 +262,7 @@ class ControlsSubState extends MusicBeatSubstate
 		
 		if (!binding)
 		{
-			if (FlxG.keys.justPressed.ESCAPE || FlxG.gamepads.anyJustPressed(B))
+			if (controls.BACK || FlxG.gamepads.anyJustPressed(B))
 			{
 				close();
 				return;

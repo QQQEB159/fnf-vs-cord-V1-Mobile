@@ -135,13 +135,14 @@ class MobileControlSelectSubState extends MusicBeatSubstate
 			MobileData.mode = curOption;
 			if (options[curOption] == 'Pad-Custom')
 				MobileData.setTouchPadCustom(control.touchPad);
-			controls.isInSubstate = FlxG.mouse.visible = false;
+			FlxG.mouse.visible = false;
+			controls.isInSubstate = true;
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			MobileData.forcedMode = null;
-			//close();
-			FlxTransitionableState.skipNextTransIn = true;
-			FlxTransitionableState.skipNextTransOut = true;
-			FlxG.resetState();
+			close();
+			//FlxTransitionableState.skipNextTransIn = true;
+			//FlxTransitionableState.skipNextTransOut = true;
+			//FlxG.resetState();
 		});
 		exit.color = FlxColor.LIME;
 		exit.setGraphicSize(Std.int(exit.width) * 3);

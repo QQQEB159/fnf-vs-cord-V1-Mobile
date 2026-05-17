@@ -199,7 +199,7 @@ class GalleryState extends MusicBeatState
 		changeSel();
 		
 		addTouchPad("LEFT_FULL", "A_B");
-		addTouchPadCamera();
+		//addTouchPadCamera();
 		
 		super.create();
 	}

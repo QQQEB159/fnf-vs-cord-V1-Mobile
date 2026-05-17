@@ -513,6 +513,7 @@ class PlayState extends MusicBeatState
 		noteGroup.add(strumLineNotes);
 		
 		var splash:NoteSplash = new NoteSplash(100, 100);
+		splash.setupNoteSplash(100, 100);
 		grpNoteSplashes.add(splash);
 		splash.alpha = 0.000001; // cant make it invisible or it won't allow precaching
 		

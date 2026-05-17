@@ -842,6 +842,8 @@ class DialogueFreeplay extends FlxSprite
 		reminderBg.cameras = cameras;
 		reminderText.cameras = cameras;
 		
+		if (MusicBeatState.getState().touchPad != null) MusicBeatState.getState().touchPad.cameras = cameras;
+		
 		bg.scrollFactor.copyFrom(scrollFactor);
 		text.scrollFactor.copyFrom(scrollFactor);
 		skip.scrollFactor.copyFrom(scrollFactor);

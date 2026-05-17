@@ -445,7 +445,7 @@ class RosieSimV2 extends MusicBeatState
 			updateOutfitSprAnim(false);
 		}
 		
-		if (controls.BACK)
+		if (controls.BACK || FlxG.android.justReleased.BACK)
 		{
 			enabled = false;
 			CoolUtil.playMenuMusic();

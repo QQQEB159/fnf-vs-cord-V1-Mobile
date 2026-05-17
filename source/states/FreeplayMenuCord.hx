@@ -157,7 +157,7 @@ class FreeplayMenuCord extends MusicBeatState
 		
 		FlxG.camera.zoom = 0.9;
 		
-		addTouchPad("LEFT_FULL", "A_B_T");
+		addTouchPad("LEFT_FULL", "A_B_C_T");
 		addTouchPadCamera();
 		
 		if (doIntro)
@@ -174,6 +174,14 @@ class FreeplayMenuCord extends MusicBeatState
 		}
 		
 		MusicBeatState.currentTransition = SWIPE;
+	}
+	
+	override function closeSubState() {
+		persistentUpdate = true;
+		super.closeSubState();
+		removeTouchPad();
+		addTouchPad("LEFT_FULL", "A_B_C_T");
+	    touchPad.cameras = [touchPadCam];
 	}
 	
 	function placeVinyl()
@@ -517,9 +525,10 @@ class FreeplayInteraction extends FlxTypedContainer<FlxBasic>
 				
 				if (holdTime > 0.5 && checkNewHold - checkLastHold > 0) changeSel((checkNewHold - checkLastHold) * (Controls.instance.UI_UP ? -1 : 1));
 			}
-			else if (FlxG.keys.justPressed.CONTROL || FlxG.gamepads.anyJustPressed(Y))
+			else if (FlxG.keys.justPressed.CONTROL || FlxG.gamepads.anyJustPressed(Y) || MusicBeatState.getState().touchPad != null && MusicBeatState.getState().touchPad.buttonC.justPressed)
 			{
 				FlxG.state.openSubState(new GameplayChangersSubstate());
+				MusicBeatState.getState().removeTouchPad();
 				FlxG.state.persistentUpdate = false;
 				return;
 			}

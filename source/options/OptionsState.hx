@@ -202,7 +202,7 @@ class OptionsState extends MusicBeatState
 		
 		CoolUtil.setTransitionSkip(true, true);
 		
-		addTouchPad("UP_DOWN", "A_B_C");
+		addTouchPad("UP_DOWN", "A_B");
 		
 		super.create();
 	}
@@ -252,7 +252,7 @@ class OptionsState extends MusicBeatState
 		controls.isInSubstate = false;
 		persistentUpdate = true;
         removeTouchPad();
-		addTouchPad("UP_DOWN", "A_B_C");
+		addTouchPad("UP_DOWN", "A_B");
 	}
 	
 	override function update(elapsed:Float)
@@ -282,12 +282,6 @@ class OptionsState extends MusicBeatState
 				
 				openSelectedSubstate(options[curSelected].t);
 			}
-			
-			if (touchPad.buttonC.justPressed || FlxG.keys.justPressed.CONTROL && controls.mobileC)
-		    {
-			    persistentUpdate = false;
-			    openSubState(new MobileControlSelectSubState());
-		    }
 		}
 		
 		if (grpOptions.members[curSelected] != null)

@@ -147,7 +147,7 @@ class DebugMenu extends MusicBeatSubstate
 					typingTxt.text = typingTxt.text.substring(0, typingTxt.text.length - 1);
 			    }
 			    e.preventDefault();
-			    break;
+			    return;
 	        default:
 	            //nothing
 	    }

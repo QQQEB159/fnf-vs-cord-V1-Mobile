@@ -18,6 +18,7 @@ class DebugMenu extends MusicBeatSubstate
 	var cursorTimer:Float = 0;
 	
 	var canType:Bool = false;
+	var canBack:Bool = false;
 	
 	var keyboard:FlxSprite;
 	
@@ -142,10 +143,9 @@ class DebugMenu extends MusicBeatSubstate
 				FlxG.stage.window.textInputEnabled = false;
 	            e.preventDefault();
 	        case Keyboard.BACKSPACE:
-				if (!e.repeat && typingTxt.text.length > 0)
-				{
-					typingTxt.text = typingTxt.text.substring(0, typingTxt.text.length - 1);
-			    }
+				canBack = true;
+				if (canBack && typingTxt.text.length > 0) typingTxt.text = typingTxt.text.substring(0, typingTxt.text.length - 1);
+				canBack = false;
 			    e.preventDefault();
 			    return;
 	        default:

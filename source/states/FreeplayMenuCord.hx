@@ -181,7 +181,7 @@ class FreeplayMenuCord extends MusicBeatState
 		super.closeSubState();
 		removeTouchPad();
 		addTouchPad("LEFT_FULL", "A_B_C_T");
-	    touchPad.cameras = [touchPadCam];
+	    addTouchPadCamera();
 	}
 	
 	function placeVinyl()

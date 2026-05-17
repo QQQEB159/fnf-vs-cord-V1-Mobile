@@ -4,6 +4,10 @@ import flixel.input.keyboard.FlxKey;
 
 import backend.InputFormatter;
 
+import openfl.events.KeyboardEvent;
+import openfl.events.TextEvent;
+import openfl.ui.Keyboard;
+
 class DebugMenu extends MusicBeatSubstate
 {
 	final MAX_LENGTH:Int = 939;
@@ -14,6 +18,8 @@ class DebugMenu extends MusicBeatSubstate
 	var cursorTimer:Float = 0;
 	
 	var canType:Bool = false;
+	
+	var keyboard:FlxSprite;
 	
 	override function create()
 	{
@@ -30,6 +36,11 @@ class DebugMenu extends MusicBeatSubstate
 		cursor = new FlxSprite().makeGraphic(16, 22, 0xFF999999);
 		add(cursor);
 		
+		keyboard = new FlxSprite();
+	    keyboard.loadGraphic(Paths.image('keyboard', 'mobile'));
+	    keyboard.x = FlxG.width - (keyboard.width + 25);
+	    add(keyboard);
+		
 		(cast FlxG.state : OptionsState).description.typer.startTyping('For testing purposes only.');
 		
 		FlxTimer.wait(0.1, () -> {
@@ -38,6 +49,9 @@ class DebugMenu extends MusicBeatSubstate
 		
 		addTouchPad("NONE", "B");
 		addTouchPadCamera();
+		
+		FlxG.stage.addEventListener(KeyboardEvent.KEY_DOWN, onAnyKeyDown);
+		FlxG.stage.addEventListener(TextEvent.TEXT_INPUT, onTextInput);
 	}
 	
 	var holdBackTime:Float = 0;
@@ -48,6 +62,11 @@ class DebugMenu extends MusicBeatSubstate
 		
 		if (canType)
 		{
+			if (keyboard != null && FlxG.mouse.overlaps(keyboard) && FlxG.mouse.justPressed)
+		    { 
+		        FlxG.stage.window.textInputEnabled = true;
+		    }
+			
 			if (typingTxt.text.length == 0 && controls.BACK)
 			{
 				FlxG.sound.play(Paths.sound('settingsBack'));
@@ -110,6 +129,35 @@ class DebugMenu extends MusicBeatSubstate
 		// abit scuffed
 		cursor.x = typingTxt.x + (typingTxt.text.length > 0 ? (typingTxt.textField.getLineLength(typingTxt.textField.numLines - 1) * 15) : 0);
 		cursor.y = typingTxt.y + (18 * (typingTxt.textField.numLines - 1));
+	}
+	
+	private function onAnyKeyDown(e:KeyboardEvent):Void 
+	{
+	    switch (e.keyCode) 
+	    {
+	        case Keyboard.ENTER:
+	            final txt = typingTxt.text;
+				typingTxt.text = '';
+				entered(txt);
+				FlxG.stage.window.textInputEnabled = false;
+	            e.preventDefault();
+	        case Keyboard.BACKSPACE:
+				if (typingTxt.text.length > 0)
+				{
+					typingTxt.text = typingTxt.text.substring(0, typingTxt.text.length - 1);
+			    }
+			    e.preventDefault();
+	        default:
+	            //nothing
+	    }
+	}
+	
+	private function onTextInput(e:TextEvent):Void 
+	{
+	    var char = e.text;
+	    typingTxt.text += char;
+	  
+	    if (typingTxt.text.length > MAX_LENGTH) typingTxt.text = typingTxt.text.substring(0, MAX_LENGTH);
 	}
 	
 	function entered(txt:String)
@@ -213,5 +261,12 @@ class DebugMenu extends MusicBeatSubstate
 			
 			FlxG.sound.music.volume = 0;
 		}
+	}
+	
+	override function destroy()
+	{
+		FlxG.stage.removeEventListener(KeyboardEvent.KEY_DOWN, onAnyKeyDown);
+		FlxG.stage.removeEventListener(TextEvent.TEXT_INPUT, onTextInput);
+		super.destroy();
 	}
 }

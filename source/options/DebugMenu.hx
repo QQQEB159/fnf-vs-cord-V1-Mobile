@@ -52,6 +52,7 @@ class DebugMenu extends MusicBeatSubstate
 		addTouchPadCamera();
 		
 		FlxG.stage.addEventListener(KeyboardEvent.KEY_DOWN, onAnyKeyDown);
+		FlxG.stage.addEventListener(KeyboardEvent.KEY_UP, onAnyKeyUp);
 		FlxG.stage.addEventListener(TextEvent.TEXT_INPUT, onTextInput);
 	}
 	
@@ -143,7 +144,6 @@ class DebugMenu extends MusicBeatSubstate
 				FlxG.stage.window.textInputEnabled = false;
 	            e.preventDefault();
 	        case Keyboard.BACKSPACE:
-				canBack = true;
 				if (canBack && typingTxt.text.length > 0) typingTxt.text = typingTxt.text.substring(0, typingTxt.text.length - 1);
 				canBack = false;
 			    e.preventDefault();
@@ -152,6 +152,11 @@ class DebugMenu extends MusicBeatSubstate
 	            //nothing
 	    }
 	}
+	
+	private function onAnyKeyUp(e:KeyboardEvent):Void 
+    {
+        if (e.keyCode == Keyboard.BACKSPACE) canBack = true;
+    }
 	
 	private function onTextInput(e:TextEvent):Void 
 	{
@@ -267,6 +272,7 @@ class DebugMenu extends MusicBeatSubstate
 	override function destroy()
 	{
 		FlxG.stage.removeEventListener(KeyboardEvent.KEY_DOWN, onAnyKeyDown);
+		FlxG.stage.removeEventListener(KeyboardEvent.KEY_UP, onAnyKeyUp);
 		FlxG.stage.removeEventListener(TextEvent.TEXT_INPUT, onTextInput);
 		super.destroy();
 	}

@@ -18,6 +18,8 @@ import options.OptionsText;
 
 import backend.StageData;
 
+import mobile.substates.MobileControlSelectSubState;
+
 class OptionsState extends MusicBeatState
 {
 	public static var onPlayState:Bool = false;
@@ -200,7 +202,7 @@ class OptionsState extends MusicBeatState
 		
 		CoolUtil.setTransitionSkip(true, true);
 		
-		addTouchPad("UP_DOWN", "A_B");
+		addTouchPad("UP_DOWN", "A_B_C");
 		
 		super.create();
 	}
@@ -229,7 +231,7 @@ class OptionsState extends MusicBeatState
 	
 	override function openSubState(SubState:FlxSubState)
 	{
-		if (SubState is BaseOptionsMenu || SubState is DebugMenu || SubState is ControlsSubState || SubState is ResetState) grpOptions.visible = selectorBG.visible = false;
+		if (SubState is BaseOptionsMenu || SubState is DebugMenu || SubState is ControlsSubState || SubState is ResetState || SubState is MobileControlSelectSubState) grpOptions.visible = selectorBG.visible = false;
 		super.openSubState(SubState);
 	}
 	
@@ -250,7 +252,7 @@ class OptionsState extends MusicBeatState
 		controls.isInSubstate = false;
 		persistentUpdate = true;
         removeTouchPad();
-		addTouchPad("UP_DOWN", "A_B");
+		addTouchPad("UP_DOWN", "A_B_C");
 	}
 	
 	override function update(elapsed:Float)
@@ -280,6 +282,12 @@ class OptionsState extends MusicBeatState
 				
 				openSelectedSubstate(options[curSelected].t);
 			}
+			
+			if (touchPad.buttonC.justPressed || FlxG.keys.justPressed.CONTROL && controls.mobileC)
+		    {
+			    persistentUpdate = false;
+			    openSubState(new MobileControlSelectSubState());
+		    }
 		}
 		
 		if (grpOptions.members[curSelected] != null)

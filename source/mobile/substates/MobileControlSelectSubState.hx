@@ -135,8 +135,7 @@ class MobileControlSelectSubState extends MusicBeatSubstate
 			MobileData.mode = curOption;
 			if (options[curOption] == 'Pad-Custom')
 				MobileData.setTouchPadCustom(control.touchPad);
-			FlxG.mouse.visible = false;
-			controls.isInSubstate = true;
+			controls.isInSubstate = FlxG.mouse.visible = false;
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			MobileData.forcedMode = null;
 			close();

@@ -172,7 +172,11 @@ class AchievementsMenuState extends MusicBeatState
 		FlxG.camera.scroll.y = -FlxG.height;
 		
 		addTouchPad("LEFT_FULL", "B_C");
-		//addTouchPadCamera();
+		addTouchPadCamera();
+		
+		final camera = new FlxCamera();
+		camera.bgColor = 0x0;
+		FlxG.cameras.add(camera, false);
 	}
 	
 	function makeAchievement(achievement:String, data:Achievement, unlocked:Bool, mod:String = null)
@@ -197,7 +201,7 @@ class AchievementsMenuState extends MusicBeatState
 	override function closeSubState()
 	{
 		removeTouchPad();
-		addTouchPad("LEFT_RIGHT", "B_C");
+		addTouchPad("LEFT_FULL", "B_C");
 		addTouchPadCamera();
 		super.closeSubState();
 	}

@@ -157,6 +157,9 @@ class FreeplayMenuCord extends MusicBeatState
 		
 		FlxG.camera.zoom = 0.9;
 		
+		addTouchPad("LEFT_FULL", "A_B_T");
+		addTouchPadCamera();
+		
 		if (doIntro)
 		{
 			placeVinyl();
@@ -171,9 +174,6 @@ class FreeplayMenuCord extends MusicBeatState
 		}
 		
 		MusicBeatState.currentTransition = SWIPE;
-		
-		addTouchPad("LEFT_FULL", "A_B_T");
-		addTouchPadCamera();
 	}
 	
 	function placeVinyl()
@@ -405,7 +405,7 @@ class FreeplayInteraction extends FlxTypedContainer<FlxBasic>
 		
 		updateIconPosition(9999, 0.3);
 		
-		cameras = [FlxG.cameras.list[FlxG.cameras.list.length - 1]];
+		cameras = [FlxG.cameras.list[FlxG.cameras.list.length - 2]];
 	}
 	
 	inline function getMaxPages():Int
@@ -841,8 +841,6 @@ class DialogueFreeplay extends FlxSprite
 		
 		reminderBg.cameras = cameras;
 		reminderText.cameras = cameras;
-		
-		if (MusicBeatState.getState().touchPad != null) MusicBeatState.getState().touchPad.cameras = cameras;
 		
 		bg.scrollFactor.copyFrom(scrollFactor);
 		text.scrollFactor.copyFrom(scrollFactor);

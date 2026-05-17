@@ -176,13 +176,13 @@ class FreeplayMenuCord extends MusicBeatState
 		MusicBeatState.currentTransition = SWIPE;
 	}
 	
-	override function closeSubState() {
+	/*override function closeSubState() {
 		persistentUpdate = true;
 		super.closeSubState();
 		removeTouchPad();
 		addTouchPad("LEFT_FULL", "A_B_C_T");
 	    addTouchPadCamera();
-	}
+	}*/
 	
 	function placeVinyl()
 	{
@@ -528,7 +528,7 @@ class FreeplayInteraction extends FlxTypedContainer<FlxBasic>
 			else if (FlxG.keys.justPressed.CONTROL || FlxG.gamepads.anyJustPressed(Y) || MusicBeatState.getState().touchPad != null && MusicBeatState.getState().touchPad.buttonC.justPressed)
 			{
 				FlxG.state.openSubState(new GameplayChangersSubstate());
-				MusicBeatState.getState().removeTouchPad();
+				//MusicBeatState.getState().removeTouchPad();
 				FlxG.state.persistentUpdate = false;
 				return;
 			}

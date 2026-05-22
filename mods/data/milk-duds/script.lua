@@ -108,7 +108,7 @@ function onCreate()
 	initLuaShader('DISCO')
 	if flashingLights and shadersEnabled then
 		setSpriteShader('shaderImage', 'DISCO')
-		setProperty('shaderImage.visible', true);
+		setProperty('shaderImage.visible', false);
 	end
 	setProperty('skipCountdown', true)
 	
@@ -251,7 +251,7 @@ end
 	
 	[68] = function()
 		if flashingLights and shadersEnabled then
-			setProperty('shaderImage.visible', true)
+			setProperty('shaderImage.visible', false)
 		end
 	end,
 	
@@ -306,7 +306,7 @@ end
 	
 	[228] = function()
 		if flashingLights and shadersEnabled then
-			setProperty('shaderImage.visible', true)
+			setProperty('shaderImage.visible', false)
 		end
 	end,
 	

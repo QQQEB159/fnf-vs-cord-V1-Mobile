@@ -462,7 +462,7 @@ class ResetAchievementSubstate extends MusicBeatSubstate
 		add(noText);
 		updateOptions();
 		
-		addTouchPad("LEFT_RIGHT", "A_B");
+		addTouchPad("LEFT_RIGHT", "A");
 		addTouchPadCamera();
 	}
 	

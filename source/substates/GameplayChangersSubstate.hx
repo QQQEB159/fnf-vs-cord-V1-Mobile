@@ -197,7 +197,9 @@ class GameplayChangersSubstate extends MusicBeatSubstate
 		
 		if (controls.BACK)
 		{
-			close();
+			FlxTimer.wait(0.1, ()->{
+			    close();
+			});
 			ClientPrefs.saveSettings();
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 		}
@@ -325,7 +327,7 @@ class GameplayChangersSubstate extends MusicBeatSubstate
 				}
 			}
 			
-			if (controls.RESET)
+			if (controls.RESET || touchPad != null && touchPad.buttonC.justPressed)
 			{
 				for (i in 0...optionsArray.length)
 				{

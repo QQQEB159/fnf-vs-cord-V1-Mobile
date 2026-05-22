@@ -62,6 +62,8 @@ class ResultsScreen extends MusicBeatSubstate
 		press.alignment = CENTER;
 		add(press);
 		press.y = FlxG.height - press.height - 15;
+		
+		addTouchPad("NONE", "A_B");
 	}
 	
 	override function update(elapsed:Float)

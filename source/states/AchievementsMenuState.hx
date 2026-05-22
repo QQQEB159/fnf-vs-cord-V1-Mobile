@@ -177,7 +177,7 @@ class AchievementsMenuState extends MusicBeatState
 	
 	override function closeSubState()
 	{
-		touchPad.active = touchPad.visible = persistentUpdate = true;
+		MusicBeatState.getState().touchPad.visible = persistentUpdate = true;
 		
 		super.closeSubState();
 	}
@@ -258,7 +258,7 @@ class AchievementsMenuState extends MusicBeatState
 			if ((controls.RESET || touchPad != null && touchPad.buttonC.justPressed) && (options[curSelected].unlocked || options[curSelected].curProgress > 0))
 			{
 				openSubState(new ResetAchievementSubstate());
-				touchPad.active = touchPad.visible = persistentUpdate = false;
+				MusicBeatState.getState().touchPad.visible = persistentUpdate = false;
 			}
 		}
 		

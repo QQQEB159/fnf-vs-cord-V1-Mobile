@@ -142,10 +142,10 @@ class DebugMenu extends MusicBeatSubstate
 				FlxG.stage.window.textInputEnabled = false;
 	            e.preventDefault();
 	        case Keyboard.BACKSPACE:
-				//if (typingTxt.text.length > 0) typingTxt.text = typingTxt.text.substring(0, typingTxt.text.length - 1);
+				if (typingTxt.text.length > 0) typingTxt.text = typingTxt.text.substring(0, typingTxt.text.length - 1);
 			    e.preventDefault();
 	        default:
-	            //nothing
+	            e.preventDefault();
 	    }
 	}
 	

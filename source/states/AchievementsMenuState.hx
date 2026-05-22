@@ -175,6 +175,13 @@ class AchievementsMenuState extends MusicBeatState
 		addTouchPadCamera();
 	}
 	
+	override function closeSubState()
+	{
+		touchPad.active = touchPad.visible = persistentUpdate = true;
+		
+		super.closeSubState();
+	}
+	
 	function makeAchievement(achievement:String, data:Achievement, unlocked:Bool, mod:String = null)
 	{
 		var unlocked:Bool = Achievements.isUnlocked(achievement);
@@ -251,6 +258,7 @@ class AchievementsMenuState extends MusicBeatState
 			if ((controls.RESET || touchPad != null && touchPad.buttonC.justPressed) && (options[curSelected].unlocked || options[curSelected].curProgress > 0))
 			{
 				openSubState(new ResetAchievementSubstate());
+				touchPad.active = touchPad.visible = persistentUpdate = false;
 			}
 		}
 		
@@ -508,7 +516,9 @@ class ResetAchievementSubstate extends MusicBeatSubstate
 				
 				FlxG.sound.play(Paths.sound('cancelMenu'));
 			}
-			close();
+			FlxTimer.wait(0.1, ()->{
+			    close();
+			});
 			return;
 		}
 	}
